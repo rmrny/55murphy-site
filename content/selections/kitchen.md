@@ -38,11 +38,11 @@ Allowance in proposal: $16,100 (material only - labor included in framing)
 Allowance in proposal: $5,750 (material + labor)
 
 ## Appliances (Owner Supplied & Installed)
-| Appliance | Brand / Model | Dimensions | Utility Needs | Status |
-|-----------|--------------|------------|--------------|--------|
-| Refrigerator | LG 28.6 cu ft 4-Door French Door Smart — Stainless Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/lg-28-6-cu-ft-4-door-french-door-smart-refrigerator-with-water-dispenser-stainless-steel/JJ8VPZ6C4S) | Water line needed | Existing |
-| Cooktop | TBD | TBD | Gas | Shown on plans |
-| Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA — Stainless Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/kitchenaid-24-top-control-built-in-stainless-steel-tub-dishwasher-with-3rd-rack-360-max-jets-44-dba-stainless-steel/J3KHV8ZCLG) | Standard | Existing |
+| Appliance | Brand / Model | Link | Image | Utility Needs | Status |
+|-----------|--------------|------|-------|--------------|--------|
+| Refrigerator | LG 28.6 cu ft 4-Door French Door Smart — Stainless Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/lg-28-6-cu-ft-4-door-french-door-smart-refrigerator-with-water-dispenser-stainless-steel/JJ8VPZ6C4S) | ![](images/lg-french-door-fridge.jpg) | Water line needed | Existing |
+| Cooktop | TBD | - | - | Gas | Shown on plans |
+| Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA — Stainless Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/kitchenaid-24-top-control-built-in-stainless-steel-tub-dishwasher-with-3rd-rack-360-max-jets-44-dba-stainless-steel/J3KHV8ZCLG) | ![](images/kitchenaid-dishwasher.jpg) | Standard | Existing |
 | Range Hood / Vent | TBD | TBD | TBD | Needs selection |
 | Microwave | TBD | TBD | TBD | Needs selection |
 

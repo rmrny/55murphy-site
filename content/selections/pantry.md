@@ -12,9 +12,9 @@ title: Pantry
 | West | Open wood shelving | - | Design TBD |
 
 ## Appliances
-| Appliance | Brand / Model | Status |
-|-----------|--------------|--------|
-| Chest Freezer | Insignia 7 cu ft Garage Ready — White (new) | [Best Buy](https://www.bestbuy.com/product/insignia-7-cu-ft-garage-ready-chest-freezer-white/J2FPJK9PJ6) | Selected |
+| Appliance | Brand / Model | Link | Image | Status |
+|-----------|--------------|------|-------|--------|
+| Chest Freezer | Insignia 7 cu ft Garage Ready — White (new) | [Best Buy](https://www.bestbuy.com/product/insignia-7-cu-ft-garage-ready-chest-freezer-white/J2FPJK9PJ6) | ![](images/insignia-chest-freezer.jpg) | Selected |
 
 ## Open Questions
 - Wine fridge? Yes / No
