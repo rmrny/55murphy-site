@@ -10,7 +10,7 @@ Interior elevations exist on sheet A421 showing four wall views with washer/drye
 | Surface | Material | Color | Status |
 |---------|----------|-------|--------|
 | North | White (whole-house white TBD) | TBD | Pending whole-house selection |
-| East | Wallpaper — NextWall Hampton Blue Peel & Stick | [Lowes](https://www.lowes.com/pd/NextWall-30-75-sq-ft-Hampton-Blue-Vinyl-Floral-Self-adhesive-Peel-and-Stick-Wallpaper/5014409287) | ![](/selections/images/nextwall-hampton-blue-wallpaper.jpg) | Selected |
+| East | Wallpaper — NextWall Hampton Blue Peel & Stick | [Lowes](https://www.lowes.com/pd/NextWall-30-75-sq-ft-Hampton-Blue-Vinyl-Floral-Self-adhesive-Peel-and-Stick-Wallpaper/5014409287) | ![](/selections/images/nextwall-hampton-blue-wallpaper.avif) | Selected |
 | South | Window + Cabinets | White (whole-house white TBD) | Pending whole-house selection |
 | West | Washer/Dryer wall | White (whole-house white TBD) | Pending whole-house selection |
 
