@@ -32,7 +32,10 @@ title: Paint Schedule
 | Kids - Alice | All | TBD | TBD | TBD | TBD | Needs selection |
 | Kids - Bobby | All | TBD | TBD | TBD | TBD | Needs selection |
 | 2nd Floor Bath | Walls | White | TBD | TBD | TBD | Needs selection |
-| Laundry | All | TBD | TBD | TBD | TBD | Needs selection |
+| Laundry | Cabinets | Blue | Sherwin Williams | Soar (SW 6799) | TBD | Selected |
+| Laundry | Walls (N/S/W) | White | TBD | Whole-house white TBD | TBD | Pending whole-house selection |
+| Laundry | Wall (E) | Wallpaper | NextWall | Hampton Blue Peel & Stick | - | Selected |
+| Laundry | Ceiling | Flat white | TBD | Whole-house flat white TBD | Flat | Pending whole-house selection |
 | Sitting | All | TBD | TBD | TBD | TBD | Needs selection |
 | Cabana | All | White | TBD | TBD | TBD | Color selected |
 | Outdoor Bath | Ceiling | White | TBD | TBD | TBD | Waterproof gyp |
