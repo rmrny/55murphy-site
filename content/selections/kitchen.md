@@ -48,6 +48,11 @@ Allowance in proposal: $5,750 (material + labor)
 
 **Important:** Appliance cutsheets needed for framing and MEP coordination. $0 in proposal - all owner cost.
 
+## Fixtures
+| Item | Brand / Model | Finish | Status |
+|------|--------------|--------|--------|
+| Kitchen Faucet | [Kohler Crue Semi-Professional K-22973-2MB](https://www.kohler.com/en/products/kitchen-faucets/shop-kitchen-faucets/crue-semi-professional-kitchen-sink-faucet-w-three-function-sprayhead-22973?skuId=22973-2MB) | Moderne Brass | SELECTED |
+
 ## Ceiling
 | Material | Color | Brand / Product | Status |
 |----------|-------|----------------|--------|

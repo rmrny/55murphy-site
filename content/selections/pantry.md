@@ -11,6 +11,12 @@ title: Pantry
 | South | Open wood shelving | - | Design TBD |
 | West | Open wood shelving | - | Design TBD |
 
+## Fixtures
+| Item | Brand / Model | Finish | Status |
+|------|--------------|--------|--------|
+| Sink | [Kraus KHU631-15 Undermount Stainless Steel Single Bowl](https://www.kraususa.com/kraus-khu631-15-15-in-undermount-stainless-steel-single-bowl-square-kitchen-sink.html) | Stainless Steel | SELECTED |
+| Faucet | [Kohler Crue Single-Handle Bar Sink Faucet K-22975-VS](https://www.kohler.com/en/products/kitchen-faucets/shop-kitchen-faucets/crue-single-handle-bar-sink-faucet-22975?skuId=22975-VS) | Stainless Steel | SELECTED |
+
 ## Appliances
 | Appliance | Brand / Model | Link | Image | Status |
 |-----------|--------------|------|-------|--------|

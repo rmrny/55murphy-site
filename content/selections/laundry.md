@@ -39,8 +39,15 @@ Unfinished cabinets to be painted — Sherwin Williams "Soar" (SW 6799).
 |----------|-------|--------|
 | TBD | TBD | Needs selection |
 
+## Fixtures
+| Item | Brand / Model | Finish | Status |
+|------|--------------|--------|--------|
+| Sink | [Kraus KHU631-15 Undermount Stainless Steel Single Bowl](https://www.kraususa.com/kraus-khu631-15-15-in-undermount-stainless-steel-single-bowl-square-kitchen-sink.html) | Stainless Steel | SELECTED |
+| Faucet | [Kohler Crue Single-Handle Bar Sink Faucet K-22975-VS](https://www.kohler.com/en/products/kitchen-faucets/shop-kitchen-faucets/crue-single-handle-bar-sink-faucet-22975?skuId=22975-VS) | Stainless Steel | SELECTED |
+
 ## Appliances (Owner Supplied)
 | Item | Brand / Model | Link | Image | Status |
 |------|--------------|------|-------|--------|
 | Washer | LG 5.0 cu ft Front Load Steam TurboWash 360 — Black Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/lg-5-0-cu-ft-high-efficiency-stackable-smart-front-load-washer-with-steam-and-turbowash-360-black-steel/JJ8VPZ6YGL) | ![](/selections/images/lg-washer.jpg) | Existing |
 | Dryer | LG 7.4 cu ft Stackable Smart Gas Dryer with TurboSteam — Black Steel (new) | [Best Buy](https://www.bestbuy.com/product/lg-7-4-cu-ft-stackable-smart-gas-dryer-with-turbosteam-black-steel/JJ8VPZ6YXL) | ![](/selections/images/lg-dryer.jpg) | Selected |
+| Drying Rack | [Foxydry Mini](https://www.foxydry.com/en-us/products/foxydry-mini) (ceiling-mounted) | - | Selected |

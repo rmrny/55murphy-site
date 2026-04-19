@@ -6,6 +6,12 @@ title: Selections
 
 Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD** still need a decision.
 
+## Whole-House Selections
+| Item | Selection | Brand | Status |
+|------|-----------|-------|--------|
+| Wall Paint | White | TBD | Color chosen, brand needed |
+| Ceiling Paint | Ceiling White | TBD | Color chosen, brand needed |
+
 ## First Floor
 - [[selections/living-room|Living Room]]
 - [[selections/kitchen|Kitchen]]

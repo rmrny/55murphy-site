@@ -26,10 +26,11 @@ title: First Floor Bathroom Selections
 ## Fixtures
 | Item | Brand / Model | Finish | Status |
 |------|--------------|--------|--------|
-| Toilet | TBD | TBD | Needs selection |
-| Lavatory/Sink | TBD | TBD | Needs selection |
-| Faucet | TBD | TBD | Needs selection |
-| Shower Valve/Trim | TBD | TBD | Needs selection |
+| Toilet | [Kohler Reach Comfort Height One-Piece K-78080](https://www.kohler.com/en/products/toilets/shop-toilets/reach-comfort-height-one-piece-elongated-1-28-gpf-toilet-w-skirted-trapway-and-left-hand-trip-lever-78080) | White | SELECTED |
+| Lavatory/Sink | [Kohler Brazn Undermount K-21058-0](https://www.kohler.com/en/products/bathroom-sinks/shop-bathroom-sinks/brazn-rectangle-undermount-bathroom-sink-21058?skuId=21058-0) | White | SELECTED |
+| Faucet | [Kohler Riff Single-Handle K-27400-4](https://www.kohler.com/en/products/bathroom-faucets/shop-bathroom-sink-faucets/riff-single-handle-bathroom-sink-faucet-27400-4) | TBD | SELECTED |
+| Shower Trim | [Kohler Elate Rite-Temp K-T35327-4G](https://www.kohler.com/en/products/showers/shop-bath-shower-faucets/elate-rite-temp-bath-and-shower-trim-kit-with-push-button-diverter-1-75-gpm-t35327-4g) | TBD | SELECTED |
+| Handshower Kit | [Kohler Elate K-35331-Y](https://www.kohler.com/en/products/showers/shop-shower-heads/elate-28-three-function-handshower-kit-2-5-gpm-35331-y) | TBD | SELECTED |
 | Shower Glass | Frameless or Semi-Frameless | TBD | Needs selection |
 
 ## Ceiling
