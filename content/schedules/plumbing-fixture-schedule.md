@@ -10,35 +10,42 @@ title: Plumbing Fixture Schedule
 ## First Floor
 | Mark | Fixture | Room | Brand / Model | Finish | Status |
 |------|---------|------|--------------|--------|--------|
-| WC-1 | Toilet | 1st Floor Bath | TBD | TBD | Needs selection |
-| WC-2 | Toilet | 1st Floor Bath | TBD | TBD | Needs selection |
-| LAV-1 | Lavatory | 1st Floor Bath | TBD | TBD | Needs selection |
-| LAV-2 | Lavatory | 1st Floor Bath | TBD | TBD | Needs selection |
-| SH-1 | Shower | 1st Floor Bath | TBD | TBD | Needs selection |
-| SH-2 | Shower | 1st Floor Bath | TBD | TBD | Needs selection |
+| WC-1 | Toilet | 1st Floor Bath | [Kohler Reach K-78080](https://www.kohler.com/en/products/toilets/shop-toilets/reach-comfort-height-one-piece-elongated-1-28-gpf-toilet-w-skirted-trapway-and-left-hand-trip-lever-78080) | White | SELECTED |
+| WC-2 | Toilet | 1st Floor Bath | [Kohler Reach K-78080](https://www.kohler.com/en/products/toilets/shop-toilets/reach-comfort-height-one-piece-elongated-1-28-gpf-toilet-w-skirted-trapway-and-left-hand-trip-lever-78080) | White | SELECTED |
+| LAV-1 | Lavatory | 1st Floor Bath | [Kohler Brazn K-21058-0](https://www.kohler.com/en/products/bathroom-sinks/shop-bathroom-sinks/brazn-rectangle-undermount-bathroom-sink-21058?skuId=21058-0) | White | SELECTED |
+| LAV-2 | Lav Faucet | 1st Floor Bath | [Kohler Riff K-27400-4](https://www.kohler.com/en/products/bathroom-faucets/shop-bathroom-sink-faucets/riff-single-handle-bathroom-sink-faucet-27400-4) | TBD | SELECTED |
+| SH-1 | Shower Trim | 1st Floor Bath | [Kohler Elate Rite-Temp K-T35327-4G](https://www.kohler.com/en/products/showers/shop-bath-shower-faucets/elate-rite-temp-bath-and-shower-trim-kit-with-push-button-diverter-1-75-gpm-t35327-4g) | TBD | SELECTED |
+| SH-2 | Handshower Kit | 1st Floor Bath | [Kohler Elate K-35331-Y](https://www.kohler.com/en/products/showers/shop-shower-heads/elate-28-three-function-handshower-kit-2-5-gpm-35331-y) | TBD | SELECTED |
 | SK-1 | Kitchen Sink | Kitchen | TBD | TBD | Needs selection |
-| SK-2 | Sink | Utility/Other | TBD | TBD | Needs selection |
+| SK-1F | Kitchen Faucet | Kitchen | [Kohler Crue Semi-Professional K-22973-2MB](https://www.kohler.com/en/products/kitchen-faucets/shop-kitchen-faucets/crue-semi-professional-kitchen-sink-faucet-w-three-function-sprayhead-22973?skuId=22973-2MB) | Moderne Brass | SELECTED |
+| SK-2 | Sink | Pantry | [Kraus KHU631-15](https://www.kraususa.com/kraus-khu631-15-15-in-undermount-stainless-steel-single-bowl-square-kitchen-sink.html) | Stainless Steel | SELECTED |
+| SK-2F | Pantry Faucet | Pantry | [Kohler Crue K-22975-VS](https://www.kohler.com/en/products/kitchen-faucets/shop-kitchen-faucets/crue-single-handle-bar-sink-faucet-22975?skuId=22975-VS) | Stainless Steel | SELECTED |
 
 ## Second Floor
 | Mark | Fixture | Room | Brand / Model | Finish | Status |
 |------|---------|------|--------------|--------|--------|
-| WC-3 | Toilet | 2nd Floor Bath | TBD | TBD | Needs selection |
-| WC-4 | Toilet | Primary Bath | TBD | TBD | Needs selection |
-| LAV-3 | Lavatory | 2nd Floor Bath | TBD | TBD | Needs selection |
-| LAV-4 | Lavatory | 2nd Floor Bath | TBD | TBD | Needs selection |
-| LAV-5 | Lavatory | Primary Bath | TBD | TBD | Needs selection |
-| LAV-6 | Lavatory | Primary Bath | TBD | TBD | Needs selection |
-| TUB-1 | Tub | 2nd Floor Bath | TBD | TBD | Needs selection |
-| SH-3 | Shower | Primary Bath | TBD | TBD | Needs selection |
-| SK-3 | Sink | Laundry | TBD | TBD | Needs selection |
+| WC-3 | Toilet | 2nd Floor Bath | [Kohler Reach K-78080](https://www.kohler.com/en/products/toilets/shop-toilets/reach-comfort-height-one-piece-elongated-1-28-gpf-toilet-w-skirted-trapway-and-left-hand-trip-lever-78080) | White | SELECTED |
+| WC-4 | Toilet | Primary Bath | [Kohler Reach K-78080](https://www.kohler.com/en/products/toilets/shop-toilets/reach-comfort-height-one-piece-elongated-1-28-gpf-toilet-w-skirted-trapway-and-left-hand-trip-lever-78080) | White | SELECTED |
+| LAV-3 | Lavatory | 2nd Floor Bath | [Kohler Brazn K-21058-0](https://www.kohler.com/en/products/bathroom-sinks/shop-bathroom-sinks/brazn-rectangle-undermount-bathroom-sink-21058?skuId=21058-0) | White | SELECTED |
+| LAV-4 | Lav Faucet | 2nd Floor Bath | [Kohler Riff K-27400-4](https://www.kohler.com/en/products/bathroom-faucets/shop-bathroom-sink-faucets/riff-single-handle-bathroom-sink-faucet-27400-4) | TBD | SELECTED |
+| LAV-5 | Lavatory | Primary Bath | [Kohler Brazn K-21058-0](https://www.kohler.com/en/products/bathroom-sinks/shop-bathroom-sinks/brazn-rectangle-undermount-bathroom-sink-21058?skuId=21058-0) | White | SELECTED |
+| LAV-6 | Lav Faucet | Primary Bath | [Kohler Purist K-14406-4](https://www.kohler.com/en/products/bathroom-faucets/shop-bathroom-sink-faucets/purist-widespread-bathroom-sink-faucet-with-low-lever-handles-and-low-gooseneck-spout-14406-4) | TBD | SELECTED |
+| TUB-1 | Tub | 2nd Floor Bath | [Kohler Archer K-1946-LA](https://www.kohler.com/en/products/bathtubs/shop-bathtubs/archer-60-x-30-alcove-bath-with-integral-apron-and-left-hand-drain-1946-la) | White | SELECTED |
+| TUB-1T | Tub/Shower Trim | 2nd Floor Bath | [Kohler Elate Rite-Temp K-T35327-4G](https://www.kohler.com/en/products/showers/shop-bath-shower-faucets/elate-rite-temp-bath-and-shower-trim-kit-with-push-button-diverter-1-75-gpm-t35327-4g) | TBD | SELECTED |
+| TUB-1H | Handshower Kit | 2nd Floor Bath | [Kohler Elate K-35331-Y](https://www.kohler.com/en/products/showers/shop-shower-heads/elate-28-three-function-handshower-kit-2-5-gpm-35331-y) | TBD | SELECTED |
+| TUB-1V | Transfer Valve | 2nd Floor Bath | [Kohler Elate MasterShower K-T35330-4](https://www.kohler.com/en/products/showers/shop-shower-trims-valves/elate-mastershower-transfer-valve-trim-t35330-4) | TBD | SELECTED |
+| SH-3 | Shower | Primary Bath | [Kohler Anthem K-26347-9](https://www.kohler.com/en/products/showers/shop-shower-trims-valves/anthem-three-outlet-thermostatic-valve-control-panel-with-recessed-push-buttons-26347-9) (+ Honesty rainhead, Parallel showerhead, Shift handshower) | TBD | SELECTED |
+| SK-3 | Sink | Laundry | [Kraus KHU631-15](https://www.kraususa.com/kraus-khu631-15-15-in-undermount-stainless-steel-single-bowl-square-kitchen-sink.html) | Stainless Steel | SELECTED |
+| SK-3F | Laundry Faucet | Laundry | [Kohler Crue K-22975-VS](https://www.kohler.com/en/products/kitchen-faucets/shop-kitchen-faucets/crue-single-handle-bar-sink-faucet-22975?skuId=22975-VS) | Stainless Steel | SELECTED |
 | WM-1 | Washer Connection | Laundry | - | - | Per plumbing plans |
 
 ## Garage / Exterior
 | Mark | Fixture | Room | Brand / Model | Finish | Status |
 |------|---------|------|--------------|--------|--------|
-| WC-5 | Toilet | Outdoor Bath | TBD | TBD | Needs selection |
-| SK-4 | Sink | Outdoor Bath | TBD | TBD | Needs selection |
-| SH-4 | Shower | Outdoor Bath | TBD | TBD | Needs selection |
+| WC-5 | Toilet | Outdoor Bath | [Kohler Reach K-78080](https://www.kohler.com/en/products/toilets/shop-toilets/reach-comfort-height-one-piece-elongated-1-28-gpf-toilet-w-skirted-trapway-and-left-hand-trip-lever-78080) | White | SELECTED |
+| SK-4 | Sink | Outdoor Bath | [Kohler ModernLife K-77767](https://www.kohler.com/en/products/bathroom-sinks/shop-bathroom-sinks/modernlife-wall-mount-bathroom-sink-77767-1) | White | SELECTED |
+| SK-4F | Sink Faucet | Outdoor Bath | [Kohler Components K-77958-4A-BN](https://www.kohler.com/en/products/bathroom-faucets/shop-bathroom-sink-faucets/components-single-handle-bathroom-sink-faucet-77958-4a?skuId=77958-4A-BN) | Brushed Nickel | SELECTED |
+| SH-4 | Shower | Outdoor Bath | [Kohler Components K-T78027-4-BN](https://www.kohler.com/en/products/showers/shop-shower-trims-valves/components-thermostatic-valve-trim-w-lever-handle-t78027-4?skuId=T78027-4-BN) (+ Awaken handshower) | Brushed Nickel | SELECTED |
 | HB-1 | Hose Bib | Exterior | - | - | 3 included per proposal |
 | HB-2 | Hose Bib | Exterior | - | - | Included |
 | HB-3 | Hose Bib | Exterior | - | - | Included |
