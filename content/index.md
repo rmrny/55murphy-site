@@ -24,6 +24,12 @@ Proposal breakdown, allowances, and what's included vs. what we're responsible f
 ### [[drawings/index|Drawing Status]]
 What drawings exist, what's still needed, and the path to construction documents.
 
+### [[networking|Networking Requirements]]
+VLAN layout, port counts, cable runs, equipment list, and shopping list for the full network build-out.
+
+### [[smarthome|Smart Home Plan]]
+Shelly relays, momentary switches, Zigbee sensors, Home Assistant setup, and smart device planning.
+
 ### [[decisions|Open Decisions]]
 Items that still need a decision before we can move forward.
 
