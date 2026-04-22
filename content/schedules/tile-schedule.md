@@ -15,11 +15,11 @@ All tile quantities calculated from architectural drawings and specifications. *
 | Location | Product | Size | Net Sqft | +15% Order | Cost/sqft | Total | Status |
 |----------|---------|------|----------|------------|-----------|-------|--------|
 | Shower Floor | [Wilde Haze VTC-6102](https://www.mikesfloorcovering.com/d/glazzio-tiles-vista-chino-collection-gracious-pink-tile/vtc6102) — Glazzio Vista Chino | TBD | 12.25 | 14.09 | $35.55 | $500.80 | SELECTED |
-| Shower Wall Tile (N) | [Viva Antic Verde](https://merolatile.com/product/viva-antic-verde-3-in-x-6-in-ceramic-wall-tile/) — 3x6 Ceramic | 3" x 6" | 24.5 | 28.18 | $19.96 | $562.47 | SELECTED |
-| Shower Wall Tile (E) | Viva Antic Verde — 3x6 Ceramic | 3" x 6" | 24.5 | 28.18 | $19.96 | $562.47 | SELECTED |
-| Shower Wall Tile (S) | Viva Antic Verde — 3x6 Ceramic | 3" x 6" | 15.75 | 18.11 | $19.96 | $361.48 | SELECTED |
+| Shower Wall Tile (S) | [Nara Blanco](https://thetilestoreusa.com/product/3-x-12-nara-blanco-subway-ceramic-tile/) — 3x12 Subway Ceramic (Bestile) | 3" x 12" | 33.75 | 38.81 | $8.92 | $346.18 | SELECTED |
+| Shower Wall Tile (E) | Nara Blanco — 3x12 Subway Ceramic (Bestile) | 3" x 12" | 22 | 25.3 | $8.92 | $225.68 | SELECTED |
+| Shower Wall Tile (W) | Nara Blanco — 3x12 Subway Ceramic (Bestile) | 3" x 12" | 22 | 25.3 | $8.92 | $225.68 | SELECTED |
 | Floor | [Antico White](https://www.thetileplug.com/products/antico-white-40x40-matte) — 40x40 Matte Porcelain (Italy) | 40" x 40" | 52 | 59.8 | $9.19 | $549.56 | SELECTED |
-| **Subtotal** | | | **129** | **148.36** | | **$2,536.78** | |
+| **Subtotal** | | | **141.75** | **163.3** | | **$1,847.90** | |
 
 ## Primary Bathroom
 | Location | Product | Size | Net Sqft | +15% Order | Cost/sqft | Total | Status |
@@ -34,11 +34,11 @@ All tile quantities calculated from architectural drawings and specifications. *
 ## Second Floor Bathroom (Bathroom 1)
 | Location | Product | Size | Net Sqft | +15% Order | Cost/sqft | Total | Status |
 |----------|---------|------|----------|------------|-----------|-------|--------|
-| Tub Surround Wall Tile (N) | [Nara Blanco](https://thetilestoreusa.com/product/3-x-12-nara-blanco-subway-ceramic-tile/) — 3x12 Subway Ceramic (Bestile) | 3" x 12" | 15.83 | 18.2 | $8.92 | $162.34 | SELECTED |
-| Tub Surround Wall Tile (S) | Nara Blanco — 3x12 Subway Ceramic (Bestile) | 3" x 12" | 15.83 | 18.2 | $8.92 | $162.34 | SELECTED |
-| Tub Surround Wall Tile (W) | Nara Blanco — 3x12 Subway Ceramic (Bestile) | 3" x 12" | 31.66 | 36.41 | $8.92 | $324.78 | SELECTED |
+| Tub Surround Wall Tile (N) | [Viva Antic Verde](https://merolatile.com/product/viva-antic-verde-3-in-x-6-in-ceramic-wall-tile/) — 3x6 Ceramic | 3" x 6" | 15.83 | 18.2 | $19.96 | $363.27 | SELECTED |
+| Tub Surround Wall Tile (S) | Viva Antic Verde — 3x6 Ceramic | 3" x 6" | 15.83 | 18.2 | $19.96 | $363.27 | SELECTED |
+| Tub Surround Wall Tile (W) | Viva Antic Verde — 3x6 Ceramic | 3" x 6" | 31.66 | 36.41 | $19.96 | $726.75 | SELECTED |
 | Floor | [Antico White](https://www.thetileplug.com/products/antico-white-40x40-matte) — 40x40 Matte Porcelain (Italy) | 40" x 40" | 70 | 80.5 | $9.19 | $739.80 | SELECTED |
-| **Subtotal** | | | **133** | **153.31** | | **$1,389.26** | |
+| **Subtotal** | | | **133** | **153.31** | | **$2,193.09** | |
 
 ## Cabana
 | Location | Product | Size | Net Sqft | +15% Order | Cost/sqft | Total | Status |

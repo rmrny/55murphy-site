@@ -35,6 +35,14 @@ title: Second Floor Bathroom
 | Transfer Valve Trim | [Kohler Elate MasterShower K-T35330-4](https://www.kohler.com/en/products/showers/shop-shower-trims-valves/elate-mastershower-transfer-valve-trim-t35330-4) | TBD | SELECTED |
 | Shower Glass | TBD | TBD | Needs selection |
 
+## Accessories (Owner Supplied, Contractor Installs) — Kohler Elate, 2MB
+| Item | Model | Est. Price | Status |
+|------|-------|-----------|--------|
+| 24" Towel Bar (x2) | [K-27287-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/elate-24-towel-bar-27287?skuId=27287-2MB) | $85 ea | SELECTED |
+| TP Holder | [K-27292-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/elate-toilet-paper-holder-27292?skuId=27292-2MB) | $53 | SELECTED |
+| Robe Hook (x2) | [K-27290-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/elate-robe-hook-27290?skuId=27290-2MB) | $35 ea | SELECTED |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|

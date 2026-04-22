@@ -39,6 +39,15 @@ Reference catalog: [Albatross Catalog (PDF)](https://cdn.shopify.com/s/files/1/1
 | Shower Arm | [Kohler Honesty K-20005](https://www.kohler.com/en/products/showers/shop-shower-fittings/honesty-shower-arm-and-flange-20005) | TBD | SELECTED |
 | Shower Glass | Frameless or Semi-Frameless | TBD | Needs selection |
 
+## Accessories (Owner Supplied, Contractor Installs) — Kohler Purist, 2MB
+| Item | Model | Est. Price | Status |
+|------|-------|-----------|--------|
+| 24" Towel Bar | [K-14436-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/purist-24-towel-bar-14436?skuId=14436-2MB) | $274 | SELECTED |
+| Towel Ring | [K-14441-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/purist-towel-ring-14441?skuId=14441-2MB) | $190 | SELECTED |
+| Pivoting TP Holder | [K-14377-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/purist-pivoting-toilet-paper-holder-14377?skuId=14377-2MB) | $320 | SELECTED |
+| Robe Hook (x2) | [K-14443-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/purist-robe-hook-14443?skuId=14443-2MB) | $116 ea | SELECTED |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|

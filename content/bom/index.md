@@ -17,14 +17,14 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | [[#kitchen|Kitchen]] | TBD (appliances not yet selected) | Partial |
 | [[#laundry|Laundry]] | TBD (dryer + countertops + rack) | Selected, needs pricing |
 | [[#pantry|Pantry]] | TBD (freezer selected, wine fridge TBD) | Partial |
-| [[#bathrooms|Bathrooms — Fixtures]] | TBD (all Kohler, selected) | Selected, needs pricing |
+| [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$1,991 accessories + fixtures TBD | Selected |
 | [[#bathroom-tile|Bathrooms — Tile]] | ~$5,879 (3 bathrooms, with 15% waste) | Selected |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
 | [[#flooring|Flooring (whole house)]] | ~$8,300 laminate (2,975 SF @ $2.79 incl. cabana) | Selected |
 | [[#paint|Paint (whole house)]] | TBD | Needs brand/color |
 | [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
-| **Known total** | **~$19,058+** | Excludes appliances, fixtures, doors, paint |
+| **Known total** | **~$21,049+** | Excludes appliances, fixture pricing, doors, paint, mirrors |
 
 > **Allowances in the contractor proposal** that offset some of these costs: Countertops $5,750, Backsplash $3,450, Cabinets $16,100 (material only), Shower Glass $7,475, Hardwood Floors $26,988, Plumbing Fixture Install $5,463, Bathroom Accessories Install $1,150.
 
@@ -141,14 +141,46 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 
 ### Bathroom Accessories (all bathrooms)
 
-| Item | Status |
-|------|--------|
-| Towel bars | **Needs selection** |
-| Toilet paper holders | **Needs selection** |
-| Robe hooks | **Needs selection** |
-| Mirrors / medicine cabinets | **Needs selection** |
+All accessories in Vibrant Brushed Moderne Brass (2MB). Collection matched to each bathroom's fixture line.
 
-Accessories installation allowance: $1,150
+### Primary Bathroom — Kohler Purist
+| Item | Model | Est. Price | Status |
+|------|-------|-----------|--------|
+| 24" Towel Bar | K-14436-2MB | $274 | Selected |
+| Towel Ring | K-14441-2MB | $190 | Selected |
+| Pivoting TP Holder | K-14377-2MB | $320 | Selected |
+| Robe Hook (x2) | K-14443-2MB | $116 ea | Selected |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| **Subtotal** | | **~$1,016** | |
+
+### First Floor Bathroom (Bath 2) — Kohler Elate
+| Item | Model | Est. Price | Status |
+|------|-------|-----------|--------|
+| 24" Towel Bar | K-27287-2MB | $85 | Selected |
+| TP Holder | K-27292-2MB | $53 | Selected |
+| Robe Hook (x2) | K-27290-2MB | $35 ea | Selected |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| **Subtotal** | | **~$208** | |
+
+### Second Floor Bathroom (Bath 1) — Kohler Elate
+| Item | Model | Est. Price | Status |
+|------|-------|-----------|--------|
+| 24" Towel Bar (x2) | K-27287-2MB | $85 ea | Selected |
+| TP Holder | K-27292-2MB | $53 | Selected |
+| Robe Hook (x2) | K-27290-2MB | $35 ea | Selected |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| **Subtotal** | | **~$293** | |
+
+### Outdoor Bathroom — Kohler Components
+| Item | Model | Est. Price | Status |
+|------|-------|-----------|--------|
+| 24" Towel Bar | K-78373-2MB | $222 | Selected |
+| Vertical TP Holder | K-78383-2MB | $159 | Selected |
+| Robe Hook | K-78378-2MB | $93 | Selected |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| **Subtotal** | | **~$474** | |
+
+**Accessories total: ~$1,991** | Accessories installation allowance: $1,150 (labor only)
 
 ---
 
@@ -160,7 +192,7 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 | Item | Product | Cost | Status |
 |------|---------|------|--------|
 | Shower Floor | Wilde Haze VTC-6102 (Glazzio) | $35.55/sqft | Selected |
-| Shower Wall Tile | [Viva Antic Verde](https://merolatile.com/product/viva-antic-verde-3-in-x-6-in-ceramic-wall-tile/) 3x6 Ceramic | $19.96/sqft | Selected |
+| Shower Wall Tile | [Nara Blanco](https://thetilestoreusa.com/product/3-x-12-nara-blanco-subway-ceramic-tile/) 3x12 Subway Ceramic (Bestile) | $8.92/sqft | Selected |
 | Floor | [Antico White](https://www.thetileplug.com/products/antico-white-40x40-matte) 40x40 Matte Porcelain (Italy) | $9.19/sqft | Selected |
 
 ### Primary Bathroom
@@ -173,7 +205,7 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 ### Second Floor Bathroom (Bathroom 1)
 | Item | Product | Cost | Status |
 |------|---------|------|--------|
-| Tub Surround Wall Tile | [Nara Blanco](https://thetilestoreusa.com/product/3-x-12-nara-blanco-subway-ceramic-tile/) 3x12 Subway Ceramic (Bestile) | $8.92/sqft | Selected |
+| Tub Surround Wall Tile | [Viva Antic Verde](https://merolatile.com/product/viva-antic-verde-3-in-x-6-in-ceramic-wall-tile/) 3x6 Ceramic | $19.96/sqft | Selected |
 | Floor | [Antico White](https://www.thetileplug.com/products/antico-white-40x40-matte) 40x40 Matte Porcelain (Italy) | $9.19/sqft | Selected |
 
 ---
