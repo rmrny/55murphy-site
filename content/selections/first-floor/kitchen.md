@@ -61,4 +61,4 @@ Allowance in proposal: $5,750 (material + labor)
 ## Floor
 | Material | Color | Brand / Product | Status |
 |----------|-------|----------------|--------|
-| Faux Wood (LVP?) | TBD | TBD | Needs selection |
+| AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | [Floor & Decor](https://www.flooranddecor.com/aquaguard-performance/cocoa-waterproof-laminate-plank-100997105.html) — $2.79/sqft | SELECTED |

@@ -20,7 +20,7 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | [[#bathrooms|Bathrooms — Fixtures]] | ~$TBD (all Kohler, selected) | Selected, needs pricing |
 | [[#bathroom-tile|Bathrooms — Tile]] | ~$TBD | Partial |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
-| [[#flooring|Flooring (whole house)]] | TBD | Needs selection |
+| [[#flooring|Flooring (whole house)]] | ~$8,049 laminate (2,885 SF @ $2.79) + tile TBD | Selected (laminate) |
 | [[#paint|Paint (whole house)]] | TBD | Needs brand/color |
 | [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
@@ -190,11 +190,41 @@ Accessories installation allowance: $1,150
 
 ## Flooring — Whole House {#flooring}
 
-| Item | Selection | Status |
-|------|-----------|--------|
-| "Faux Wood" product | LVP? Laminate? Engineered hardwood? | **Needs selection** |
+**Product:** AquaGuard Performance Cocoa Waterproof Laminate (SKU 100997105) — $2.79/sqft
+**Specs:** 12mm thick, 7.60" x 47.76" planks, AC5 rated, attached IXPE foam pad, floating/locking install, lifetime residential warranty, GREENGUARD Gold certified.
+**Source:** [Floor & Decor](https://www.flooranddecor.com/aquaguard-performance/cocoa-waterproof-laminate-plank-100997105.html)
 
-Applies to: kitchen, living room, dining, foyer, hallways, bedrooms (TBD per room). Hardwood floor allowance in proposal: $26,988 (material + labor).
+### Laminate Takeoff
+
+| Level | Area (SF) | Notes |
+|-------|-----------|-------|
+| First Floor | 535 | Zone 1 |
+| First Floor | 847 | Zone 2 |
+| First Floor | 436 | Zone 3 |
+| First Floor | 32 | Zone 4 |
+| Second Floor | 1,035 | All laminate areas |
+| **Laminate Total** | **2,885 SF** | **~$8,049 material** |
+
+### Tile Takeoff
+
+| Level | Type | Area (SF) |
+|-------|------|-----------|
+| Outdoor | Ceramic Tile Bathroom Outdoor | 44 |
+| First Floor | Ceramic Tile Bathroom 2 | 52 |
+| First Floor | Ceramic Tile Bathroom 2 Shower | 13 |
+| First Floor | Ceramic Tile Bathroom Cabana | 90 |
+| Second Floor | Ceramic Tile Primary | 98 |
+| Second Floor | Ceramic Tile Primary Shower | 22 |
+| Second Floor | Ceramic Tile Bathroom 1 | 71 |
+| **Tile Total** | | **390 SF** |
+
+### Other
+
+| Level | Type | Area (SF) |
+|-------|------|-----------|
+| First Floor | Epoxy Coating (Garage) | 569 |
+
+Hardwood floor allowance in proposal: $26,988 (material + labor). Laminate material cost at $2.79/sqft = ~$8,049 for 2,885 SF — well under allowance.
 
 ---
 
