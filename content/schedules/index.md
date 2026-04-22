@@ -24,5 +24,8 @@ Kitchen and laundry appliances - models, dimensions, utility requirements.
 ## [[schedules/paint-schedule|Paint Schedule]]
 Room-by-room paint colors, brands, and finish types.
 
+## [[schedules/accessory-schedule|Bathroom Accessory Schedule]]
+Towel bars, TP holders, robe hooks, and mirrors — all Kohler in Vibrant Brushed Moderne Brass (2MB).
+
 ## [[schedules/mechanical-schedule|Mechanical Equipment Schedule]]
 HVAC equipment - already specified in MEP drawings (M401).
