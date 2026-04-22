@@ -17,14 +17,14 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | [[#kitchen|Kitchen]] | TBD (appliances not yet selected) | Partial |
 | [[#laundry|Laundry]] | TBD (dryer + countertops + rack) | Selected, needs pricing |
 | [[#pantry|Pantry]] | TBD (freezer selected, wine fridge TBD) | Partial |
-| [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$9,423 (Kohler MSRP $15,705 less 40%) | Selected |
+| [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$10,435 (Kohler MSRP $17,391 less 40%) | Selected |
 | [[#bathroom-tile|Bathrooms — Tile]] | ~$5,879 (3 bathrooms, with 15% waste) | Selected |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
 | [[#flooring|Flooring (whole house)]] | ~$8,300 laminate (2,975 SF @ $2.79 incl. cabana) | Selected |
 | [[#paint|Paint (whole house)]] | TBD | Needs brand/color |
 | [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
-| **Known total** | **~$28,481+** | Excludes appliances, doors, paint, mirrors |
+| **Known total** | **~$29,493+** | Excludes appliances, doors, paint, mirrors |
 
 > **Allowances in the contractor proposal** that offset some of these costs: Countertops $5,750, Backsplash $3,450, Cabinets $16,100 (material only), Shower Glass $7,475, Hardwood Floors $26,988, Plumbing Fixture Install $5,463, Bathroom Accessories Install $1,150.
 
@@ -100,8 +100,10 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | Toilet | Kohler Reach K-78080 (White) | $813 | Selected |
 | Sink (x2) | Kohler Brazn K-21058-0 (White) | $283 ea | Selected |
 | Faucet (x2) | Kohler Purist Widespread K-14406-4-2MB | $881 ea | Selected |
-| Shower Thermostatic Valve | Kohler Anthem K-26347-9-2MB | $528 | Selected |
-| Shower Volume Control | Kohler MasterShower K-9514-2MB | $106 | Selected |
+| Shower Thermostatic Valve (trim) | Kohler Anthem K-26347-9-2MB | $528 | Selected |
+| Shower Thermostatic Valve (rough-in) | Kohler Anthem K-39014-NA | $583 | Selected |
+| Shower Volume Control (trim) | Kohler MasterShower K-9514-2MB | $106 | Selected |
+| Shower Volume Control (rough-in) | Kohler MasterShower K-2977-K-NA | $145 | Selected |
 | Rainhead | Kohler Honesty 8" K-26148-G-2MB | $262 | Selected |
 | Showerhead | Kohler Parallel K-24805-JJ-2MB | $138 | Selected |
 | Handshower | Kohler Shift+ Round K-21335-2MB | $242 | Selected |
@@ -112,8 +114,8 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | Pivoting TP Holder | Kohler Purist K-14377-2MB | $320 | Selected |
 | Robe Hook (x2) | Kohler Purist K-14443-2MB | $116 ea | Selected |
 | Mirror | Frameless — TBD | TBD | **Needs selection** |
-| **MSRP Subtotal** | | **$5,924** | |
-| **After 40% discount** | | **$3,554** | |
+| **MSRP Subtotal** | | **$6,652** | |
+| **After 40% discount** | | **$3,991** | |
 
 ### First Floor Bathroom (Bath 2)
 
@@ -123,13 +125,14 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | Sink | Kohler Brazn K-21058-0 (White) | $283 | Selected |
 | Faucet | Kohler Riff K-27400-4 | $356 | Selected |
 | Shower Trim | Kohler Elate Rite-Temp K-T35327-4G-2MB | $360 | Selected |
+| Shower Valve (rough-in) | Kohler Rite-Temp K-11748-KS-NA | $233 | Selected |
 | Handshower Kit | Kohler Elate K-35331-H-2MB | $288 | Selected |
 | 24" Towel Bar | Kohler Elate K-27287-2MB | $85 | Selected |
 | TP Holder | Kohler Elate K-27292-2MB | $53 | Selected |
 | Robe Hook (x2) | Kohler Elate K-27290-2MB | $35 ea | Selected |
 | Mirror | Frameless — TBD | TBD | **Needs selection** |
-| **MSRP Subtotal** | | **$2,308** | |
-| **After 40% discount** | | **$1,385** | |
+| **MSRP Subtotal** | | **$2,541** | |
+| **After 40% discount** | | **$1,525** | |
 
 ### Second Floor Bathroom (Bath 1, Shared)
 
@@ -140,14 +143,15 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | Sink (x2) | Kohler Brazn K-21058-0 (White) | $283 ea | Selected |
 | Faucet (x2) | Kohler Riff K-27400-4 | $356 ea | Selected |
 | Tub/Shower Trim | Kohler Elate Rite-Temp K-T35327-4G-2MB | $360 | Selected |
+| Tub/Shower Valve (rough-in) | Kohler Rite-Temp K-11748-KS-NA | $233 | Selected |
 | Handshower Kit | Kohler Elate K-35331-H-2MB | $288 | Selected |
 | Transfer Valve Trim | Kohler Elate MasterShower K-T35330-4-2MB | $83 | Selected |
 | 24" Towel Bar (x2) | Kohler Elate K-27287-2MB | $85 ea | Selected |
 | TP Holder | Kohler Elate K-27292-2MB | $53 | Selected |
 | Robe Hook (x2) | Kohler Elate K-27290-2MB | $35 ea | Selected |
 | Mirror | Frameless — TBD | TBD | **Needs selection** |
-| **MSRP Subtotal** | | **$4,361** | |
-| **After 40% discount** | | **$2,617** | |
+| **MSRP Subtotal** | | **$4,594** | |
+| **After 40% discount** | | **$2,756** | |
 
 ### Outdoor Bathroom (Garage)
 
@@ -157,13 +161,14 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | Sink | Kohler ModernLife K-77767 | $248 | Selected |
 | Faucet | Kohler Components K-77958-4A-BN | $748 | Selected |
 | Shower Handshower Kit | Kohler Awaken B110 K-99243-G-BN | $296 | Selected |
-| Shower Thermostatic Valve | Kohler Components K-T78027-4-BN | $533 | Selected |
+| Shower Thermostatic Valve (trim) | Kohler Components K-T78027-4-BN | $533 | Selected |
+| Shower Thermostatic Valve (rough-in) | Kohler MasterShower K-2972-KS-NA | $492 | Selected |
 | 24" Towel Bar | Kohler Components K-78373-2MB | $222 | Selected |
 | Vertical TP Holder | Kohler Components K-78383-2MB | $159 | Selected |
 | Robe Hook | Kohler Components K-78378-2MB | $93 | Selected |
 | Mirror | Frameless — TBD | TBD | **Needs selection** |
-| **MSRP Subtotal** | | **$3,112** | |
-| **After 40% discount** | | **$1,867** | |
+| **MSRP Subtotal** | | **$3,604** | |
+| **After 40% discount** | | **$2,162** | |
 
 ---
 
@@ -171,11 +176,11 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 
 | Bathroom | MSRP | After 40% Discount |
 |----------|------|-------------------|
-| Primary | $5,924 | $3,554 |
-| First Floor (Bath 2) | $2,308 | $1,385 |
-| Second Floor (Bath 1) | $4,361 | $2,617 |
-| Outdoor | $3,112 | $1,867 |
-| **Total** | **$15,705** | **$9,423** |
+| Primary | $6,652 | $3,991 |
+| First Floor (Bath 2) | $2,541 | $1,525 |
+| Second Floor (Bath 1) | $4,594 | $2,756 |
+| Outdoor | $3,604 | $2,162 |
+| **Total** | **$17,391** | **$10,435** |
 
 > All Kohler fixtures and accessories qualify for 40% trade discount. Mirrors are non-Kohler (frameless, TBD) and not included in discount. Installation allowance: $5,463 (fixtures) + $1,150 (accessories) in contractor proposal.
 
