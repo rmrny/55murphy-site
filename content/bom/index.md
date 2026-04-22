@@ -15,16 +15,16 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Category | Estimated Cost | Status |
 |----------|---------------|--------|
 | [[#kitchen|Kitchen]] | TBD (appliances not yet selected) | Partial |
-| [[#laundry|Laundry]] | ~$TBD (dryer + countertops + rack) | Selected, needs pricing |
-| [[#pantry|Pantry]] | ~$TBD (freezer selected, wine fridge TBD) | Partial |
-| [[#bathrooms|Bathrooms — Fixtures]] | ~$TBD (all Kohler, selected) | Selected, needs pricing |
-| [[#bathroom-tile|Bathrooms — Tile]] | ~$TBD (all products selected, see tile schedule) | Selected |
+| [[#laundry|Laundry]] | TBD (dryer + countertops + rack) | Selected, needs pricing |
+| [[#pantry|Pantry]] | TBD (freezer selected, wine fridge TBD) | Partial |
+| [[#bathrooms|Bathrooms — Fixtures]] | TBD (all Kohler, selected) | Selected, needs pricing |
+| [[#bathroom-tile|Bathrooms — Tile]] | ~$5,879 (3 bathrooms, with 15% waste) | Selected |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
 | [[#flooring|Flooring (whole house)]] | ~$8,300 laminate (2,975 SF @ $2.79 incl. cabana) | Selected |
 | [[#paint|Paint (whole house)]] | TBD | Needs brand/color |
 | [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
-| **Known total** | **~$4,879+** | Excludes appliances, doors, flooring, paint |
+| **Known total** | **~$19,058+** | Excludes appliances, fixtures, doors, paint |
 
 > **Allowances in the contractor proposal** that offset some of these costs: Countertops $5,750, Backsplash $3,450, Cabinets $16,100 (material only), Shower Glass $7,475, Hardwood Floors $26,988, Plumbing Fixture Install $5,463, Bathroom Accessories Install $1,150.
 
