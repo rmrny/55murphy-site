@@ -18,9 +18,9 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | [[#laundry|Laundry]] | ~$TBD (dryer + countertops + rack) | Selected, needs pricing |
 | [[#pantry|Pantry]] | ~$TBD (freezer selected, wine fridge TBD) | Partial |
 | [[#bathrooms|Bathrooms — Fixtures]] | ~$TBD (all Kohler, selected) | Selected, needs pricing |
-| [[#bathroom-tile|Bathrooms — Tile]] | ~$TBD | Partial |
+| [[#bathroom-tile|Bathrooms — Tile]] | ~$TBD (all products selected, see tile schedule) | Selected |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
-| [[#flooring|Flooring (whole house)]] | ~$8,049 laminate (2,885 SF @ $2.79) + tile TBD | Selected (laminate) |
+| [[#flooring|Flooring (whole house)]] | ~$8,300 laminate (2,975 SF @ $2.79 incl. cabana) | Selected |
 | [[#paint|Paint (whole house)]] | TBD | Needs brand/color |
 | [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
@@ -154,11 +154,27 @@ Accessories installation allowance: $1,150
 
 ## Bathrooms — Tile {#bathroom-tile}
 
-| Room | Item | Product | Coverage | Cost | Status |
-|------|------|---------|----------|------|--------|
-| 1st Floor Bath | Shower floor | Wilde Haze | 3'-6" x 3'-6" | $35.55/sqft | Selected |
-| Primary Bath | All tile | Albatross catalog (TBD) | ~191 sqft | TBD | **Needs selection** |
-| Other bathrooms | TBD | TBD | TBD | TBD | **Needs selection** |
+See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall breakdowns.
+
+### First Floor Bathroom (Bathroom 2)
+| Item | Product | Cost | Status |
+|------|---------|------|--------|
+| Shower Floor | Wilde Haze VTC-6102 (Glazzio) | $35.55/sqft | Selected |
+| Shower Wall Tile | [Viva Antic Verde](https://merolatile.com/product/viva-antic-verde-3-in-x-6-in-ceramic-wall-tile/) 3x6 Ceramic | $19.96/sqft | Selected |
+| Floor | [Antico White](https://www.thetileplug.com/products/antico-white-40x40-matte) 40x40 Matte Porcelain (Italy) | $9.19/sqft | Selected |
+
+### Primary Bathroom
+| Item | Product | Cost | Status |
+|------|---------|------|--------|
+| Shower Wall Tile | [Albatross Sky](https://www.aquablumosaics.com/products/albatross-sky-3-x-12-ceramic-tile) 3x12 Ceramic (Tesoro) | $8.70/sqft | Selected |
+| Shower Floor | [Nolita Bianco](https://solidshape.com/products/nolita-bianco-24x24-satin-old-pkg-porcelain-tile) 24x24 Satin Porcelain (Moonstone) | $8.23/sqft | Selected |
+| Floor | [Antico White](https://www.thetileplug.com/products/antico-white-40x40-matte) 40x40 Matte Porcelain (Italy) | $9.19/sqft | Selected |
+
+### Second Floor Bathroom (Bathroom 1)
+| Item | Product | Cost | Status |
+|------|---------|------|--------|
+| Tub Surround Wall Tile | [Nara Blanco](https://thetilestoreusa.com/product/3-x-12-nara-blanco-subway-ceramic-tile/) 3x12 Subway Ceramic (Bestile) | $8.92/sqft | Selected |
+| Floor | [Antico White](https://www.thetileplug.com/products/antico-white-40x40-matte) 40x40 Matte Porcelain (Italy) | $9.19/sqft | Selected |
 
 ---
 
@@ -203,7 +219,8 @@ Accessories installation allowance: $1,150
 | First Floor | 436 | Zone 3 |
 | First Floor | 32 | Zone 4 |
 | Second Floor | 1,035 | All laminate areas |
-| **Laminate Total** | **2,885 SF** | **~$8,049 material** |
+| Cabana | 90 | Waterproof — same product |
+| **Laminate Total** | **2,975 SF** | **~$8,300 material** |
 
 ### Tile Takeoff
 
@@ -212,7 +229,7 @@ Accessories installation allowance: $1,150
 | Outdoor | Ceramic Tile Bathroom Outdoor | 44 |
 | First Floor | Ceramic Tile Bathroom 2 | 52 |
 | First Floor | Ceramic Tile Bathroom 2 Shower | 13 |
-| First Floor | Ceramic Tile Bathroom Cabana | 90 |
+| ~~First Floor~~ | ~~Ceramic Tile Bathroom Cabana~~ | ~~90~~ — moved to laminate |
 | Second Floor | Ceramic Tile Primary | 98 |
 | Second Floor | Ceramic Tile Primary Shower | 22 |
 | Second Floor | Ceramic Tile Bathroom 1 | 71 |
