@@ -17,14 +17,14 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | [[#kitchen|Kitchen]] | TBD (appliances not yet selected) | Partial |
 | [[#laundry|Laundry]] | TBD (dryer + countertops + rack) | Selected, needs pricing |
 | [[#pantry|Pantry]] | TBD (freezer selected, wine fridge TBD) | Partial |
-| [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$1,991 accessories + fixtures TBD | Selected |
+| [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$9,423 (Kohler MSRP $15,705 less 40%) | Selected |
 | [[#bathroom-tile|Bathrooms — Tile]] | ~$5,879 (3 bathrooms, with 15% waste) | Selected |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
 | [[#flooring|Flooring (whole house)]] | ~$8,300 laminate (2,975 SF @ $2.79 incl. cabana) | Selected |
 | [[#paint|Paint (whole house)]] | TBD | Needs brand/color |
 | [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
-| **Known total** | **~$21,049+** | Excludes appliances, fixture pricing, doors, paint, mirrors |
+| **Known total** | **~$28,481+** | Excludes appliances, doors, paint, mirrors |
 
 > **Allowances in the contractor proposal** that offset some of these costs: Countertops $5,750, Backsplash $3,450, Cabinets $16,100 (material only), Shower Glass $7,475, Hardwood Floors $26,988, Plumbing Fixture Install $5,463, Bathroom Accessories Install $1,150.
 
@@ -70,8 +70,8 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Drying Rack | Foxydry Mini (ceiling-mounted) | TBD | Selected |
 | Countertop (above W/D) | John Boos 1.75" x 36" x 60" Maple Butcher Block | TBD | Selected |
 | Countertop (cabinet) | John Boos 1.75" x 25" x 72" Maple Butcher Block | TBD | Selected |
-| Sink | Kraus KHU631-15 Undermount SS Single Bowl | TBD | Selected |
-| Faucet | Kohler Crue Single-Handle K-22975-VS (Stainless) | TBD | Selected |
+| Sink | Kraus Fairlane KHU631-15 Undermount SS Single Bowl | $159.95 | Selected |
+| Faucet | Kohler Crue Single-Handle K-22975-VS (Stainless) | $412.50 | Selected |
 | Wallpaper | NextWall Hampton Blue Peel & Stick (east wall) | TBD | Selected |
 
 ---
@@ -84,8 +84,8 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Wine Fridge | TBD | TBD | **Decision needed (yes/no)** |
 | Under-Counter Fridge | TBD (per A301 furniture plan) | TBD | **Needs selection** |
 | Under-Counter Freezer | TBD (per A301 furniture plan) | TBD | **Needs selection** |
-| Sink | Kraus KHU631-15 Undermount SS Single Bowl | TBD | Selected |
-| Faucet | Kohler Crue Single-Handle K-22975-VS (Stainless) | TBD | Selected |
+| Sink | Kraus Fairlane KHU631-15 Undermount SS Single Bowl | $159.95 | Selected |
+| Faucet | Kohler Crue Single-Handle K-22975-VS (Stainless) | $412.50 | Selected |
 
 ---
 
@@ -95,92 +95,89 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 
 ### Primary Bathroom
 
-| Item | Brand / Model | Est. Cost | Status |
-|------|--------------|-----------|--------|
-| Toilet | Kohler Reach Comfort Height One-Piece K-78080 (White) | TBD | Selected |
-| Sink | Kohler Brazn Undermount K-21058-0 (White) | TBD | Selected |
-| Faucet | Kohler Purist Widespread K-14406-4 | TBD | Selected |
-| Shower Thermostatic Valve | Kohler Anthem Three-Outlet K-26347-9 | TBD | Selected |
-| Shower Volume Control | Kohler Composed MasterShower K-T73135-4 | TBD | Selected |
-| Rainhead | Kohler Honesty Square 10" K-26149 | TBD | Selected |
-| Showerhead | Kohler Parallel K-24805-G | TBD | Selected |
-| Handshower | Kohler Shift Square K-21336-G | TBD | Selected |
-| Shower Arm | Kohler Honesty K-20005 | TBD | Selected |
+| Item | Brand / Model | MSRP | Status |
+|------|--------------|------|--------|
+| Toilet | Kohler Reach K-78080 (White) | $813 | Selected |
+| Sink (x2) | Kohler Brazn K-21058-0 (White) | $283 ea | Selected |
+| Faucet (x2) | Kohler Purist Widespread K-14406-4-2MB | $881 ea | Selected |
+| Shower Thermostatic Valve | Kohler Anthem K-26347-9-2MB | $528 | Selected |
+| Shower Volume Control | Kohler MasterShower K-9514-2MB | $106 | Selected |
+| Rainhead | Kohler Honesty 8" K-26148-G-2MB | $262 | Selected |
+| Showerhead | Kohler Parallel K-24805-JJ-2MB | $138 | Selected |
+| Handshower | Kohler Shift+ Round K-21335-2MB | $242 | Selected |
+| Handshower Supply Elbow | Kohler Purist Stillness K-22172-2MB | $148 | Selected |
+| 30" Slidebar | Kohler K-8524-2MB | $346 | Selected |
+| 24" Towel Bar | Kohler Purist K-14436-2MB | $274 | Selected |
+| Towel Ring | Kohler Purist K-14441-2MB | $190 | Selected |
+| Pivoting TP Holder | Kohler Purist K-14377-2MB | $320 | Selected |
+| Robe Hook (x2) | Kohler Purist K-14443-2MB | $116 ea | Selected |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| **MSRP Subtotal** | | **$5,924** | |
+| **After 40% discount** | | **$3,554** | |
 
-### First Floor Bathroom
+### First Floor Bathroom (Bath 2)
 
-| Item | Brand / Model | Est. Cost | Status |
-|------|--------------|-----------|--------|
-| Toilet | Kohler Reach Comfort Height One-Piece K-78080 (White) | TBD | Selected |
-| Sink | Kohler Brazn Undermount K-21058-0 (White) | TBD | Selected |
-| Faucet | Kohler Riff Single-Handle K-27400-4 | TBD | Selected |
-| Shower Trim | Kohler Elate Rite-Temp K-T35327-4G | TBD | Selected |
-| Handshower Kit | Kohler Elate K-35331-Y | TBD | Selected |
+| Item | Brand / Model | MSRP | Status |
+|------|--------------|------|--------|
+| Toilet | Kohler Reach K-78080 (White) | $813 | Selected |
+| Sink | Kohler Brazn K-21058-0 (White) | $283 | Selected |
+| Faucet | Kohler Riff K-27400-4 | $356 | Selected |
+| Shower Trim | Kohler Elate Rite-Temp K-T35327-4G-2MB | $360 | Selected |
+| Handshower Kit | Kohler Elate K-35331-H-2MB | $288 | Selected |
+| 24" Towel Bar | Kohler Elate K-27287-2MB | $85 | Selected |
+| TP Holder | Kohler Elate K-27292-2MB | $53 | Selected |
+| Robe Hook (x2) | Kohler Elate K-27290-2MB | $35 ea | Selected |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| **MSRP Subtotal** | | **$2,308** | |
+| **After 40% discount** | | **$1,385** | |
 
-### Second Floor Bathroom (Shared)
+### Second Floor Bathroom (Bath 1, Shared)
 
-| Item | Brand / Model | Est. Cost | Status |
-|------|--------------|-----------|--------|
-| Toilet | Kohler Reach Comfort Height One-Piece K-78080 (White) | TBD | Selected |
-| Bathtub | Kohler Archer K-1946-LA (White) | TBD | Selected |
-| Sink | Kohler Brazn Undermount K-21058-0 (White) | TBD | Selected |
-| Faucet | Kohler Riff Single-Handle K-27400-4 | TBD | Selected |
-| Tub/Shower Trim | Kohler Elate Rite-Temp K-T35327-4G | TBD | Selected |
-| Handshower Kit | Kohler Elate K-35331-Y | TBD | Selected |
-| Transfer Valve Trim | Kohler Elate MasterShower K-T35330-4 | TBD | Selected |
+| Item | Brand / Model | MSRP | Status |
+|------|--------------|------|--------|
+| Toilet | Kohler Reach K-78080 (White) | $813 | Selected |
+| Bathtub | Kohler Avec K-25830-LA-0 (White) | $881 | Selected |
+| Sink (x2) | Kohler Brazn K-21058-0 (White) | $283 ea | Selected |
+| Faucet (x2) | Kohler Riff K-27400-4 | $356 ea | Selected |
+| Tub/Shower Trim | Kohler Elate Rite-Temp K-T35327-4G-2MB | $360 | Selected |
+| Handshower Kit | Kohler Elate K-35331-H-2MB | $288 | Selected |
+| Transfer Valve Trim | Kohler Elate MasterShower K-T35330-4-2MB | $83 | Selected |
+| 24" Towel Bar (x2) | Kohler Elate K-27287-2MB | $85 ea | Selected |
+| TP Holder | Kohler Elate K-27292-2MB | $53 | Selected |
+| Robe Hook (x2) | Kohler Elate K-27290-2MB | $35 ea | Selected |
+| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| **MSRP Subtotal** | | **$4,361** | |
+| **After 40% discount** | | **$2,617** | |
 
 ### Outdoor Bathroom (Garage)
 
-| Item | Brand / Model | Est. Cost | Status |
-|------|--------------|-----------|--------|
-| Toilet | Kohler Reach Comfort Height One-Piece K-78080 (White) | TBD | Selected |
-| Sink | Kohler ModernLife Wall-Mount K-77767 | TBD | Selected |
-| Faucet | Kohler Components Single-Handle K-77958-4A-BN | TBD | Selected |
-| Shower Handshower Kit | Kohler Awaken B110 K-99899-G-BN | TBD | Selected |
-| Shower Thermostatic Valve | Kohler Components K-T78027-4-BN | TBD | Selected |
-
-### Bathroom Accessories (all bathrooms)
-
-All accessories in Vibrant Brushed Moderne Brass (2MB). Collection matched to each bathroom's fixture line.
-
-### Primary Bathroom — Kohler Purist
-| Item | Model | Est. Price | Status |
-|------|-------|-----------|--------|
-| 24" Towel Bar | K-14436-2MB | $274 | Selected |
-| Towel Ring | K-14441-2MB | $190 | Selected |
-| Pivoting TP Holder | K-14377-2MB | $320 | Selected |
-| Robe Hook (x2) | K-14443-2MB | $116 ea | Selected |
+| Item | Brand / Model | MSRP | Status |
+|------|--------------|------|--------|
+| Toilet | Kohler Reach K-78080 (White) | $813 | Selected |
+| Sink | Kohler ModernLife K-77767 | $248 | Selected |
+| Faucet | Kohler Components K-77958-4A-BN | $748 | Selected |
+| Shower Handshower Kit | Kohler Awaken B110 K-99243-G-BN | $296 | Selected |
+| Shower Thermostatic Valve | Kohler Components K-T78027-4-BN | $533 | Selected |
+| 24" Towel Bar | Kohler Components K-78373-2MB | $222 | Selected |
+| Vertical TP Holder | Kohler Components K-78383-2MB | $159 | Selected |
+| Robe Hook | Kohler Components K-78378-2MB | $93 | Selected |
 | Mirror | Frameless — TBD | TBD | **Needs selection** |
-| **Subtotal** | | **~$1,016** | |
+| **MSRP Subtotal** | | **$3,112** | |
+| **After 40% discount** | | **$1,867** | |
 
-### First Floor Bathroom (Bath 2) — Kohler Elate
-| Item | Model | Est. Price | Status |
-|------|-------|-----------|--------|
-| 24" Towel Bar | K-27287-2MB | $85 | Selected |
-| TP Holder | K-27292-2MB | $53 | Selected |
-| Robe Hook (x2) | K-27290-2MB | $35 ea | Selected |
-| Mirror | Frameless — TBD | TBD | **Needs selection** |
-| **Subtotal** | | **~$208** | |
+---
 
-### Second Floor Bathroom (Bath 1) — Kohler Elate
-| Item | Model | Est. Price | Status |
-|------|-------|-----------|--------|
-| 24" Towel Bar (x2) | K-27287-2MB | $85 ea | Selected |
-| TP Holder | K-27292-2MB | $53 | Selected |
-| Robe Hook (x2) | K-27290-2MB | $35 ea | Selected |
-| Mirror | Frameless — TBD | TBD | **Needs selection** |
-| **Subtotal** | | **~$293** | |
+### Kohler Fixtures & Accessories Summary
 
-### Outdoor Bathroom — Kohler Components
-| Item | Model | Est. Price | Status |
-|------|-------|-----------|--------|
-| 24" Towel Bar | K-78373-2MB | $222 | Selected |
-| Vertical TP Holder | K-78383-2MB | $159 | Selected |
-| Robe Hook | K-78378-2MB | $93 | Selected |
-| Mirror | Frameless — TBD | TBD | **Needs selection** |
-| **Subtotal** | | **~$474** | |
+| Bathroom | MSRP | After 40% Discount |
+|----------|------|-------------------|
+| Primary | $5,924 | $3,554 |
+| First Floor (Bath 2) | $2,308 | $1,385 |
+| Second Floor (Bath 1) | $4,361 | $2,617 |
+| Outdoor | $3,112 | $1,867 |
+| **Total** | **$15,705** | **$9,423** |
 
-**Accessories total: ~$1,991** | Accessories installation allowance: $1,150 (labor only)
+> All Kohler fixtures and accessories qualify for 40% trade discount. Mirrors are non-Kohler (frameless, TBD) and not included in discount. Installation allowance: $5,463 (fixtures) + $1,150 (accessories) in contractor proposal.
 
 ---
 
