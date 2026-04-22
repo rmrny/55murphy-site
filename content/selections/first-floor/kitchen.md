@@ -52,6 +52,7 @@ Allowance in proposal: $5,750 (material + labor)
 | Item | Brand / Model | Finish | Status |
 |------|--------------|--------|--------|
 | Kitchen Faucet | [Kohler Crue Semi-Professional K-22973-2MB](https://www.kohler.com/en/products/kitchen-faucets/shop-kitchen-faucets/crue-semi-professional-kitchen-sink-faucet-w-three-function-sprayhead-22973?skuId=22973-2MB) | Moderne Brass | SELECTED |
+| Kitchen Sink | [Kraus Workstation 32" Undermount 16-Gauge SS KWU110-32/PGM](https://www.kraususa.com/workstation-32-undermount-16-gauge-stainless-steel-single-bowl-kitchen-sink-in-gunmetal-pvd-finish-with-accessories.html) | Gunmetal PVD — $629.95 | SELECTED |
 
 ## Ceiling
 | Material | Color | Brand / Product | Status |

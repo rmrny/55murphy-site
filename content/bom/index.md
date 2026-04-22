@@ -49,7 +49,7 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Item | Brand / Model | Est. Cost | Status |
 |------|--------------|-----------|--------|
 | Kitchen Faucet | Kohler Crue Semi-Professional K-22973-2MB (Moderne Brass) | ~$350 | Selected |
-| Kitchen Sink | TBD | TBD | **Needs selection** |
+| Kitchen Sink | [Kraus Workstation 32" Undermount 16-Gauge SS Single Bowl KWU110-32/PGM](https://www.kraususa.com/workstation-32-undermount-16-gauge-stainless-steel-single-bowl-kitchen-sink-in-gunmetal-pvd-finish-with-accessories.html) (Gunmetal PVD) | $629.95 | Selected |
 
 ### Finishes
 
