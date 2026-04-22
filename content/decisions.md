@@ -43,6 +43,7 @@ These won't block CDs but need to be resolved before the relevant work starts.
 | 18 | Primary bath tile (Albatross catalog?) | See catalog reference | ~191 sqft of tile | Both |
 | 19 | Multi-stage phasing plan | What order? Live-in during construction? | Added cost, schedule | Bob |
 | 20 | Solar panel reinstallation plan | Who reinstalls? When? | Coordinate with roofing | Bob |
+| 21 | Bathroom accessories | Towel bars, TP holders, robe hooks, mirrors/medicine cabinets | Owner-supplied, $1,150 install allowance — see [[bom/index#bathrooms\|BOM]] | Both |
 
 ## Contractor Clarifications Needed
 
