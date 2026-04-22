@@ -2,40 +2,45 @@
 title: 55 Murphy Rd - Home Renovation
 ---
 
-# 55 Murphy Rd - Renovation & Addition
+# 55 Murphy Rd — Renovation & Addition
 
 **Riordan Family** | Port Monmouth, NJ 07758
 
-Welcome to our living project tracker. This site has everything about our renovation - selections, schedules, budget, and status. Bookmark this page and check back for updates.
-
 ---
 
-## Quick Links
-
-### [[selections/index|Selections]]
-Room-by-room materials, colors, finishes, and fixtures. This is where we track what's been chosen and what still needs decisions.
-
-### [[schedules/index|Schedules]]
-Door schedule, window schedule, tile schedule, plumbing fixtures, and appliances.
-
-### [[budget/index|Budget Overview]]
-Proposal breakdown, allowances, and what's included vs. what we're responsible for.
-
-### [[drawings/index|Drawing Status]]
-What drawings exist, what's still needed, and the path to construction documents.
-
-### [[networking|Networking Requirements]]
-VLAN layout, port counts, cable runs, equipment list, and shopping list for the full network build-out.
-
-### [[smarthome|Smart Home Plan]]
-Shelly relays, momentary switches, Zigbee sensors, Home Assistant setup, and smart device planning.
+## What Needs Our Attention
 
 ### [[decisions|Open Decisions]]
-Items that still need a decision before we can move forward.
+**20 items** that need a decision before construction documents can be finalized. Sorted by urgency — start here.
 
-### [[timeline|Project Timeline]]
-Critical path and what needs to happen in what order.
+### [[selections/index|Room Selections]]
+Room-by-room materials, colors, and finishes. Items marked **TBD** still need a decision from both of us.
+
+### [[bom/index|Bill of Materials]]
+Everything we need to purchase ourselves — appliances, fixtures, smart home, networking — organized by room with costs. This is our owner spending tracker.
 
 ---
 
-*Last updated: 2026-04-03*
+## Project Status
+
+### [[timeline|Project Timeline]]
+We're moving into Construction Documents. Phase 1 (selections & design) must be complete first.
+
+### [[budget/index|Budget Overview]]
+Contractor proposal: **$660,164** (Brendan / Jersey Shore Contracting). Plus owner costs tracked in the [[bom/index|BOM]].
+
+### [[schedules/index|Schedules]]
+Door, window, tile, plumbing fixture, appliance, paint, and mechanical schedules.
+
+---
+
+## Technical Reference
+
+### [[drawings/index|Drawing Status]]
+What drawings exist, what's missing, and the path to a complete CD set.
+
+### [[networking|Networking & Cameras]]
+VLAN layout, UniFi equipment, camera placement, cable runs, and full shopping list.
+
+### [[smarthome|Smart Home Plan]]
+Shelly relays, momentary switches, Zigbee sensors, Home Assistant, and automation planning.
