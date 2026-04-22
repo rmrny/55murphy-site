@@ -13,25 +13,25 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 | Ceiling Paint | Ceiling White | TBD | Color chosen, brand needed |
 
 ## First Floor
-- [[selections/living-room|Living Room]]
-- [[selections/kitchen|Kitchen]]
-- [[selections/dining|Dining / Open Room]]
-- [[selections/pantry|Pantry]]
-- [[selections/bathroom-1st|First Floor Bathroom]]
+- [[selections/first-floor/living-room|Living Room]]
+- [[selections/first-floor/kitchen|Kitchen]]
+- [[selections/first-floor/dining|Dining / Open Room]]
+- [[selections/first-floor/pantry|Pantry]]
+- [[selections/first-floor/bathroom-1st|First Floor Bathroom]]
 
 ## Second Floor
-- [[selections/primary-bedroom|Primary Bedroom]]
-- [[selections/primary-bath|Primary Bathroom]]
-- [[selections/bedroom-wallpaper|Bedroom (Wallpaper Room)]]
-- [[selections/kids-alice|Kids Room - Alice]]
-- [[selections/kids-bobby|Kids Room - Bobby]]
-- [[selections/bathroom-2nd|Second Floor Bathroom]]
-- [[selections/laundry|Laundry]]
+- [[selections/second-floor/primary-bedroom|Primary Bedroom]]
+- [[selections/second-floor/primary-bath|Primary Bathroom]]
+- [[selections/second-floor/bedroom-wallpaper|Bedroom (Wallpaper Room)]]
+- [[selections/second-floor/kids-alice|Kids Room - Alice]]
+- [[selections/second-floor/kids-bobby|Kids Room - Bobby]]
+- [[selections/second-floor/bathroom-2nd|Second Floor Bathroom]]
+- [[selections/second-floor/laundry|Laundry]]
 
 ## Garage & Exterior
-- [[selections/cabana|Cabana]]
-- [[selections/outdoor-bath|Outdoor Bathroom]]
-- [[selections/exterior|Exterior (Siding, Roofing, Deck)]]
+- [[selections/garage-exterior/cabana|Cabana]]
+- [[selections/garage-exterior/outdoor-bath|Outdoor Bathroom]]
+- [[selections/garage-exterior/exterior|Exterior (Siding, Roofing, Deck)]]
 
 ## Not Yet Started
 These rooms only need paint and flooring — no unique selections. Pages will be added when we get to finishes.
