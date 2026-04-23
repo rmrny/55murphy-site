@@ -245,13 +245,13 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 
 | Item | Spec | Est. LF (incl. 15% waste) | Status |
 |------|------|--------------------------|--------|
-| Baseboard | 1x8 S4S minimalist, 7" min — Poplar or Red Oak — $4.00/LF | ~1,365 LF | Selected — wood species TBD |
+| Baseboard | 1x8 S4S minimalist, 7" min — Poplar or Red Oak — $4.00/LF | ~1,325 LF | Selected — wood species TBD |
 | Door Casing | 1x3 S4S minimalist, 4" — Poplar or Red Oak — $1.48/LF | ~855 LF | Selected — wood species TBD |
 | **Total** | | **~2,220 LF** | |
 
 Finish: Sherwin Williams White Snow (SW 9541) — Semi-Gloss.
 
-Baseboard estimate based on room schedule v2 perimeters (~1,233 LF from schedule + ~35 LF est. for Tara's office) less door openings (~80 LF) = ~1,188 LF net + 15% waste. Excludes cabana and outdoor bath (tile baseboard). Door casing estimate based on door schedule: 14 interior doors (32"×80", both faces), 6 closet doors (24"×80", both faces), 5 exterior doors (interior face only, excludes garage overhead) = ~741 LF net + 15% waste.
+Baseboard estimate based on room schedule v2 perimeters (~1,233 LF) less door openings (~80 LF) = ~1,153 LF net + 15% waste. Excludes cabana and outdoor bath (tile baseboard). Door casing estimate based on door schedule: 14 interior doors (32"×80", both faces), 6 closet doors (24"×80", both faces), 4 exterior doors + 4 garage/cabana exterior doors (interior face only, excludes overhead) = ~741 LF net + 15% waste.
 
 ---
 

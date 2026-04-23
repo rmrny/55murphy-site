@@ -81,7 +81,7 @@ These must be communicated to the electrician during rough-in:
 | 6 | Bedroom / Playroom | Dimmable | Dimmer Gen4 | Fan-wired box (fan capped) |
 | 7 | Tara's Office | Dimmable | Dimmer Gen4 | |
 | 8 | Foyer / Mudroom / Corridor | Dimmable | Dimmer Gen4 | Single zone, possible 3-way |
-| 9 | Bedroom | Dimmable | Dimmer Gen4 | Fan-wired box (fan capped) |
+| 9 | Guest Room | Dimmable | Dimmer Gen4 | Fan-wired box (fan capped) |
 | 10 | Bathroom (1st floor) | Dimmable | Dimmer Gen4 | |
 | 11 | Bob's Office | Dimmable | Dimmer Gen4 | |
 | | **Second Floor — Dimmable** | | | |
@@ -94,7 +94,7 @@ These must be communicated to the electrician during rough-in:
 | 18 | Kids Room - Bobby | Dimmable | Dimmer Gen4 | Fan-wired box (fan capped) |
 | | **Fan Circuits — Capped for Future Use** | | | |
 | 19 | Bedroom / Playroom fan | On/off | 1 Mini Gen3 | Wired, capped at ceiling |
-| 20 | Bedroom fan | On/off | 1 Mini Gen3 | Wired, capped at ceiling |
+| 20 | Guest Room fan | On/off | 1 Mini Gen3 | Wired, capped at ceiling |
 | 21 | Primary Bedroom fan | On/off | 1 Mini Gen3 | Wired, capped at ceiling |
 | 22 | Kids Room - Alice fan | On/off | 1 Mini Gen3 | Wired, capped at ceiling |
 | 23 | Kids Room - Bobby fan | On/off | 1 Mini Gen3 | Wired, capped at ceiling |

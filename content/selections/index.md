@@ -42,6 +42,7 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 ## Not Yet Started
 These rooms only need paint and flooring — no unique selections. Pages will be added when we get to finishes.
 
+- Guest Room
 - Bedroom / Play Room
 - Office
 - Foyer & Stairway
