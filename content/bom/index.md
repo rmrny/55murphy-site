@@ -245,8 +245,8 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 
 | Item | Spec | Est. LF (incl. 20% waste) | Status |
 |------|------|--------------------------|--------|
-| Baseboard | 1x8 S4S minimalist, 7" min — $4.00/LF | ~1,525 LF | Selected |
-| Door Casing | 1x3 S4S minimalist, 4" — $1.48/LF | ~890 LF | Selected |
+| Baseboard | 1x8 S4S minimalist, 7" min — Poplar or Red Oak — $4.00/LF | ~1,525 LF | Selected — wood species TBD |
+| Door Casing | 1x3 S4S minimalist, 4" — Poplar or Red Oak — $1.48/LF | ~890 LF | Selected — wood species TBD |
 | **Total** | | **~2,415 LF** | |
 
 Finish: Sherwin Williams White Snow (SW 9541) — Semi-Gloss.
