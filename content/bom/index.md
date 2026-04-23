@@ -243,15 +243,15 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 
 ## Interior Trim — Contractor Furnished & Installed {#trim}
 
-| Item | Spec | Est. LF (incl. 10% waste) | Status |
+| Item | Spec | Est. LF (incl. 20% waste) | Status |
 |------|------|--------------------------|--------|
-| Baseboard | 1x8 S4S minimalist, 7" min — $4.00/LF | ~735 LF | Selected |
-| Door Casing | 1x3 S4S minimalist, 4" — $1.48/LF | ~815 LF | Selected |
-| **Total** | | **~1,550 LF** | |
+| Baseboard | 1x8 S4S minimalist, 7" min — $4.00/LF | ~1,525 LF | Selected |
+| Door Casing | 1x3 S4S minimalist, 4" — $1.48/LF | ~890 LF | Selected |
+| **Total** | | **~2,415 LF** | |
 
 Finish: Sherwin Williams White Snow (SW 9541) — Semi-Gloss.
 
-Baseboard estimate based on floor schedule perimeters (~748 LF raw) less door openings (~80 LF). Excludes cabana and outdoor bath (tile baseboard). Door casing estimate based on door schedule: 14 interior doors (32"×80", both faces), 6 closet doors (24"×80", both faces), 5 exterior doors (interior face only, excludes garage overhead).
+Baseboard estimate based on room schedule perimeters (~1,198 LF from schedule + ~150 LF est. for rooms not in schedule — laundry, Tara's office, wallpaper room, 2nd floor corridor) less door openings (~80 LF) = ~1,268 LF net + 20% waste. Excludes cabana and outdoor bath (tile baseboard). Door casing estimate based on door schedule: 14 interior doors (32"×80", both faces), 6 closet doors (24"×80", both faces), 5 exterior doors (interior face only, excludes garage overhead) = ~741 LF net + 20% waste.
 
 ---
 
