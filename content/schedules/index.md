@@ -21,6 +21,9 @@ Toilets, lavatories, faucets, showers - model numbers and finishes.
 ## [[schedules/appliance-schedule|Appliance Schedule]]
 Kitchen and laundry appliances - models, dimensions, utility requirements.
 
+## [[schedules/countertop-schedule|Countertop Schedule]]
+Kitchen, bathroom, laundry, and pantry countertops - materials, sizes, sink cutouts.
+
 ## [[schedules/paint-schedule|Paint Schedule]]
 Room-by-room paint colors, brands, and finish types.
 

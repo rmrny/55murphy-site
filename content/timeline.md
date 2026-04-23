@@ -8,7 +8,12 @@ title: Project Timeline
 - Preliminary/pricing drawings complete (Arch + MEP)
 - Contractor proposal received (DRAFT - $660,164.25)
 - General Conditions contract drafted
+- Structural engineering documents sent for review (2026-04-23)
 - **Moving into Construction Documents phase**
+
+### Action Items
+- [ ] Schedule financing discussions
+- [ ] Select bathroom countertops/vanity tops (all 4 bathrooms)
 
 ---
 
