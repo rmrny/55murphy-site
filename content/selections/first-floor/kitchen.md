@@ -59,7 +59,7 @@ Allowance in proposal: $5,750 (material + labor)
 ## Ceiling
 | Material | Color | Brand / Product | Status |
 |----------|-------|----------------|--------|
-| Paint | White | Sherwin Williams Snowboard (SW 7004) | Selected |
+| Paint | White | Sherwin Williams Snowbound (SW 7004) | Selected |
 
 ## Floor
 | Material | Color | Brand / Product | Status |

@@ -21,7 +21,7 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | [[#bathroom-tile|Bathrooms — Tile]] | ~$5,879 (3 bathrooms, with 15% waste) | Selected |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
 | [[#flooring|Flooring (whole house)]] | ~$8,300 laminate (2,975 SF @ $2.79 incl. cabana) | Selected |
-| [[#paint|Paint (whole house)]] | TBD (pricing needed) | Colors selected — SW White Snow / Snowboard |
+| [[#paint|Paint (whole house)]] | TBD (pricing needed) | Colors selected — SW White Snow / Snowbound |
 | [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
 | **Known total** | **~$36,313+** | Excludes doors, paint, mirrors, countertops |
@@ -288,7 +288,7 @@ Hardwood floor allowance in proposal: $26,988 (material + labor). Laminate mater
 |------|-----------|--------|
 | Wall paint (all rooms) | Sherwin Williams White Snow (SW 9541) | Selected |
 | Trim paint (all rooms) | Sherwin Williams White Snow (SW 9541) | Selected |
-| Ceiling paint (all rooms) | Sherwin Williams Snowboard (SW 7004) | Selected |
+| Ceiling paint (all rooms) | Sherwin Williams Snowbound (SW 7004) | Selected |
 | Primary bedroom ceiling | Sherwin Williams Tame Teal (SW 6757) | Selected |
 | Kids - Bobby west wall | Sherwin Williams Hunt Club (SW 6468) | Selected |
 | Bedroom/Play east wall | Sherwin Williams Loyal Blue (SW 6510) | Selected |

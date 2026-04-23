@@ -11,7 +11,7 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 |------|-----------|-------|--------|
 | Wall Paint | White Snow (SW 9541) | Sherwin Williams | Selected |
 | Trim Paint | White Snow (SW 9541) | Sherwin Williams | Selected |
-| Ceiling Paint | Snowboard (SW 7004) | Sherwin Williams | Selected |
+| Ceiling Paint | Snowbound (SW 7004) | Sherwin Williams | Selected |
 
 ## First Floor
 - [[selections/first-floor/living-room|Living Room]]
