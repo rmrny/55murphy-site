@@ -36,6 +36,10 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 - [[selections/garage-exterior/outdoor-bath|Outdoor Bathroom]]
 - [[selections/garage-exterior/exterior|Exterior (Siding, Roofing, Deck)]]
 
+## Whole-House Systems
+- [[selections/networking|Networking & Cameras]]
+- [[selections/smarthome|Smart Home Plan]]
+
 ## Not Yet Started
 These rooms only need paint and flooring — no unique selections. Pages will be added when we get to finishes.
 

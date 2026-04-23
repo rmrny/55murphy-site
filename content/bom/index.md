@@ -313,7 +313,7 @@ See [[schedules/paint-schedule|Paint Schedule]] for room-by-room details.
 
 ## Networking & Cameras {#networking}
 
-Fully specced — see [[networking|Networking Requirements]] for details.
+Fully specced — see [[selections/networking|Networking Requirements]] for details.
 
 ### Equipment to Purchase
 
@@ -348,7 +348,7 @@ Fully specced — see [[networking|Networking Requirements]] for details.
 
 ## Smart Home {#smart-home}
 
-Fully specced — see [[smarthome|Smart Home Plan]] for details.
+Fully specced — see [[selections/smarthome|Smart Home Plan]] for details.
 
 ### Contractor-Furnished & Installed
 

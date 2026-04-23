@@ -1,8 +1,8 @@
 ---
-title: Room Selections
+title: Kids Room - Bobby
 ---
 
-# Room
+# Kids Room - Bobby
 
 ## Walls
 | Surface | Material | Color | Status |

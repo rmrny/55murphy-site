@@ -39,8 +39,8 @@ Door, window, tile, plumbing fixture, appliance, paint, and mechanical schedules
 ### [[drawings/index|Drawing Status]]
 What drawings exist, what's missing, and the path to a complete CD set.
 
-### [[networking|Networking & Cameras]]
+### [[selections/networking|Networking & Cameras]]
 VLAN layout, UniFi equipment, camera placement, cable runs, and full shopping list.
 
-### [[smarthome|Smart Home Plan]]
+### [[selections/smarthome|Smart Home Plan]]
 Shelly relays, momentary switches, Zigbee sensors, Home Assistant, and automation planning.

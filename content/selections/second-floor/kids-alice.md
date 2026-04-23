@@ -1,8 +1,8 @@
 ---
-title: Room Selections
+title: Kids Room - Alice
 ---
 
-# Room
+# Kids Room - Alice
 
 ## Walls
 | Surface | Material | Color | Status |
