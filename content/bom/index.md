@@ -232,6 +232,7 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 | Front entry door | TBD | **Needs selection** |
 | Rear door | TBD | **Needs selection** |
 | Garage door(s) | TBD | **Needs selection** |
+| Garage door opener (x2) | Chamberlain RJO101 Wall Mount | $550 ea | Selected |
 | Interior door style | Panel config, lever vs knob TBD | **Needs selection** |
 | BBQ/Grill | TBD (gas line included in proposal) | **Needs selection** |
 
