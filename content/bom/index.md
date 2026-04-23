@@ -241,6 +241,20 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 
 ---
 
+## Interior Trim — Contractor Furnished & Installed {#trim}
+
+| Item | Spec | Est. LF (incl. 10% waste) | Status |
+|------|------|--------------------------|--------|
+| Baseboard | 1x8 S4S minimalist, 7" min — $4.00/LF | ~735 LF | Selected |
+| Door Casing | 1x3 S4S minimalist, 4" — $1.48/LF | ~815 LF | Selected |
+| **Total** | | **~1,550 LF** | |
+
+Finish: Sherwin Williams White Snow (SW 9541) — Semi-Gloss.
+
+Baseboard estimate based on floor schedule perimeters (~748 LF raw) less door openings (~80 LF). Excludes cabana and outdoor bath (tile baseboard). Door casing estimate based on door schedule: 14 interior doors (32"×80", both faces), 6 closet doors (24"×80", both faces), 5 exterior doors (interior face only, excludes garage overhead).
+
+---
+
 ## Flooring — Whole House {#flooring}
 
 **Product:** AquaGuard Performance Cocoa Waterproof Laminate (SKU 100997105) — $2.79/sqft

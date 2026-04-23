@@ -9,9 +9,11 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 ## Whole-House Selections
 | Item | Selection | Brand | Status |
 |------|-----------|-------|--------|
-| Wall Paint | White Snow (SW 9541) | Sherwin Williams | Selected |
-| Trim Paint | White Snow (SW 9541) | Sherwin Williams | Selected |
-| Ceiling Paint | Snowbound (SW 7004) | Sherwin Williams | Selected |
+| Wall Paint | White Snow (SW 9541) — Eggshell | Sherwin Williams | Selected |
+| Trim Paint | White Snow (SW 9541) — Semi-Gloss | Sherwin Williams | Selected |
+| Ceiling Paint | Snowbound (SW 7004) — Flat | Sherwin Williams | Selected |
+| Baseboard | S4S minimalist, 7" minimum | TBD | Selected — style chosen |
+| Door Casing | S4S minimalist, 4" | TBD | Selected — style chosen |
 
 ## First Floor
 - [[selections/first-floor/living-room|Living Room]]
