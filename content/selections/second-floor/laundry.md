@@ -49,5 +49,5 @@ Unfinished cabinets to be painted — Sherwin Williams "Soar" (SW 6799).
 | Item | Brand / Model | Link | Image | Status |
 |------|--------------|------|-------|--------|
 | Washer | LG 5.0 cu ft Front Load Steam TurboWash 360 — Black Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/lg-5-0-cu-ft-high-efficiency-stackable-smart-front-load-washer-with-steam-and-turbowash-360-black-steel/JJ8VPZ6YGL) | ![](/selections/images/lg-washer.jpg) | Existing |
-| Dryer | LG 7.4 cu ft Stackable Smart Gas Dryer with TurboSteam — Black Steel (new) | [Best Buy](https://www.bestbuy.com/product/lg-7-4-cu-ft-stackable-smart-gas-dryer-with-turbosteam-black-steel/JJ8VPZ6YXL) | ![](/selections/images/lg-dryer.jpg) | Selected |
+| Dryer | LG 7.4 cu ft Stackable Smart Electric Dryer with TurboSteam — Black Steel (DLEX6700B) (new) | [Best Buy](https://www.bestbuy.com/product/lg-7-4-cu-ft-stackable-smart-gas-dryer-with-turbosteam-black-steel/JJ8VPZ6YXL) | ![](/selections/images/lg-dryer.jpg) | Selected |
 | Drying Rack | [Foxydry Mini](https://www.foxydry.com/en-us/products/foxydry-mini) (ceiling-mounted) | - | Selected |

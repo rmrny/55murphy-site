@@ -14,17 +14,17 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 
 | Category | Estimated Cost | Status |
 |----------|---------------|--------|
-| [[#kitchen|Kitchen]] | TBD (appliances not yet selected) | Partial |
-| [[#laundry|Laundry]] | TBD (dryer + countertops + rack) | Selected, needs pricing |
-| [[#pantry|Pantry]] | TBD (freezer selected, wine fridge TBD) | Partial |
+| [[#kitchen|Kitchen]] | ~$3,980 (appliances) + cabinets/countertops TBD | Appliances selected, cabinets/countertops TBD |
+| [[#laundry|Laundry]] | ~$1,440 (dryer + rack) + countertops TBD | Selected, countertops need pricing |
+| [[#pantry|Pantry]] | ~$1,400 (freezer + beverage cooler) | Selected |
 | [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$10,435 (Kohler MSRP $17,391 less 40%) | Selected |
 | [[#bathroom-tile|Bathrooms — Tile]] | ~$5,879 (3 bathrooms, with 15% waste) | Selected |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
 | [[#flooring|Flooring (whole house)]] | ~$8,300 laminate (2,975 SF @ $2.79 incl. cabana) | Selected |
-| [[#paint|Paint (whole house)]] | TBD | Needs brand/color |
+| [[#paint|Paint (whole house)]] | TBD (pricing needed) | Colors selected — SW White Snow / Snowboard |
 | [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
-| **Known total** | **~$29,493+** | Excludes appliances, doors, paint, mirrors |
+| **Known total** | **~$36,313+** | Excludes doors, paint, mirrors, countertops |
 
 > **Allowances in the contractor proposal** that offset some of these costs: Countertops $5,750, Backsplash $3,450, Cabinets $16,100 (material only), Shower Glass $7,475, Hardwood Floors $26,988, Plumbing Fixture Install $5,463, Bathroom Accessories Install $1,150.
 
@@ -37,11 +37,12 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Item | Brand / Model | Est. Cost | Status |
 |------|--------------|-----------|--------|
 | Refrigerator | LG 28.6 cu ft 4-Door French Door Smart — Stainless Steel | Existing | Reuse |
-| Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA | Existing | Reuse |
-| Cooktop | TBD | TBD | **Needs selection** |
-| Over-Range Microwave w/ Exhaust | TBD — vented to exterior, replaces separate hood | TBD | **Needs selection** |
+| Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA — KDPM604KPS | Existing | Reuse |
+| Cooktop | Frigidaire Professional 36" Induction Cooktop — PCCI3680AF, Stainless Steel | $2,000 | Selected |
+| Wall Oven | Frigidaire Gallery 30" Single Electric Wall Oven — GCWS3070AF, Stainless Steel | $1,600 | Selected |
+| Over-Range Microwave w/ Exhaust | Frigidaire Gallery 1.9 Cu Ft OTR Microwave — GMOS1964AF, Stainless Steel | $380 | **Pending — verify direct cook time entry** |
 
-**Cutsheets needed** for cooktop and over-range microwave before MEP coordination can proceed (gas, electrical, venting).
+**Cutsheets** for all kitchen appliances available in `reference/Appliances/`.
 
 ### Fixtures
 
@@ -65,8 +66,8 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Item | Brand / Model | Est. Cost | Status |
 |------|--------------|-----------|--------|
 | Washer | LG 5.0 cu ft Front Load Steam TurboWash 360 (Black Steel) | Existing | Reuse |
-| Dryer | LG 7.4 cu ft Stackable Smart Gas Dryer TurboSteam (Black Steel) | TBD | Selected |
-| Drying Rack | Foxydry Mini (ceiling-mounted) | TBD | Selected |
+| Dryer | LG 7.4 cu ft Stackable Smart Electric Dryer TurboSteam (DLEX6700B, Black Steel) | $1,250 | Selected |
+| Drying Rack | Foxydry Mini 152 cm (ceiling-mounted) | $190 | Selected |
 | Countertop (above W/D) | John Boos 1.75" x 36" x 60" Maple Butcher Block | TBD | Selected |
 | Countertop (cabinet) | John Boos 1.75" x 25" x 72" Maple Butcher Block | TBD | Selected |
 | Sink | Kraus Fairlane KHU631-15 Undermount SS Single Bowl | $159.95 | Selected |
@@ -79,10 +80,8 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 
 | Item | Brand / Model | Est. Cost | Status |
 |------|--------------|-----------|--------|
-| Chest Freezer | Insignia 7 cu ft Garage Ready (White) | TBD | Selected |
-| Wine Fridge | TBD | TBD | **Decision needed (yes/no)** |
-| Under-Counter Fridge | TBD (per A301 furniture plan) | TBD | **Needs selection** |
-| Under-Counter Freezer | TBD (per A301 furniture plan) | TBD | **Needs selection** |
+| Chest Freezer | Insignia 7 cu ft Garage Ready (NS-CZ70WH26L, White) — 30.3"W x 22"D x 33.5"H | $200 | Selected |
+| Beverage Cooler | Zephyr Brisas 24" — BBV24C01AG | $1,200 | Selected |
 | Sink | Kraus Fairlane KHU631-15 Undermount SS Single Bowl | $159.95 | Selected |
 | Faucet | Kohler Crue Single-Handle K-22975-VS (Stainless) | $412.50 | Selected |
 
@@ -287,9 +286,12 @@ Hardwood floor allowance in proposal: $26,988 (material + labor). Laminate mater
 
 | Item | Selection | Status |
 |------|-----------|--------|
-| Wall paint (all rooms) | White — brand & exact color TBD | **Needs brand/color** |
-| Ceiling paint | Ceiling White — brand TBD | **Needs brand** |
-| Primary bedroom ceiling | Seafoam/Mint direction chosen — exact color TBD | Partial |
+| Wall paint (all rooms) | Sherwin Williams White Snow (SW 9541) | Selected |
+| Trim paint (all rooms) | Sherwin Williams White Snow (SW 9541) | Selected |
+| Ceiling paint (all rooms) | Sherwin Williams Snowboard (SW 7004) | Selected |
+| Primary bedroom ceiling | Sherwin Williams Tame Teal (SW 6757) | Selected |
+| Kids - Bobby west wall | Sherwin Williams Hunt Club (SW 6468) | Selected |
+| Bedroom/Play east wall | Sherwin Williams Loyal Blue (SW 6510) | Selected |
 
 See [[schedules/paint-schedule|Paint Schedule]] for room-by-room details.
 

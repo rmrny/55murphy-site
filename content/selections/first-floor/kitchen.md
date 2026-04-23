@@ -7,7 +7,7 @@ title: Kitchen Selections
 ## Walls
 | Surface | Material | Color | Brand / Product | Status |
 |---------|----------|-------|----------------|--------|
-| All Walls | Paint | White | TBD | Needs selection |
+| All Walls | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected |
 
 ## Backsplash
 | Item | Material | Coverage | Cost | Status |
@@ -41,12 +41,14 @@ Allowance in proposal: $5,750 (material + labor)
 | Appliance | Brand / Model | Link | Image | Utility Needs | Status |
 |-----------|--------------|------|-------|--------------|--------|
 | Refrigerator | LG 28.6 cu ft 4-Door French Door Smart — Stainless Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/lg-28-6-cu-ft-4-door-french-door-smart-refrigerator-with-water-dispenser-stainless-steel/JJ8VPZ6C4S) | ![](/selections/images/lg-french-door-fridge.jpg) | Water line needed | Existing |
-| Cooktop | TBD | - | - | Gas | Shown on plans |
-| Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA — Stainless Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/kitchenaid-24-top-control-built-in-stainless-steel-tub-dishwasher-with-3rd-rack-360-max-jets-44-dba-stainless-steel/J3KHV8ZCLG) | ![](/selections/images/kitchenaid-dishwasher.jpg) | Standard | Existing |
-| Range Hood / Vent | TBD | TBD | TBD | Needs selection |
-| Microwave | TBD | TBD | TBD | Needs selection |
+| Cooktop | Frigidaire Professional 36" Induction Cooktop — PCCI3680AF, Stainless Steel | - | - | 240V, 30A (electric) | Selected — **confirm size with cabinet layout** |
+| Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA — KDPM604KPS, Stainless Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/kitchenaid-24-top-control-built-in-stainless-steel-tub-dishwasher-with-3rd-rack-360-max-jets-44-dba-stainless-steel/J3KHV8ZCLG) | ![](/selections/images/kitchenaid-dishwasher.jpg) | Standard | Existing |
+| Wall Oven | Frigidaire Gallery 30" Single Electric Wall Oven — GCWS3070AF, Stainless Steel | - | - | 240V, 20A | Selected |
+| Over-Range Microwave | Frigidaire Gallery 1.9 Cu Ft OTR Microwave — GMOS1964AF, Stainless Steel | - | - | 120V, 13.5A / 400 CFM vented | **Pending — verify direct cook time entry** |
 
-**Important:** Appliance cutsheets needed for framing and MEP coordination. $0 in proposal - all owner cost.
+**Note:** $0 in proposal — all owner cost. Cutsheets available in `reference/Appliances/`.
+
+**Cooktop sizing:** Final cooktop size depends on cabinet layout. A 36" cooktop requires a 48" base cabinet; a 30" cooktop requires a 36" base cabinet. Confirm when cabinets are selected.
 
 ## Fixtures
 | Item | Brand / Model | Finish | Status |
@@ -57,7 +59,7 @@ Allowance in proposal: $5,750 (material + labor)
 ## Ceiling
 | Material | Color | Brand / Product | Status |
 |----------|-------|----------------|--------|
-| Paint | White | TBD | Needs selection |
+| Paint | White | Sherwin Williams Snowboard (SW 7004) | Selected |
 
 ## Floor
 | Material | Color | Brand / Product | Status |

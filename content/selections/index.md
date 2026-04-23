@@ -9,8 +9,9 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 ## Whole-House Selections
 | Item | Selection | Brand | Status |
 |------|-----------|-------|--------|
-| Wall Paint | White | TBD | Color chosen, brand needed |
-| Ceiling Paint | Ceiling White | TBD | Color chosen, brand needed |
+| Wall Paint | White Snow (SW 9541) | Sherwin Williams | Selected |
+| Trim Paint | White Snow (SW 9541) | Sherwin Williams | Selected |
+| Ceiling Paint | Snowboard (SW 7004) | Sherwin Williams | Selected |
 
 ## First Floor
 - [[selections/first-floor/living-room|Living Room]]
