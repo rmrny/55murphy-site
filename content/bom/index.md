@@ -39,10 +39,9 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Refrigerator | LG 28.6 cu ft 4-Door French Door Smart — Stainless Steel | Existing | Reuse |
 | Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA | Existing | Reuse |
 | Cooktop | TBD | TBD | **Needs selection** |
-| Range Hood / Vent | TBD | TBD | **Needs selection** |
-| Microwave | TBD | TBD | **Needs selection** |
+| Over-Range Microwave w/ Exhaust | TBD — vented to exterior, replaces separate hood | TBD | **Needs selection** |
 
-**Cutsheets needed** for cooktop, range hood, and microwave before MEP coordination can proceed.
+**Cutsheets needed** for cooktop and over-range microwave before MEP coordination can proceed (gas, electrical, venting).
 
 ### Fixtures
 
