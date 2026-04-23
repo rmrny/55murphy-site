@@ -32,7 +32,7 @@ Countertop allowance in contractor proposal: **$5,750** (material + labor).
 
 | Location | Sink | Material | Color | Status |
 |----------|------|----------|-------|--------|
-| Pantry counter | Kraus KHU631-15 undermount | TBD | TBD | **Needs selection** |
+| Pantry counter | Kraus KHU631-15 undermount | John Boos 1.75" Maple Butcher Block | Natural | Selected |
 
 ---
 
