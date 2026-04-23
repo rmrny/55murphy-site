@@ -25,7 +25,6 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 ## Second Floor
 - [[selections/second-floor/primary-bedroom|Primary Bedroom]]
 - [[selections/second-floor/primary-bath|Primary Bathroom]]
-- [[selections/second-floor/bedroom-wallpaper|Bedroom (Wallpaper Room)]]
 - [[selections/second-floor/kids-alice|Kids Room - Alice]]
 - [[selections/second-floor/kids-bobby|Kids Room - Bobby]]
 - [[selections/second-floor/bathroom-2nd|Second Floor Bathroom]]
