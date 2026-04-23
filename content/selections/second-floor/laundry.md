@@ -26,8 +26,8 @@ Unfinished cabinets to be painted — Sherwin Williams "Soar" (SW 6799).
 ## Countertops
 | Item | Product | Link | Image | Status |
 |------|---------|------|-------|--------|
-| Above Washer/Dryer (36"x60") | John Boos Maple Butcher Block | [Lowes](https://www.lowes.com/pd/John-Boos-1-75-in-x-36-in-x-60-in-Finished-Maple-Butcher-Block-Countertop/5018626465) | ![](/selections/images/john-boos-butcher-block-36x60.jpg) | Selected |
-| Cabinet Counter (25"x72") | John Boos Maple Butcher Block | [Lowes](https://www.lowes.com/pd/John-Boos-1-75-in-x-25-in-x-72-in-Finished-Maple-Butcher-Block-Countertop/5018625983) | ![](/selections/images/john-boos-butcher-block-25x72.jpg) | Selected |
+| Above Washer/Dryer (36"x60") | 1" Butcher Block — stained and sealed w/ food grade sealant | [Lowes](https://www.lowes.com/pd/John-Boos-1-75-in-x-36-in-x-60-in-Finished-Maple-Butcher-Block-Countertop/5018626465) | ![](/selections/images/john-boos-butcher-block-36x60.jpg) | Selected |
+| Cabinet Counter (25"x72") | 1" Butcher Block — stained and sealed w/ food grade sealant | [Lowes](https://www.lowes.com/pd/John-Boos-1-75-in-x-25-in-x-72-in-Finished-Maple-Butcher-Block-Countertop/5018625983) | ![](/selections/images/john-boos-butcher-block-25x72.jpg) | Selected |
 
 ## Ceiling
 | Material | Color | Status |

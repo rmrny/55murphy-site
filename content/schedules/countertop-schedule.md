@@ -25,14 +25,14 @@ Countertop allowance in contractor proposal: **$5,750** (material + labor).
 
 | Location | Sink | Material | Color | Status |
 |----------|------|----------|-------|--------|
-| Above Washer/Dryer (36"x60") | N/A | John Boos 1.75" Maple Butcher Block | Natural | Selected |
-| Cabinet run (25"x72") | Kraus KHU631-15 undermount | John Boos 1.75" Maple Butcher Block | Natural | Selected |
+| Above Washer/Dryer (36"x60") | N/A | 1" Butcher Block — stained and sealed w/ food grade sealant | Natural | Selected |
+| Cabinet run (25"x72") | Kraus KHU631-15 undermount | 1" Butcher Block — stained and sealed w/ food grade sealant | Natural | Selected |
 
 ## Pantry
 
 | Location | Sink | Material | Color | Status |
 |----------|------|----------|-------|--------|
-| Pantry counter | Kraus KHU631-15 undermount | John Boos 1.75" Maple Butcher Block | Natural | Selected |
+| Pantry counter | Kraus KHU631-15 undermount | 1" Butcher Block — stained and sealed w/ food grade sealant | Natural | Selected |
 
 ---
 
