@@ -37,13 +37,13 @@ All accessories in Vibrant Brushed Moderne Brass (2MB) finish. Collection matche
 | 1 | Mirror | Frameless — TBD | TBD | TBD |
 | | **Subtotal** | | | **$293** |
 
-## Outdoor Bathroom — Kohler Components
+## Outdoor Bathroom — Kohler Components (Brushed Nickel)
 
 | Qty | Item | Model | Unit Price | Total |
 |-----|------|-------|-----------|-------|
-| 1 | 24" Towel Bar | [K-78373-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-24-in-towel-bar-78373?skuId=78373-2MB) | $222 | $222 |
-| 1 | Vertical TP Holder | [K-78383-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-vertical-toilet-tissue-holder-78383?skuId=78383-2MB) | $159 | $159 |
-| 1 | Robe Hook | [K-78378-2MB](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/robe-hook-assembly-78378?skuId=78378-2MB) | $93 | $93 |
+| 1 | 24" Towel Bar | [K-78373-BN](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-24-in-towel-bar-78373?skuId=78373-BN) | $222 | $222 |
+| 1 | Vertical TP Holder | [K-78383-BN](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-vertical-toilet-tissue-holder-78383?skuId=78383-BN) | $159 | $159 |
+| 1 | Robe Hook | [K-78378-BN](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/robe-hook-assembly-78378?skuId=78378-BN) | $93 | $93 |
 | 1 | Mirror | Frameless — TBD | TBD | TBD |
 | | **Subtotal** | | | **$474** |
 

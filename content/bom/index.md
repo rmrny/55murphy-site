@@ -163,9 +163,9 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | Shower Handshower Kit | Kohler Awaken B110 K-99243-G-BN | $296 | Selected |
 | Shower Thermostatic Valve (trim) | Kohler Components K-T78027-4-BN | $533 | Selected |
 | Shower Thermostatic Valve (rough-in) | Kohler MasterShower K-2972-KS-NA | $492 | Selected |
-| 24" Towel Bar | Kohler Components K-78373-2MB | $222 | Selected |
-| Vertical TP Holder | Kohler Components K-78383-2MB | $159 | Selected |
-| Robe Hook | Kohler Components K-78378-2MB | $93 | Selected |
+| 24" Towel Bar | Kohler Components K-78373-BN | $222 | Selected |
+| Vertical TP Holder | Kohler Components K-78383-BN | $159 | Selected |
+| Robe Hook | Kohler Components K-78378-BN | $93 | Selected |
 | Mirror | Frameless — TBD | TBD | **Needs selection** |
 | **MSRP Subtotal** | | **$3,604** | |
 | **After 40% discount** | | **$2,162** | |
