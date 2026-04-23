@@ -24,6 +24,15 @@ All current drawings are marked **"Initial Pricing Set - Not For Construction"**
 | A420 | Interior Elevations - Kitchen/Living/Pantry | Add finish callouts |
 | A421 | Interior Elevations - Laundry | Add finish callouts |
 
+### New in This Set (April 2026)
+| Sheet | Title | Notes |
+|-------|-------|-------|
+| A210 | Sections — New Addition (2 sections) | New — needs more sections for CD set |
+| A211 | Sections — Annex (2 sections) | New |
+| A303 | Garage Furniture Layout | New |
+| A401 | First Floor Finishes | New — confirms floor material zones |
+| A402 | Second Floor Finishes | New — confirms floor material zones |
+
 ### Missing (Must Create)
 | Sheet | Title | Priority |
 |-------|-------|----------|
@@ -32,7 +41,7 @@ All current drawings are marked **"Initial Pricing Set - Not For Construction"**
 | A050 | Site Plan | HIGH - required for permit |
 | A100 | Foundation Plan | HIGH |
 | A104 | Roof/Framing Plan | HIGH |
-| A200 | Building Sections (min 2) | HIGH - required for permit |
+| A200+ | Additional Building Sections | HIGH - A210/A211 exist but more needed |
 | A201 | Wall Sections / Details | HIGH |
 | A300 | Reflected Ceiling Plans | MEDIUM |
 | A400 | Exterior Details | MEDIUM |
