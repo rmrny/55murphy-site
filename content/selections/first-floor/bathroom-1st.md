@@ -16,7 +16,7 @@ title: First Floor Bathroom Selections
 ## Walls (Non-Shower)
 | Surface | Material | Color | Status |
 |---------|----------|-------|--------|
-| Remaining Walls | TBD | TBD | Needs selection |
+| Remaining Walls | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
 
 ## Floor (Non-Shower)
 | Material | Color | Brand / Product | Status |
@@ -36,7 +36,7 @@ title: First Floor Bathroom Selections
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|
-| TBD | TBD | Needs selection |
+| Paint | Sherwin Williams Snowbound (SW 7004) | Selected — Flat |
 
 ## Accessories (Owner Supplied, Contractor Installs) — Kohler Elate, 2MB
 | Item | Model | Est. Price | Status |

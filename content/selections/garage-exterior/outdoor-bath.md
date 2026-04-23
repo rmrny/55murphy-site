@@ -14,7 +14,7 @@ title: Outdoor Bathroom (Garage)
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|
-| Gypsum Board - Waterproof | White Paint | SELECTED |
+| Paint (waterproof gyp) | Sherwin Williams Snowbound (SW 7004) | Selected — Flat |
 
 ## Floor
 | Material | Color/Style | Status |

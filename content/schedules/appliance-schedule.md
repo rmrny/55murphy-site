@@ -5,32 +5,39 @@ title: Appliance Schedule
 # Appliance Schedule
 
 **All appliances are owner purchased, supplied, and installed.** $0 in contractor proposal.
-Cutsheets must be provided to engineer for framing and MEP coordination.
+Cutsheets available in `reference/Appliances/`.
 
 ## Kitchen Appliances
-| Item | Brand | Model | Width | Depth | Height | Fuel/Power | Status |
-|------|-------|-------|-------|-------|--------|-----------|--------|
-| Refrigerator | TBD | TBD | TBD | TBD | TBD | 120V | Needs selection |
-| Cooktop | TBD | TBD | TBD | TBD | TBD | Gas | Needs selection |
-| Oven/Range | TBD | TBD | TBD | TBD | TBD | TBD | Needs selection |
-| Dishwasher | TBD | TBD | TBD | TBD | TBD | 120V | Needs selection |
-| Range Hood | TBD | TBD | TBD | TBD | TBD | 120V | Needs selection - duct path needed |
-| Microwave | TBD | TBD | TBD | TBD | TBD | 120V | Needs selection |
+| Item | Brand | Model | Width | Depth | Height | Fuel/Power | Cost | Status |
+|------|-------|-------|-------|-------|--------|-----------|------|--------|
+| Refrigerator | LG | LRMWS2906S — 28.6 cu ft 4-Door French Door, Stainless Steel | 35 3/4" | 33 3/4" | 68 1/2" | 120V | Existing | Reuse |
+| Cooktop | Frigidaire Professional | PCCI3680AF — 36" Induction, Stainless Steel | 36 3/4" | 21 3/8" | 2 7/8" | 240V, 30A | $2,000 | Selected — confirm size with cabinet layout |
+| Wall Oven | Frigidaire Gallery | GCWS3070AF — 30" Single Electric, Stainless Steel | - | - | - | 240V, 20A | $1,600 | Selected |
+| Dishwasher | KitchenAid | KDPM604KPS — 24" Top Control Built-In 3rd Rack 44 dBA, Stainless Steel | 24 1/2" | 23 15/16" | 33 3/8" | 120V | Existing | Reuse |
+| Over-Range Microwave | Frigidaire Gallery | GMOS1964AF — 1.9 Cu Ft OTR w/ Sensor Cook, Stainless Steel | 29 7/8" | 15 3/4" | 15 5/8" | 120V, 13.5A / 400 CFM vented | $380 | Pending — verify direct cook time entry |
 
 ## Pantry
-| Item | Brand | Model | Width | Depth | Height | Fuel/Power | Status |
-|------|-------|-------|-------|-------|--------|-----------|--------|
-| Wine Fridge | TBD | TBD | TBD | TBD | TBD | 120V | Decision needed: yes/no? |
-| U.C. Fridge (shown on A301) | TBD | TBD | TBD | TBD | TBD | 120V | Per furniture plan |
-| U.C. Freezer (shown on A301) | TBD | TBD | TBD | TBD | TBD | 120V | Per furniture plan |
+| Item | Brand | Model | Width | Depth | Height | Fuel/Power | Cost | Status |
+|------|-------|-------|-------|-------|--------|-----------|------|--------|
+| Chest Freezer | Insignia | NS-CZ70WH26L — 7 cu ft Garage Ready, White | 30.3" | 22" | 33.5" | 120V | $200 | Selected |
+| Beverage Cooler | Zephyr | BBV24C01AG — Brisas 24", Stainless Steel | 24" | - | - | 120V | $1,200 | Selected |
 
 ## Laundry
-| Item | Brand | Model | Width | Depth | Height | Fuel/Power | Status |
-|------|-------|-------|-------|-------|--------|-----------|--------|
-| Washer | TBD | TBD | TBD | TBD | TBD | 120V/240V | Needs selection |
-| Dryer | TBD | TBD | TBD | TBD | TBD | Gas/240V | Needs selection |
+| Item | Brand | Model | Width | Depth | Height | Fuel/Power | Cost | Status |
+|------|-------|-------|-------|-------|--------|-----------|------|--------|
+| Washer | LG | WM6700HBA — 5.0 cu ft Front Load TurboWash 360, Black Steel | 27" | 33 1/4" | 39" | 120V | Existing | Reuse |
+| Dryer | LG | DLEX6700B — 7.4 cu ft Electric TurboSteam, Black Steel | 27" | 30 1/8" | 39" | 240V, 30A | $1,250 | Selected |
+
+## Cabana
+| Item | Brand | Model | Notes | Cost | Status |
+|------|-------|-------|-------|------|--------|
+| Refrigerator | Samsung | 17.6 cu ft Top Freezer, White | Relocate from current house | Existing | Reuse |
 
 ## Outdoor
-| Item | Brand | Model | Notes | Status |
-|------|-------|-------|-------|--------|
-| BBQ/Grill | TBD | TBD | Gas line included in plumbing | Needs selection |
+| Item | Brand | Model | Notes | Cost | Status |
+|------|-------|-------|-------|------|--------|
+| BBQ/Grill | Weber | Genesis II S-335 (66006001) — Natural Gas (existing) | Gas line included in plumbing | Existing | Reuse |
+
+---
+
+**Cooktop sizing note:** 36" cooktop requires 48" base cabinet; 30" cooktop requires 36" base cabinet. Confirm when cabinets are selected.

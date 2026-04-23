@@ -7,12 +7,12 @@ title: Cabana
 ## Walls
 | Surface | Material | Color | Status |
 |---------|----------|-------|--------|
-| All Walls | Gypsum Board | White | SELECTED |
+| All Walls | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
 
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|
-| Gypsum Board | White | SELECTED |
+| Paint | Sherwin Williams Snowbound (SW 7004) | Selected — Flat |
 
 ## Floor
 | Material | Color/Style | Status |

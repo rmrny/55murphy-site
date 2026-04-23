@@ -7,11 +7,11 @@ title: Living Room Selections
 ## Walls
 | Surface | Material | Color | Brand / Product | Status |
 |---------|----------|-------|----------------|--------|
-| North Wall | Paint | White | TBD | Needs selection |
+| North Wall | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
 | East Wall | Open to Kitchen | - | - | No wall |
-| South Wall | Paint | White | TBD | Needs selection |
-| West Wall | Paint | White | TBD | Needs selection |
-| Window Trim | Paint | White | TBD | Needs selection |
+| South Wall | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
+| West Wall | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
+| Window Trim | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected — Semi-Gloss |
 
 ## Built-Ins & Features
 | Item | Material | Color/Finish | Status |
@@ -25,7 +25,7 @@ title: Living Room Selections
 ## Ceiling
 | Material | Color | Brand / Product | Status |
 |----------|-------|----------------|--------|
-| Paint | White | TBD | Needs selection |
+| Paint | White | Sherwin Williams Snowbound (SW 7004) | Selected — Flat |
 
 ## Floor
 | Material | Color | Brand / Product | Status |

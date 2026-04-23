@@ -23,7 +23,7 @@ Reference catalog: [Albatross Catalog (PDF)](https://cdn.shopify.com/s/files/1/1
 ## Walls (Non-Shower)
 | Surface | Material | Color | Status |
 |---------|----------|-------|--------|
-| Remaining Walls | TBD | TBD | Needs selection |
+| Remaining Walls | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
 
 ## Fixtures
 | Item | Brand / Model | Finish | Status |
@@ -51,4 +51,4 @@ Reference catalog: [Albatross Catalog (PDF)](https://cdn.shopify.com/s/files/1/1
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|
-| TBD | TBD | Needs selection |
+| Paint | Sherwin Williams Snowbound (SW 7004) | Selected — Flat |

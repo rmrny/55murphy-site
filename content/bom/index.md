@@ -237,7 +237,7 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 | Garage door(s) | TBD | **Needs selection** |
 | Garage door opener (x2) | Chamberlain RJO101 Wall Mount | $550 ea | Selected |
 | Interior door style | Panel config, lever vs knob TBD | **Needs selection** |
-| BBQ/Grill | TBD (gas line included in proposal) | **Needs selection** |
+| BBQ/Grill | Weber Genesis II S-335 (66006001) — Natural Gas (existing, reuse) | Existing |
 
 ---
 

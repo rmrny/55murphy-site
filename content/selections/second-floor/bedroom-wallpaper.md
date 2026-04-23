@@ -8,12 +8,12 @@ title: Bedroom (Wallpaper Room)
 | Surface | Material | Color/Pattern | Status |
 |---------|----------|--------------|--------|
 | West Wall | Wallpaper | Tan Leaf/Palm pattern | SELECTED (need exact product) |
-| Other Walls | TBD | TBD | Needs selection |
+| Other Walls | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
 
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|
-| TBD | TBD | Needs selection |
+| Paint | Sherwin Williams Snowbound (SW 7004) | Selected — Flat |
 
 ## Floor
 | Material | Color | Status |

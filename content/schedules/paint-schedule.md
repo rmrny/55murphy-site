@@ -22,5 +22,8 @@ title: Paint Schedule
 | Bedroom/Play | Wall (E) | Blue | Sherwin Williams | Loyal Blue (SW 6510) | Matte | Selected |
 | Laundry | Cabinets | Blue | Sherwin Williams | Soar (SW 6799) | Semi-Gloss | Selected |
 | Laundry | Wall (E) | Wallpaper | NextWall | Hampton Blue Peel & Stick | - | Selected |
+| Garage | Walls | Gray | Sherwin Williams | Mortar (SW 9584) | Semi-Gloss | Selected |
+| Garage | Ceiling | White | Sherwin Williams | Snowbound (SW 7004) | Flat | Selected |
+| Garage | Trim | White | Sherwin Williams | White Snow (SW 9541) | Semi-Gloss | Selected |
 | Cabana | All | White | Sherwin Williams | White Snow (SW 9541) | Eggshell | Selected |
 | Outdoor Bath | Ceiling | White | Sherwin Williams | Snowbound (SW 7004) | Flat | Waterproof gyp |

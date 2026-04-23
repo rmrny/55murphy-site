@@ -7,15 +7,15 @@ title: Primary Bedroom Selections
 ## Walls
 | Surface | Material | Color | Brand / Product | Status |
 |---------|----------|-------|----------------|--------|
-| North | TBD | TBD | TBD | Needs selection |
-| East | TBD | TBD | TBD | Needs selection |
-| South | TBD | TBD | TBD | Needs selection |
-| West | TBD | TBD | TBD | Needs selection |
+| North | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected — Matte |
+| East | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected — Matte |
+| South | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected — Matte |
+| West | Paint | White | Sherwin Williams White Snow (SW 9541) | Selected — Matte |
 
 ## Ceiling
 | Material | Color | Brand / Product | Status |
 |----------|-------|----------------|--------|
-| Paint | Seafoam / Mint | TBD | SELECTED (color direction) - need exact color |
+| Paint | Teal | Sherwin Williams Tame Teal (SW 6757) | Selected — Flat |
 
 ## Floor
 | Material | Color | Brand / Product | Status |

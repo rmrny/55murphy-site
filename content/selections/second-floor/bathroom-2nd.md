@@ -15,8 +15,8 @@ title: Second Floor Bathroom
 ## Walls (Non-Shower)
 | Surface | Material | Color | Status |
 |---------|----------|-------|--------|
-| Non-shower walls | Paint | White | Brand TBD |
-| Window Trim | Paint | White | Brand TBD |
+| Non-shower walls | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
+| Window Trim | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Semi-Gloss |
 
 ## Floor
 | Material | Coverage | Cost | Status |
@@ -46,7 +46,7 @@ title: Second Floor Bathroom
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|
-| TBD | TBD | Needs selection |
+| Paint | Sherwin Williams Snowbound (SW 7004) | Selected — Flat |
 
 ## Window Treatments
 TBD

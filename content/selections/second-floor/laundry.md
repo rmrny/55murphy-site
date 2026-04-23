@@ -9,10 +9,10 @@ Interior elevations exist on sheet A421 showing four wall views with washer/drye
 ## Walls
 | Surface | Material | Color | Status |
 |---------|----------|-------|--------|
-| North | White (whole-house white TBD) | TBD | Pending whole-house selection |
+| North | Sherwin Williams White Snow (SW 9541) | Eggshell | Selected |
 | East | Wallpaper — NextWall Hampton Blue Peel & Stick | [Lowes](https://www.lowes.com/pd/NextWall-30-75-sq-ft-Hampton-Blue-Vinyl-Floral-Self-adhesive-Peel-and-Stick-Wallpaper/5014409287) | ![](/selections/images/nextwall-hampton-blue-wallpaper.avif) | Selected |
-| South | Window + Cabinets | White (whole-house white TBD) | Pending whole-house selection |
-| West | Washer/Dryer wall | White (whole-house white TBD) | Pending whole-house selection |
+| South | Window + Cabinets | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
+| West | Washer/Dryer wall | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
 
 ## Cabinets
 Unfinished cabinets to be painted — Sherwin Williams "Soar" (SW 6799).
@@ -32,7 +32,7 @@ Unfinished cabinets to be painted — Sherwin Williams "Soar" (SW 6799).
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|
-| Flat white (whole-house flat white TBD) | TBD | Pending whole-house selection |
+| Sherwin Williams Snowbound (SW 7004) | Flat | Selected |
 
 ## Floor
 | Material | Color | Status |
