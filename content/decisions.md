@@ -43,6 +43,7 @@ These won't block CDs but need to be resolved before the relevant work starts.
 | ~~18~~ | ~~Primary bath tile (Albatross catalog?)~~ | ~~See catalog reference~~ | ~~191 sqft~~ | ~~Done — Albatross Sky walls + Nolita Bianco floor, see [[schedules/tile-schedule\|Tile Schedule]]~~ |
 | 19 | Multi-stage phasing plan | What order? Live-in during construction? | Added cost, schedule | Bob |
 | 20 | Solar panel reinstallation plan | Who reinstalls? When? | Coordinate with roofing | Bob |
+| 22 | Cabana bar opening — shutter & screen models | Rolling shutter + retractable screen, need exact dimensions for header framing | Blocks A103 garage annex framing — see reference/cabana_bar_opening_research.md | Bob |
 | ~~21~~ | ~~Bathroom accessories~~ | ~~Towel bars, TP holders, robe hooks~~ | ~~Owner-supplied~~ | ~~Done — Kohler Purist/Elate/Components in 2MB, mirrors TBD, see [[bom/index#bathrooms\|BOM]]~~ |
 
 ## Contractor Clarifications Needed

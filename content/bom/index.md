@@ -217,6 +217,10 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 |------|--------------|-----------|--------|
 | Refrigerator | Samsung 17.6 cu ft Top Freezer (White) | Existing | Relocate from current house |
 | Floor Tile | Dark Grey Tile (Square/Rectangle) | TBD | Direction chosen, product TBD |
+| Bar Opening — Rolling Shutter | TBD — motorized, hurricane-rated recommended | ~$1,500–$3,500 | **Needs selection** |
+| Bar Opening — Retractable Screen | TBD — no-see-um mesh recommended for coastal | ~$500–$1,200 | **Needs selection** |
+
+> Shutter + screen models must be selected before cabana framing (A103) — header cavity needs exact dimensions. See reference/cabana_bar_opening_research.md for full research.
 
 ---
 
