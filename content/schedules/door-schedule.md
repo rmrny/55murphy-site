@@ -15,43 +15,49 @@ title: Door Schedule
 
 | Mark | Room | Width | Height | Type | Hardware | Status |
 |------|------|-------|--------|------|----------|--------|
-| D-1 | 1st Floor Bathroom | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-2 | Bob's Office | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-3 | Tara's Office | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-4 | Guest Room | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-5 | Bedroom / Play Room | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-6 | Pantry | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-7 | Utility Room | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
+| D-1 | 1st Floor Bathroom | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-2 | Bob's Office | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-3 | Tara's Office | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-4 | Guest Room | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-5 | Bedroom / Play Room | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-6 | Pantry | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
+| D-7 | Utility Room | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
 
 ### First Floor — 3 Closet Doors (24" x 80")
 
 | Mark | Room | Width | Height | Type | Hardware | Status |
 |------|------|-------|--------|------|----------|--------|
-| CD-1 | Living Room | 24" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| CD-2 | Stair | 24" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| CD-3 | Guest Room | 24" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
+| CD-1 | Living Room | 24" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
+| CD-2 | Stair | 24" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
+| CD-3 | Guest Room | 24" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
 
 ### Second Floor — 7 Interior Doors
 
 | Mark | Room | Width | Height | Type | Hardware | Status |
 |------|------|-------|--------|------|----------|--------|
-| D-8 | Primary Bedroom | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-9 | Primary Bathroom | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-10 | Primary Closet | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-11 | Kids Room - Alice | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-12 | Kids Room - Bobby | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-13 | 2nd Floor Bathroom | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| D-14 | Laundry | 32" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
+| D-8 | Primary Bedroom | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-9 | Primary Bathroom | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-10 | Primary Closet | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
+| D-11 | Kids Room - Alice | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-12 | Kids Room - Bobby | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-13 | 2nd Floor Bathroom | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Privacy | SELECTED |
+| D-14 | Laundry | 32" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
 
 ### Second Floor — 3 Closet Doors (24" x 80")
 
 | Mark | Room | Width | Height | Type | Hardware | Status |
 |------|------|-------|--------|------|----------|--------|
-| CD-4 | Sitting Room | 24" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| CD-5 | Kids Room - Alice | 24" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
-| CD-6 | Kids Room - Bobby | 24" | 80" | 2-Panel Top Round HC | TBD | SELECTED |
+| CD-4 | Sitting Room | 24" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
+| CD-5 | Kids Room - Alice | 24" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
+| CD-6 | Kids Room - Bobby | 24" | 80" | 2-Panel Top Round HC | Orger Crystal — Passage | SELECTED |
 
-> Hardware (lever vs knob) still needs selection. **Total: 14 interior doors + 6 closet doors.**
+### Door Hardware — [Orger Octagonal Crystal Knob, Antique Bronze Vintage Rosette](https://a.co/d/0aVSRfK2)
+
+| Function | Qty | Unit Cost | Subtotal | Rooms |
+|----------|-----|-----------|----------|-------|
+| [Privacy](https://a.co/d/0ambWoh4) | 8 | $22 | $176 | Guest Room, Bedroom/Play, Bob's Office, Tara's Office, Primary Bedroom, Primary Bath, 1st Floor Bath, 2nd Floor Bath |
+| [Passage](https://a.co/d/0aVSRfK2) | 12 | $19 | $228 | Pantry, Utility, Primary Closet, Laundry, 6 closet doors |
+| **Total** | **20** | | **$404** | |
 
 ## Exterior Doors
 
