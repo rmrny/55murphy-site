@@ -8,6 +8,8 @@ title: Budget Overview
 **Proposal:** 163-3 (DRAFT)
 **Total:** $660,164.25
 
+See also: [[budget/leveling|Bid Leveling Sheet]] — line-by-line comparison of proposal vs. actual costs.
+
 ## Proposal Breakdown
 
 | Category | Amount | Notes |
