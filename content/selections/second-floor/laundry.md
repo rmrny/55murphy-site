@@ -24,10 +24,12 @@ Unfinished cabinets to be painted — Sherwin Williams "Soar" (SW 6799).
 | 3x Upper Wall (36"W x 30"H) | Project Source Oak Brook Unfinished Wall Cabinet | [Lowes](https://www.lowes.com/pd/Project-Source-Oak-Brook-36-in-W-x-30-in-H-x-12-in-D-Natural-Unfinished-Oak-Wall-Fully-assembled-Cabinet-Flat-Panel-Square/1003204656) | ![](/selections/images/project-source-wall-cabinet-36.jpg) | Selected |
 
 ## Countertops
-| Item | Product | Link | Image | Status |
-|------|---------|------|-------|--------|
-| Above Washer/Dryer (36"x60") | 1" Butcher Block — stained and sealed w/ food grade sealant | [Lowes](https://www.lowes.com/pd/John-Boos-1-75-in-x-36-in-x-60-in-Finished-Maple-Butcher-Block-Countertop/5018626465) | ![](/selections/images/john-boos-butcher-block-36x60.jpg) | Selected |
-| Cabinet Counter (25"x72") | 1" Butcher Block — stained and sealed w/ food grade sealant | [Lowes](https://www.lowes.com/pd/John-Boos-1-75-in-x-25-in-x-72-in-Finished-Maple-Butcher-Block-Countertop/5018625983) | ![](/selections/images/john-boos-butcher-block-25x72.jpg) | Selected |
+| Item | Product | Status |
+|------|---------|--------|
+| Upper Counter (above W/D) | [Hardwood Reflections Acacia Butcher Block 10ft x 25"D x 1.5"H, Square Edge](https://www.homedepot.com/p/HARDWOOD-REFLECTIONS-10-ft-L-x-25-in-D-Unfinished-Acacia-Solid-Wood-Butcher-Block-Countertop-with-Square-Edge-1525FJEGACA-120/313363461) — from 10ft piece, unfinished, stain & seal | SELECTED |
+| Lower Counter (cabinets) | Same — use waste from pantry cut (54" remaining) | SELECTED |
+
+6" height difference between upper (W/D) and lower (cabinet) levels — two separate pieces. Upper from one 10ft piece, lower from pantry cutoff.
 
 ## Ceiling
 | Material | Color | Status |

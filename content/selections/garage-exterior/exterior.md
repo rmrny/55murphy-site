@@ -57,10 +57,15 @@ Allowance in proposal: $2,875
 Allowance in proposal: $16,560
 
 ## Exterior Doors
-| Item | Status |
-|------|--------|
-| Front Entry Door | TBD |
-| Rear/Side Doors | TBD |
-| Garage Door(s) | TBD - size and style |
+| Item | Selection | Status |
+|------|-----------|--------|
+| Front Entry Door | TBD | Needs selection |
+| Kitchen Door | TBD | Needs selection |
+| Mud Room Door | [Masonite 36"x80" 6-Panel Primed Steel](https://www.homedepot.com/p/Masonite-36-in-x-80-in-Universal-Reversible-Premium-6-Panel-Primed-Steel-Front-Door-Slab-45024/100010663) — $200 | SELECTED |
+| Foyer French Door | TBD | Needs selection |
+| Garage Exterior | [Masonite 36"x80" 6-Panel Primed Steel](https://www.homedepot.com/p/Masonite-36-in-x-80-in-Universal-Reversible-Premium-6-Panel-Primed-Steel-Front-Door-Slab-45024/100010663) — $200 | SELECTED |
+| Cabana Exterior | [Masonite 36"x80" 6-Panel Primed Steel](https://www.homedepot.com/p/Masonite-36-in-x-80-in-Universal-Reversible-Premium-6-Panel-Primed-Steel-Front-Door-Slab-45024/100010663) — $200 | SELECTED |
+| Outdoor Bathroom | [Masonite 36"x80" 6-Panel Primed Steel](https://www.homedepot.com/p/Masonite-36-in-x-80-in-Universal-Reversible-Premium-6-Panel-Primed-Steel-Front-Door-Slab-45024/100010663) — $200 | SELECTED |
+| Garage Door(s) | TBD — size and style | Needs selection |
 
 Allowance in proposal: $3,450

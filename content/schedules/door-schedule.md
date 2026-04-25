@@ -65,7 +65,7 @@ title: Door Schedule
 |------|----------|------|----------|----------|--------|
 | ED-1 | Front Entry | TBD | TBD | TBD | **Needs selection** |
 | ED-2 | Kitchen | TBD | TBD | TBD | **Needs selection** |
-| ED-3 | Mud Room | TBD | TBD | TBD | **Needs selection** |
+| ED-3 | Mud Room | [Masonite 36"x80" 6-Panel Primed Steel](https://www.homedepot.com/p/Masonite-36-in-x-80-in-Universal-Reversible-Premium-6-Panel-Primed-Steel-Front-Door-Slab-45024/100010663) — $200 | Primed Steel | TBD | SELECTED |
 | ED-4 | Foyer — Backyard | French Door | TBD | TBD | **Needs selection** |
 
 > **Total: 4 exterior doors.** Selections needed for all.
@@ -76,9 +76,9 @@ title: Door Schedule
 |------|----------|------|----------|----------|--------|
 | GD-1 | Garage Overhead (1) | Overhead | TBD | TBD | **Needs selection** |
 | GD-2 | Garage Overhead (2) | Overhead | TBD | TBD | **Needs selection** |
-| GD-3 | Garage Exterior | TBD | TBD | TBD | **Needs selection** |
-| GD-4 | Cabana Exterior | TBD | TBD | TBD | **Needs selection** |
-| GD-5 | Outdoor Bathroom | TBD | TBD | TBD | **Needs selection** |
+| GD-3 | Garage Exterior | [Masonite 36"x80" 6-Panel Primed Steel](https://www.homedepot.com/p/Masonite-36-in-x-80-in-Universal-Reversible-Premium-6-Panel-Primed-Steel-Front-Door-Slab-45024/100010663) — $200 | Primed Steel | TBD | SELECTED |
+| GD-4 | Cabana Exterior | [Masonite 36"x80" 6-Panel Primed Steel](https://www.homedepot.com/p/Masonite-36-in-x-80-in-Universal-Reversible-Premium-6-Panel-Primed-Steel-Front-Door-Slab-45024/100010663) — $200 | Primed Steel | TBD | SELECTED |
+| GD-5 | Outdoor Bathroom | [Masonite 36"x80" 6-Panel Primed Steel](https://www.homedepot.com/p/Masonite-36-in-x-80-in-Universal-Reversible-Premium-6-Panel-Primed-Steel-Front-Door-Slab-45024/100010663) — $200 | Primed Steel | TBD | SELECTED |
 | GD-6 | Cabana to Garage | TBD | TBD | TBD | **Needs selection** |
 
 > **Total: 4 exterior doors + 2 overhead garage doors.**

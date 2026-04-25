@@ -71,8 +71,7 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Washer | LG 5.0 cu ft Front Load Steam TurboWash 360 (Black Steel) | Existing | Reuse |
 | Dryer | LG 7.4 cu ft Stackable Smart Electric Dryer TurboSteam (DLEX6700B, Black Steel) | $1,250 | Selected |
 | Drying Rack | Foxydry Mini 152 cm (ceiling-mounted) | $190 | Selected |
-| Countertop (above W/D) | 1" Butcher Block 36"x60" — stained and sealed w/ food grade sealant | TBD | Selected |
-| Countertop (cabinet) | 1" Butcher Block 25"x72" — stained and sealed w/ food grade sealant | TBD | Selected |
+| Countertop | Hardwood Reflections Acacia Butcher Block 10ft x 25"D, Square Edge — one full piece + pantry cutoff for split-level (6" height diff), unfinished, stain & seal | $450 | Selected |
 | Sink | Kraus Fairlane KHU631-15 Undermount SS Single Bowl | $159.95 | Selected |
 | Faucet | Kohler Crue Single-Handle K-22975-VS (Stainless) | $412.50 | Selected |
 | Wallpaper | NextWall Hampton Blue Peel & Stick (east wall) | TBD | Selected |

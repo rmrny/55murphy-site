@@ -22,7 +22,7 @@ title: Tara's Office
 ## Casework
 | Item | Description | Status |
 |------|-------------|--------|
-| Desk / Built-in | TBD | Needs selection |
+| Desk Top | Refinished butcher block from Bob's current office | SELECTED |
 
 ## Window Treatments
 | Window | Treatment | Status |
