@@ -83,7 +83,7 @@ title: Budget Overview
 | Shower Base Waterproofing | By others | Not in proposal |
 | Roof Penetration Waterproofing | By others | Not in proposal |
 | Solar Panel Reinstallation | TBD | Only removal included |
-| ERV Unit (if upgrade chosen) | TBD + $8,500 piping | Decision needed |
+| ~~ERV Unit~~ | ~~TBD + $8,500 piping~~ | Not proceeding |
 | Washer/Dryer | TBD | Owner to purchase |
 | BBQ/Grill | TBD | Gas line included |
 | Furniture & Window Treatments | TBD | Not in scope |

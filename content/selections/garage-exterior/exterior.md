@@ -51,8 +51,8 @@ Allowance in proposal: $2,875
 ## Windows (All)
 | Item | Material | Status |
 |------|----------|--------|
-| Windows | Andersen 200 Series Double Hung | SELECTED |
-| Color | TBD | Interior/exterior finish TBD |
+| Windows | TBD — Andersen 200 Series was placeholder | Manufacturer needs selection |
+| Color | White Vinyl — interior and exterior | SELECTED |
 
 Allowance in proposal: $16,560
 

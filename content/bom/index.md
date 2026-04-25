@@ -14,7 +14,7 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 
 | Category | Estimated Cost | Status |
 |----------|---------------|--------|
-| [[#kitchen|Kitchen]] | ~$3,980 (appliances) + cabinets/countertops TBD | Appliances selected, cabinets/countertops TBD |
+| [[#kitchen|Kitchen]] | ~$3,980 (appliances) + cabinets selected, countertops TBD | Appliances & cabinets selected, countertops TBD |
 | [[#laundry|Laundry]] | ~$1,440 (dryer + rack) + countertops TBD | Selected, countertops need pricing |
 | [[#pantry|Pantry]] | ~$1,400 (freezer + beverage cooler) | Selected |
 | [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$10,435 (Kohler MSRP $17,391 less 40%) | Selected |
@@ -39,8 +39,9 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Refrigerator | LG 28.6 cu ft 4-Door French Door Smart — Stainless Steel | Existing | Reuse |
 | Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA — KDPM604KPS | Existing | Reuse |
 | Cooktop | Frigidaire Professional 36" Induction Cooktop — PCCI3680AF, Stainless Steel | $2,000 | Selected |
+| Range Hood | [Thor Kitchen 36" Wall Mount T-Shape — ARH36T](https://www.thorkitchen.com/products/36-inch-contemporary-wall-mount-t-shape-range-hood-arh36t), Stainless Steel — 550 CFM, ducted | $899 | Selected |
 | Wall Oven | Frigidaire Gallery 30" Single Electric Wall Oven — GCWS3070AF, Stainless Steel | $1,600 | Selected |
-| Over-Range Microwave w/ Exhaust | Frigidaire Gallery 1.9 Cu Ft OTR Microwave — GMOS1964AF, Stainless Steel | $380 | **Pending — verify direct cook time entry** |
+| Microwave | [LG 2.0 Cu Ft Countertop Smart Inverter — MSER2090S](https://www.bestbuy.com/product/lg-2-0-cu-ft-countertop-microwave-with-sensor-cooking-and-smart-inverter-stainless-steel/J7G56583QY/sku/6577451), Stainless Steel — island base | $240 | Selected |
 
 **Cutsheets** for all kitchen appliances available in `reference/Appliances/`.
 
@@ -56,7 +57,9 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Item | Selection | Status |
 |------|-----------|--------|
 | Backsplash | Coastal Tile Square, Cream — Cancos Tile & Stone (70 sqft @ $10.95/sqft) | Selected |
-| Cabinets | TBD — design, manufacturer, color all needed | **Needs selection** |
+| Cabinets — Base | Port & Bell Anna Caramel Harvest (ValuePlus) — see [[selections/first-floor/kitchen#cabinets|Kitchen Cabinets]] for full BOM | SELECTED |
+| Cabinets — Wall | Port & Bell Anna Snow White (ValueMax) — 42" H | SELECTED |
+| Cabinets — Crown | Anna Snow White Cove Crown (LCV48) x5 — ~18 LF | SELECTED |
 | Countertops | TBD — Quartz / Granite / Butcher block | **Needs selection** |
 
 ---
@@ -111,7 +114,8 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | Towel Ring | Kohler Purist K-14441-2MB | $190 | Selected |
 | Pivoting TP Holder | Kohler Purist K-14377-2MB | $320 | Selected |
 | Robe Hook (x2) | Kohler Purist K-14443-2MB | $116 ea | Selected |
-| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| Vanity Light | [Allen + Roth Meredith 2-Light VB24-2GD](https://www.lowes.com/pd/allen-roth-AR-MEREDITH-2-LT-GOLD-BATH-LIGHT/5015238013) (Gold) | $70 | Selected |
+| Mirror (x2) | [Moon Mirror Dual Arch Scalloped 24"x36"](https://moonmirror.co/products/moon-mirror%e2%84%a2-dual-arch-top-scalloped-stainless-steel-framed-vanity-mirror-irregular-bathroom-wall-mirror-t04-s10-ca?variant=46362289045758) (Gold) | $190 ea | Selected |
 | **MSRP Subtotal** | | **$6,652** | |
 | **After 40% discount** | | **$3,991** | |
 
@@ -128,7 +132,8 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | 24" Towel Bar | Kohler Elate K-27287-2MB | $85 | Selected |
 | TP Holder | Kohler Elate K-27292-2MB | $53 | Selected |
 | Robe Hook (x2) | Kohler Elate K-27290-2MB | $35 ea | Selected |
-| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| Vanity Light | [Allen + Roth Meredith 3-Light VB24-3GD](https://www.lowes.com/pd/allen-roth-AR-MEREDITH-3-LT-GOLD-BATH-LIGHT/5015238023) (Gold) | $80 | Selected |
+| Mirror | [Moon Mirror Round Notched Scalloped 22"x30"](https://moonmirror.co/products/round-notched-corner-scalloped-wall-mirror-for-wall-ce?variant=45775769829630) (Gold) | $160 | Selected |
 | **MSRP Subtotal** | | **$2,541** | |
 | **After 40% discount** | | **$1,525** | |
 
@@ -147,7 +152,8 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | 24" Towel Bar (x2) | Kohler Elate K-27287-2MB | $85 ea | Selected |
 | TP Holder | Kohler Elate K-27292-2MB | $53 | Selected |
 | Robe Hook (x2) | Kohler Elate K-27290-2MB | $35 ea | Selected |
-| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| Vanity Light | [Allen + Roth Meredith 2-Light VB24-2GD](https://www.lowes.com/pd/allen-roth-AR-MEREDITH-2-LT-GOLD-BATH-LIGHT/5015238013) (Gold) | $70 | Selected |
+| Mirror (x2) | [Mercer41 Margulies Metal Arch](https://www.wayfair.com/home/pdp/mercer41-margulies-metal-arch-wall-mirror-w110675848.html?piid=711665634%2C709539789) (Gold) | $140/pair | Selected |
 | **MSRP Subtotal** | | **$4,594** | |
 | **After 40% discount** | | **$2,756** | |
 
@@ -164,7 +170,7 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | 24" Towel Bar | Kohler Components K-78373-BN | $222 | Selected |
 | Vertical TP Holder | Kohler Components K-78383-BN | $159 | Selected |
 | Robe Hook | Kohler Components K-78378-BN | $93 | Selected |
-| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| Mirror | [QueenFun Beveled Silver 24"x32"](https://www.amazon.com/dp/B0CN7228TC) | $80 | Selected |
 | **MSRP Subtotal** | | **$3,604** | |
 | **After 40% discount** | | **$2,162** | |
 
@@ -180,7 +186,7 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 | Outdoor | $3,604 | $2,162 |
 | **Total** | **$17,391** | **$10,435** |
 
-> All Kohler fixtures and accessories qualify for 40% trade discount. Mirrors are non-Kohler (frameless, TBD) and not included in discount. Installation allowance: $5,463 (fixtures) + $1,150 (accessories) in contractor proposal.
+> All Kohler fixtures and accessories qualify for 40% trade discount. Mirrors and vanity lights are non-Kohler and not included in discount. Installation allowance: $5,463 (fixtures) + $1,150 (accessories) in contractor proposal.
 
 ---
 
@@ -215,7 +221,7 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 | Item | Brand / Model | Est. Cost | Status |
 |------|--------------|-----------|--------|
 | Refrigerator | Samsung 17.6 cu ft Top Freezer (White) | Existing | Relocate from current house |
-| Floor Tile | Dark Grey Tile (Square/Rectangle) | TBD | Direction chosen, product TBD |
+| Floor | AquaGuard Performance Cocoa Waterproof Laminate (same as whole house) | incl. in flooring total | SELECTED |
 | Bar Opening — Rolling Shutter | TBD — motorized, hurricane-rated recommended | ~$1,500–$3,500 | **Needs selection** |
 | Bar Opening — Retractable Screen | TBD — no-see-um mesh recommended for coastal | ~$500–$1,200 | **Needs selection** |
 
@@ -236,7 +242,7 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 | Rear door | TBD | **Needs selection** |
 | Garage door(s) | TBD | **Needs selection** |
 | Garage door opener (x2) | Chamberlain RJO101 Wall Mount | $550 ea | Selected |
-| Interior door style | Panel config, lever vs knob TBD | **Needs selection** |
+| Interior door style | 2-Panel Top Round HC — [Orger Octagonal Crystal Knob, Antique Bronze Vintage Rosette](https://a.co/d/0aVSRfK2) (Privacy/Passage) | SELECTED |
 | BBQ/Grill | Weber Genesis II S-335 (66006001) — Natural Gas (existing, reuse) | Existing |
 
 ---
@@ -386,7 +392,7 @@ Fully specced — see [[selections/smarthome|Smart Home Plan]] for details.
 | Item | Estimated Cost | Status |
 |------|---------------|--------|
 | Building Permits | ~$15,000 | Not yet applied |
-| ERV Unit (if upgrade chosen) | TBD + $8,500 piping | **Decision needed** |
+| ~~ERV Unit~~ | Not proceeding | Decided against |
 | Solar Panel Reinstallation | TBD | Only removal in proposal |
 | Furniture & Window Treatments | TBD | Not in scope |
 

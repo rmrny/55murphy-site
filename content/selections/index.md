@@ -21,16 +21,26 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 - [[selections/first-floor/dining|Dining / Open Room]]
 - [[selections/first-floor/pantry|Pantry]]
 - [[selections/first-floor/bathroom-1st|First Floor Bathroom]]
+- [[selections/first-floor/guest-room|Guest Room]]
+- [[selections/first-floor/bedroom-play|Bedroom / Play Room]]
+- [[selections/first-floor/office-bob|Bob's Office]]
+- [[selections/first-floor/office-tara|Tara's Office]]
+- [[selections/first-floor/foyer|Foyer & Stairway]]
+- [[selections/first-floor/corridor-mudroom|Corridor / Mud Room]]
+- [[selections/first-floor/utility|Utility Room]]
 
 ## Second Floor
 - [[selections/second-floor/primary-bedroom|Primary Bedroom]]
 - [[selections/second-floor/primary-bath|Primary Bathroom]]
+- [[selections/second-floor/primary-closet|Primary Closet]]
 - [[selections/second-floor/kids-alice|Kids Room - Alice]]
 - [[selections/second-floor/kids-bobby|Kids Room - Bobby]]
 - [[selections/second-floor/bathroom-2nd|Second Floor Bathroom]]
 - [[selections/second-floor/laundry|Laundry]]
+- [[selections/second-floor/sitting|Sitting Area]]
 
 ## Garage & Exterior
+- [[selections/garage-exterior/garage|Garage]]
 - [[selections/garage-exterior/cabana|Cabana]]
 - [[selections/garage-exterior/outdoor-bath|Outdoor Bathroom]]
 - [[selections/garage-exterior/exterior|Exterior (Siding, Roofing, Deck)]]
@@ -38,17 +48,3 @@ Room-by-room tracker for all materials, colors, and finishes. Items marked **TBD
 ## Whole-House Systems
 - [[selections/networking|Networking & Cameras]]
 - [[selections/smarthome|Smart Home Plan]]
-
-## Not Yet Started
-These rooms only need paint and flooring — no unique selections. Pages will be added when we get to finishes.
-
-- Guest Room
-- Bedroom / Play Room
-- Office
-- Foyer & Stairway
-- Corridor / Mud Room
-- Utility Room
-- Primary Closet
-- Tara's Office
-- Sitting Area
-- Garage Annex

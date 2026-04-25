@@ -21,3 +21,8 @@ title: Primary Bedroom Selections
 | Material | Color | Brand / Product | Status |
 |----------|-------|----------------|--------|
 | TBD | TBD | TBD | Needs selection |
+
+## Window Treatments
+| Window | Treatment | Status |
+|--------|-----------|--------|
+| Double Hung (3'-0" x 4'-0") x2 | TBD | Needs selection |

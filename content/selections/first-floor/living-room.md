@@ -20,7 +20,7 @@ title: Living Room Selections
 | Cross-unit knee-height shelf | Wood | TBD | Color TBD |
 | Under-shelf lighting | Switch operated | - | Confirm with electrical |
 | Closet Door | Paint | White | Needs selection |
-| Glass Door Knob | TBD | TBD | Needs selection |
+| Glass Door Knob | [Orger Octagonal Crystal Knob, Antique Bronze Vintage Rosette](https://a.co/d/0aVSRfK2) | Antique Bronze | SELECTED |
 
 ## Ceiling
 | Material | Color | Brand / Product | Status |
@@ -33,4 +33,6 @@ title: Living Room Selections
 | AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | [Floor & Decor](https://www.flooranddecor.com/aquaguard-performance/cocoa-waterproof-laminate-plank-100997105.html) — $2.79/sqft | SELECTED |
 
 ## Window Treatments
-TBD
+| Window | Treatment | Status |
+|--------|-----------|--------|
+| Fixed Window (1'-4" x 6'-0") x2 | TBD | Needs selection |

@@ -17,7 +17,7 @@ title: Cabana
 ## Floor
 | Material | Color/Style | Status |
 |----------|------------|--------|
-| Tile | Dark Grey - Square/Rectangle | SELECTED (need exact product) |
+| AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" — [Floor & Decor](https://www.flooranddecor.com/aquaguard-performance/cocoa-waterproof-laminate-plank-100997105.html) $2.79/sqft | SELECTED |
 | Baseboard | Tile baseboard | SELECTED |
 
 ## Appliances

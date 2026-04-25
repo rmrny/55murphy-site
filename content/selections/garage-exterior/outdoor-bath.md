@@ -37,4 +37,4 @@ title: Outdoor Bathroom (Garage)
 | 24" Towel Bar | [K-78373-BN](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-24-in-towel-bar-78373?skuId=78373-BN) | $222 | SELECTED |
 | Vertical TP Holder | [K-78383-BN](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/components-vertical-toilet-tissue-holder-78383?skuId=78383-BN) | $159 | SELECTED |
 | Robe Hook | [K-78378-BN](https://www.kohler.com/en/products/bathroom-accessories/shop-bathroom-accessories/robe-hook-assembly-78378?skuId=78378-BN) | $93 | SELECTED |
-| Mirror | Frameless — TBD | TBD | **Needs selection** |
+| Mirror | [QueenFun 24"x32" Beveled Silver Metal Frame](https://www.amazon.com/dp/B0CN7228TC) — $80 | Silver | SELECTED |

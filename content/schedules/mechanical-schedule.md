@@ -34,7 +34,7 @@ From MEP drawing M401. **Proposal HVAC allowance: $40,825**
 ## Open Decision
 | Item | Cost | Status |
 |------|------|--------|
-| ERV Upgrade (centrotherm piping) | $8,500 (piping only - ERV unit owner supplied) | **DECISION NEEDED** |
+| ~~ERV Upgrade (centrotherm piping)~~ | ~~$8,500 (piping only - ERV unit owner supplied)~~ | **Not proceeding — REJECTED** |
 | Fresh air into 2nd floor return with MERV30 filter | Included | SELECTED |
 
 ## Water Heaters (per P001)

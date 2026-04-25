@@ -18,13 +18,70 @@ title: Kitchen Selections
 Allowance in proposal: $3,450 (material + labor)
 
 ## Cabinets
-| Item | Status | Notes |
-|------|--------|-------|
-| Cabinet Design | TBD | Layout needs finalization |
-| Cabinet Manufacturer | TBD | - |
-| Cabinet Color/Finish | TBD | - |
-| Island | TBD | Shown in floor plan |
-| Pantry Door | TBD | - |
+| Item | Product | Finish | Status |
+|------|---------|--------|--------|
+| Base Cabinets | Port & Bell — Anna Caramel Harvest (ValuePlus) | Stained Birch, Shaker | SELECTED |
+| Wall Cabinets | Port & Bell — Anna Snow White (ValueMax) | White Painted, Shaker | SELECTED |
+| Pantry Door | 2-Panel Top Round, Hollow Core | Same as interior doors | SELECTED |
+
+Supplier: Home Surplus (Grab & Go at Keyport/Baltimore; available in 7 days at North Bergen/Bellmawr/Brentwood)
+
+### Perimeter Base Cabinets — Anna Caramel Harvest
+
+| # | SKU | Description | Qty |
+|---|-----|-------------|-----|
+| 1 | OC33B4 | Single Oven Cabinet 33" | 1 |
+| 2 | DB18-3 | 3-Drawer Base 18" | 1 |
+| 3 | DB36-3 | 3-Drawer Base 36" | 1 |
+| 4 | B15 | 1-Door 1-Drawer Base 15" | 1 |
+| 5 | B12 | 1-Door 1-Drawer Base 12" | 1 |
+| 6 | BBC33 | Corner Base 33" | 1 |
+| 7 | SB36 | Sink Base 36" | 1 |
+| 8 | — | Dishwasher Opening (24") | 1 |
+| 9 | B24 | Base Cabinet 24" | 1 |
+
+### Island Base Cabinets — Anna Caramel Harvest
+
+**East Side:**
+
+| # | SKU | Description | Qty |
+|---|-----|-------------|-----|
+| 1 | BMC24 | Microwave Base 24" | 1 |
+| 2 | DB24-3 | 3-Drawer Base 24" | 1 |
+| 3 | BWBIB | Trash Pullout | 1 |
+
+**West Side:**
+
+| # | SKU | Description | Qty |
+|---|-----|-------------|-----|
+| 4 | BH18 | Full Height Door Base 18" | 4 |
+| 5 | BF3 | Base Filler 3" | 1 |
+
+### Wall Cabinets — Anna Snow White (42" H)
+
+**North Wall:**
+
+| # | SKU | Description | Qty |
+|---|-----|-------------|-----|
+| 1 | W1842 | Wall Cabinet 18" x 42" | 2 |
+| 2 | WHH3630 | Wall Hood Cabinet 36" x 30" | 1 |
+| 3 | W2D3042 | Wall Double Door 30" x 42" | 1 |
+
+**East Wall:**
+
+| # | SKU | Description | Qty |
+|---|-----|-------------|-----|
+| 4 | W1542 | Wall Cabinet 15" x 42" | 1 |
+| 5 | W1242 | Wall Cabinet 12" x 42" | 1 |
+| 6 | W2D3042 | Wall Double Door 30" x 42" | 1 |
+| 7 | REP | Fridge Side Panel | 1 |
+| 8 | W362424 | Above Fridge 36"W x 24"H x 24"D | 1 |
+
+### Molding — Anna Snow White
+
+| SKU | Description | Qty | Notes |
+|-----|-------------|-----|-------|
+| LCV48 | Cove Crown (48"/pc) | 5 | ~18 LF needed (16.25 LF + 10%) |
 
 Allowance in proposal: $16,100 (material only - labor included in framing)
 
@@ -44,11 +101,11 @@ Allowance in proposal: $5,750 (material + labor)
 | Cooktop | Frigidaire Professional 36" Induction Cooktop — PCCI3680AF, Stainless Steel | - | - | 240V, 30A (electric) | Selected — **confirm size with cabinet layout** |
 | Dishwasher | KitchenAid 24" Top Control Built-In 3rd Rack 44 dBA — KDPM604KPS, Stainless Steel (existing, reuse) | [Best Buy](https://www.bestbuy.com/product/kitchenaid-24-top-control-built-in-stainless-steel-tub-dishwasher-with-3rd-rack-360-max-jets-44-dba-stainless-steel/J3KHV8ZCLG) | ![](/selections/images/kitchenaid-dishwasher.jpg) | Standard | Existing |
 | Wall Oven | Frigidaire Gallery 30" Single Electric Wall Oven — GCWS3070AF, Stainless Steel | - | - | 240V, 20A | Selected |
-| Over-Range Microwave | Frigidaire Gallery 1.9 Cu Ft OTR Microwave — GMOS1964AF, Stainless Steel | - | - | 120V, 13.5A / 400 CFM vented | **Pending — verify direct cook time entry** |
+| Microwave | [LG 2.0 Cu Ft Countertop Smart Inverter — MSER2090S, Stainless Steel](https://www.bestbuy.com/product/lg-2-0-cu-ft-countertop-microwave-with-sensor-cooking-and-smart-inverter-stainless-steel/J7G56583QY/sku/6577451) | - | - | 120V, 10A — island microwave base | Selected — $240 |
+
+| Range Hood | [Thor Kitchen 36" Wall Mount T-Shape — ARH36T, Stainless Steel](https://www.thorkitchen.com/products/36-inch-contemporary-wall-mount-t-shape-range-hood-arh36t) | - | - | 120V, 3A / 550 CFM max, ducted | Selected — $899 |
 
 **Note:** $0 in proposal — all owner cost. Cutsheets available in `reference/Appliances/`.
-
-**Cooktop sizing:** Final cooktop size depends on cabinet layout. A 36" cooktop requires a 48" base cabinet; a 30" cooktop requires a 36" base cabinet. Confirm when cabinets are selected.
 
 ## Fixtures
 | Item | Brand / Model | Finish | Status |
@@ -65,3 +122,8 @@ Allowance in proposal: $5,750 (material + labor)
 | Material | Color | Brand / Product | Status |
 |----------|-------|----------------|--------|
 | AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | [Floor & Decor](https://www.flooranddecor.com/aquaguard-performance/cocoa-waterproof-laminate-plank-100997105.html) — $2.79/sqft | SELECTED |
+
+## Window Treatments
+| Window | Treatment | Status |
+|--------|-----------|--------|
+| Kitchen Casement (4'-0" x 4'-6") | TBD | Needs selection |

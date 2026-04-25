@@ -18,7 +18,7 @@ These block the architect and engineers from finishing construction documents.
 |---|----------|---------|--------|-----|
 | 1 | Kitchen cabinet design & manufacturer | TBD | Drives kitchen elevations, electrical, plumbing rough-in | Both |
 | 2 | Kitchen countertop material | Quartz / Granite / Butcher block / Other | Affects edge details, support | Both |
-| 3 | Kitchen appliance selections (cooktop, over-range microwave) | Need cutsheets — no separate hood, OTR microwave vented to exterior | Framing, electrical, gas, venting coordination | Both |
+| 3 | Kitchen appliance selections (cooktop, countertop microwave) | Need cutsheets — countertop microwave in island base, separate range hood | Framing, electrical, gas, venting coordination | Both |
 | ~~4~~ | ~~ERV upgrade — yes or no?~~ | ~~$8,500 piping + owner-supplied ERV unit~~ | ~~Mechanical plans~~ | ~~No — exhaust fans + outside air openings~~ |
 | ~~5~~ | ~~Flooring product ("Faux Wood")~~ | ~~LVP / Laminate / Engineered hardwood~~ | ~~Subfloor prep, transitions~~ | ~~Done — AquaGuard Cocoa Waterproof Laminate, see [[bom/index#flooring\|BOM]]~~ |
 | ~~6~~ | ~~Interior door style~~ | ~~Panel config, lever vs knob~~ | ~~Door schedule~~ | ~~Done — 2-Panel Top Round HC, 32x80 interior / 24x80 closet, hardware TBD~~ |

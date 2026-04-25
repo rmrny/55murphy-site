@@ -344,5 +344,5 @@ Reolink doorbells → Scrypted (10.10.11.201) → Home Assistant → Companion A
 - [x] ~~Smart water shutoff~~ — Aqara Valve Controller T1
 - [x] ~~Siren detection~~ — DIY ESP8266 + KY-038 sound sensor
 - [ ] Confirm Shelly count after electrical plans (E101/E102/E103) are finalized
-- [ ] Motorized window shades (TBD — if yes, need power in header during framing)
+- [x] ~~Motorized window shades~~ — Not proceeding
 - [ ] EV charger smart integration (VLAN 40)

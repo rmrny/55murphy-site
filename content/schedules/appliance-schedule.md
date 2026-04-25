@@ -14,7 +14,7 @@ Cutsheets available in `reference/Appliances/`.
 | Cooktop | Frigidaire Professional | PCCI3680AF — 36" Induction, Stainless Steel | 36 3/4" | 21 3/8" | 2 7/8" | 240V, 30A | $2,000 | Selected — confirm size with cabinet layout |
 | Wall Oven | Frigidaire Gallery | GCWS3070AF — 30" Single Electric, Stainless Steel | - | - | - | 240V, 20A | $1,600 | Selected |
 | Dishwasher | KitchenAid | KDPM604KPS — 24" Top Control Built-In 3rd Rack 44 dBA, Stainless Steel | 24 1/2" | 23 15/16" | 33 3/8" | 120V | Existing | Reuse |
-| Over-Range Microwave | Frigidaire Gallery | GMOS1964AF — 1.9 Cu Ft OTR w/ Sensor Cook, Stainless Steel | 29 7/8" | 15 3/4" | 15 5/8" | 120V, 13.5A / 400 CFM vented | $380 | Pending — verify direct cook time entry |
+| Countertop Microwave | LG | MSER2090S — 2.0 Cu Ft Smart Inverter, Stainless Steel | - | - | - | 120V, 10A | $240 | Selected |
 
 ## Pantry
 | Item | Brand | Model | Width | Depth | Height | Fuel/Power | Cost | Status |

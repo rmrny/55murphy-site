@@ -21,3 +21,8 @@ title: Kids Room - Bobby
 | Material | Color | Status |
 |----------|-------|--------|
 | TBD | TBD | Needs selection |
+
+## Window Treatments
+| Window | Treatment | Status |
+|--------|-----------|--------|
+| Double Hung (3'-0" x 4'-0") | TBD | Needs selection |

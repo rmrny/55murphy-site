@@ -23,7 +23,7 @@ title: Project Timeline
 - [ ] Finalize all owner selections (see [[decisions|Open Decisions]])
 - [ ] Get appliance cutsheets to engineer
 - [ ] Complete kitchen cabinet design
-- [ ] Decide on ERV upgrade
+- [x] ~~Decide on ERV upgrade~~ — Not proceeding
 - [ ] Complete structural engineering (foundation, framing)
 - [ ] Complete electrical design (no E-sheets exist yet)
 - [ ] Finalize all MEP plans

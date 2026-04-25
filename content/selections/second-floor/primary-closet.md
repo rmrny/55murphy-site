@@ -1,16 +1,13 @@
 ---
-title: Kids Room - Alice
+title: Primary Closet
 ---
 
-# Kids Room - Alice
+# Primary Closet
 
 ## Walls
 | Surface | Material | Color | Status |
 |---------|----------|-------|--------|
-| North | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
-| East | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
-| South | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
-| West | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
+| All Walls | Paint | Sherwin Williams White Snow (SW 9541) | Selected — Eggshell |
 
 ## Ceiling
 | Material | Color | Status |
@@ -20,7 +17,12 @@ title: Kids Room - Alice
 ## Floor
 | Material | Color | Status |
 |----------|-------|--------|
-| TBD | TBD | Needs selection |
+| AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | SELECTED |
+
+## Casework
+| Item | Description | Status |
+|------|-------------|--------|
+| Closet System | TBD | Needs selection |
 
 ## Window Treatments
 | Window | Treatment | Status |
