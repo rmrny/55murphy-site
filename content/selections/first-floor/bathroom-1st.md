@@ -33,6 +33,16 @@ title: First Floor Bathroom Selections
 | Handshower Kit | [Kohler Elate K-35331-Y](https://www.kohler.com/en/products/showers/shop-shower-heads/elate-28-three-function-handshower-kit-2-5-gpm-35331-y) | 2MB | SELECTED |
 | Shower Glass | Frameless or Semi-Frameless | TBD | Needs selection |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | RAB wafer downlights |
+| Exhaust fan | On/off | Shelly 2PM Gen3 (Ch1) | Legrand Radiant TM870STM (momentary) | 3-gang LV box + separate LV box for sensor |
+| Vanity light | On/off | Shelly 2PM Gen3 (Ch2) | Legrand Radiant TM870STM (momentary) | Allen + Roth Meredith |
+| Presence sensor | mmWave | ESPHome (ESP32 PoE + LD2450/LD2412) | — | Junction box behind blank plate, PoE |
+
+Short press = on/off, long press = dim (overhead only). See [[smarthome|Smart Home Plan]] for details.
+
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|

@@ -31,6 +31,14 @@ title: Outdoor Bathroom (Garage)
 | Shower Handshower Kit | [Kohler Awaken B110 K-99899-G-BN](https://www.kohler.com/en/products/showers/shop-shower-heads/awaken-b110-42-three-function-handshower-kit-1-75-gpm-99899-g-99899-g?skuId=99899-G-BN) | SELECTED |
 | Shower Thermostatic Valve | [Kohler Components K-T78027-4-BN](https://www.kohler.com/en/products/showers/shop-shower-trims-valves/components-thermostatic-valve-trim-w-lever-handle-t78027-4?skuId=T78027-4-BN) | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Exhaust fan | On/off | Shelly 2PM Gen3 (Ch1) | Legrand Radiant TM870STM (momentary) | 2-gang |
+| Overhead light | On/off | Shelly 2PM Gen3 (Ch2) | Legrand Radiant TM870STM (momentary) | Non-dimmable |
+
+See [[smarthome|Smart Home Plan]] for details.
+
 ## Accessories (Owner Supplied, Contractor Installs) — Kohler Components, BN
 | Item | Model | Est. Price | Status |
 |------|-------|-----------|--------|

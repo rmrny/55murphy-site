@@ -69,3 +69,11 @@ Allowance in proposal: $16,560
 | Garage Door(s) | TBD — size and style | Needs selection |
 
 Allowance in proposal: $3,450
+
+## Switching & Controls (Exterior Lighting)
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Front Porch | On/off | Shelly 1 Mini Gen3 | Legrand Radiant TM870STM (momentary) | Exterior |
+| Rear Deck | On/off | Shelly 1 Mini Gen3 | Legrand Radiant TM870STM (momentary) | Exterior |
+
+See [[smarthome|Smart Home Plan]] for details.

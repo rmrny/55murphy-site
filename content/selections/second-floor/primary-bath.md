@@ -49,6 +49,16 @@ Reference catalog: [Albatross Catalog (PDF)](https://cdn.shopify.com/s/files/1/1
 | Vanity Light | [Allen + Roth Meredith 2-Light Vanity Bar VB24-2GD](https://www.lowes.com/pd/allen-roth-AR-MEREDITH-2-LT-GOLD-BATH-LIGHT/5015238013) — $70 | Gold | SELECTED |
 | Mirror (x2) | [Moon Mirror Dual Arch Top Scalloped SS Framed 24"x36"](https://moonmirror.co/products/moon-mirror%e2%84%a2-dual-arch-top-scalloped-stainless-steel-framed-vanity-mirror-irregular-bathroom-wall-mirror-t04-s10-ca?variant=46362289045758) — $190 ea | Gold | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | RAB wafer downlights |
+| Exhaust fan | On/off | Shelly 2PM Gen3 (Ch1) | Legrand Radiant TM870STM (momentary) | 3-gang LV box + separate LV box for sensor |
+| Vanity light | On/off | Shelly 2PM Gen3 (Ch2) | Legrand Radiant TM870STM (momentary) | Allen + Roth Meredith |
+| Presence sensor | mmWave | ESPHome (ESP32 PoE + LD2450/LD2412) | — | Junction box behind blank plate, PoE |
+
+Short press = on/off, long press = dim (overhead only). See [[smarthome|Smart Home Plan]] for details.
+
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|

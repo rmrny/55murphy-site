@@ -22,6 +22,14 @@ title: Primary Bedroom Selections
 |----------|-------|----------------|--------|
 | TBD | TBD | TBD | Needs selection |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | Fan-wired box (fan capped) |
+| Ceiling fan | On/off | Shelly 1 Mini Gen3 | Legrand Radiant TM870STM (momentary) | Wired, capped at ceiling for future fan |
+
+Short press = on/off, long press = dim (lights only). See [[smarthome|Smart Home Plan]] for details.
+
 ## Window Treatments
 | Window | Treatment | Status |
 |--------|-----------|--------|

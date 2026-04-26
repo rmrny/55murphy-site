@@ -44,6 +44,16 @@ title: Second Floor Bathroom
 | Vanity Light | [Allen + Roth Meredith 2-Light Vanity Bar VB24-2GD](https://www.lowes.com/pd/allen-roth-AR-MEREDITH-2-LT-GOLD-BATH-LIGHT/5015238013) — $70 | Gold | SELECTED |
 | Mirror (x2) | [Mercer41 Margulies Metal Arch Wall Mirror](https://www.wayfair.com/home/pdp/mercer41-margulies-metal-arch-wall-mirror-w110675848.html?piid=711665634%2C709539789) — $140/pair | Gold | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | RAB wafer downlights |
+| Exhaust fan | On/off | Shelly 2PM Gen3 (Ch1) | Legrand Radiant TM870STM (momentary) | 3-gang LV box + separate LV box for sensor |
+| Vanity light | On/off | Shelly 2PM Gen3 (Ch2) | Legrand Radiant TM870STM (momentary) | Allen + Roth Meredith |
+| Presence sensor | mmWave | ESPHome (ESP32 PoE + LD2450/LD2412) | — | Junction box behind blank plate, PoE |
+
+Short press = on/off, long press = dim (overhead only). See [[smarthome|Smart Home Plan]] for details.
+
 ## Ceiling
 | Material | Color | Status |
 |----------|-------|--------|

@@ -123,6 +123,14 @@ Allowance in proposal: $5,750 (material + labor)
 |----------|-------|----------------|--------|
 | AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | [Floor & Decor](https://www.flooranddecor.com/aquaguard-performance/cocoa-waterproof-laminate-plank-100997105.html) — $2.79/sqft | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Kitchen overhead | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | Main ceiling RAB wafers |
+| Kitchen decorative | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | Pendants / accent lighting |
+
+Short press = on/off, long press = dim. See [[smarthome|Smart Home Plan]] for details.
+
 ## Window Treatments
 | Window | Treatment | Status |
 |--------|-----------|--------|

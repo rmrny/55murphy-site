@@ -32,6 +32,13 @@ title: Living Room Selections
 |----------|-------|----------------|--------|
 | AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | [Floor & Decor](https://www.flooranddecor.com/aquaguard-performance/cocoa-waterproof-laminate-plank-100997105.html) — $2.79/sqft | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | RAB wafer downlights |
+
+Short press = on/off, long press = dim. See [[smarthome|Smart Home Plan]] for details.
+
 ## Window Treatments
 | Window | Treatment | Status |
 |--------|-----------|--------|

@@ -19,6 +19,10 @@ title: Corridor / Mud Room
 |----------|-------|--------|
 | AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | SELECTED |
 
+## Switching & Controls
+
+Foyer / Mudroom / Corridor are on a single lighting zone — see [[foyer|Foyer & Stairway]] for switching details.
+
 ## Casework
 | Item | Description | Status |
 |------|-------------|--------|

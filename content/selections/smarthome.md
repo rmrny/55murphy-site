@@ -108,6 +108,7 @@ These must be communicated to the electrician during rough-in:
 | 30 | Utility Room | On/off | 1 Mini Gen3 | |
 | 31 | Garage | On/off | 1 Mini Gen3 | |
 | 32 | Cabana | On/off | 1 Mini Gen3 | |
+| 33 | Primary Closet decorative | On/off | 1 Mini Gen3 | Hanging pendant fixture |
 
 ### Shelly Quantity Summary
 
@@ -115,8 +116,8 @@ These must be communicated to the electrician during rough-in:
 |-------|-----|-----------|-------|
 | Shelly Dimmer Gen4 US (18 dimmable zones) | 18 | $49.99 | $899.82 |
 | Shelly 2PM Gen3 (3 bathrooms + outdoor bath) | 4 | $15.42 | $61.68 |
-| Shelly 1 Mini Gen3 (5 fan + 4 on/off) | 9 | $12.89 | $116.01 |
-| **Total** | **31** | | **$1,077.51** |
+| Shelly 1 Mini Gen3 (5 fan + 5 on/off) | 10 | $12.89 | $128.90 |
+| **Total** | **32** | | **$1,090.40** |
 
 > This is an estimate. Final count depends on the electrical plan (E101/E102/E103) which has not been drawn yet. Some locations may have additional switch legs that would need additional Shellys.
 
@@ -134,7 +135,7 @@ These must be communicated to the electrician during rough-in:
 | Style | Decora / designer rocker |
 | Colors | White, black, light almond, ivory |
 
-**Estimated switch cost:** 33 switches (18 dimmable + 5 fan + 10 on/off) × $23 = **~$759**
+**Estimated switch cost:** 34 switches (18 dimmable + 5 fan + 11 on/off) × $23 = **~$782**
 
 Available at [Legrand.us](https://www.legrand.us/wiring-devices/designer-switches-and-outlets/radiant-momentary-contact-switch/p/tm870stmwcc6), [Amazon](https://www.amazon.com/TM870STMWCC10-Disposal-Momentary-Decorator-Switches/dp/B001H1EP7K), Walmart, and lighting retailers.
 
@@ -296,8 +297,8 @@ Reolink doorbells → Scrypted (10.10.11.201) → Home Assistant → Companion A
 
 | Category | Cost |
 |----------|------|
-| Legrand Radiant momentary switches (33) | ~$759 |
-| **Contractor total** | **~$759** |
+| Legrand Radiant momentary switches (34) | ~$782 |
+| **Contractor total** | **~$782** |
 
 ### Owner-Furnished, Contractor-Installed
 
@@ -305,8 +306,8 @@ Reolink doorbells → Scrypted (10.10.11.201) → Home Assistant → Companion A
 |----------|------|
 | Shelly Dimmer Gen4 US (18 units) | ~$900 |
 | Shelly 2PM Gen3 (4 units) | ~$62 |
-| Shelly 1 Mini Gen3 (9 units) | ~$116 |
-| **Owner-furnished / contractor-installed total** | **~$1,078** |
+| Shelly 1 Mini Gen3 (10 units) | ~$129 |
+| **Owner-furnished / contractor-installed total** | **~$1,091** |
 
 ### Owner-Furnished & Installed (Post-Construction)
 
@@ -324,10 +325,10 @@ Reolink doorbells → Scrypted (10.10.11.201) → Home Assistant → Companion A
 
 | Category | Responsibility | Cost |
 |----------|---------------|------|
-| Momentary switches (33) | Contractor furnished + installed | ~$759 |
-| Shelly devices (31) | Owner furnished, contractor installed | ~$1,078 |
+| Momentary switches (34) | Contractor furnished + installed | ~$782 |
+| Shelly devices (32) | Owner furnished, contractor installed | ~$1,091 |
 | Sensors, shutoff valve, garage, HA | Owner furnished + installed | ~$367 |
-| **Grand total smart home** | | **~$2,204** |
+| **Grand total smart home** | | **~$2,240** |
 
 > This is separate from the networking budget ($3,175). Smart home devices are owner-provided and installed after construction is complete.
 

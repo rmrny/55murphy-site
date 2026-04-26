@@ -19,6 +19,13 @@ title: Utility Room
 |----------|-------|--------|
 | AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | On/off | Shelly 1 Mini Gen3 | Legrand Radiant TM870STM (momentary) | Non-dimmable |
+
+See [[smarthome|Smart Home Plan]] for details.
+
 ## Casework
 | Item | Description | Status |
 |------|-------------|--------|

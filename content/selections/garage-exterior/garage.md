@@ -24,6 +24,14 @@ title: Garage
 |------|-------------|--------|
 | Storage / Shelving | TBD | Needs selection |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | On/off | Shelly 1 Mini Gen3 | Legrand Radiant TM870STM (momentary) | Non-dimmable |
+| Garage door (x2) | Open/close/position | Ratgdo v32 | — | Wired to opener logic board, ESPHome over WiFi |
+
+See [[smarthome|Smart Home Plan]] for details.
+
 ## Garage Doors
 | Item | Description | Status |
 |------|-------------|--------|

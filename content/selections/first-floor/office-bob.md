@@ -26,6 +26,13 @@ title: Bob's Office
 | Desk Top | [Hardwood Reflections Acacia Butcher Block 6ft x 39"D x 1.5"H, Square Edge](https://www.homedepot.com/p/HARDWOOD-REFLECTIONS-6-ft-L-x-39-in-D-Unfinished-Acacia-Solid-Wood-Butcher-Block-Countertop-Island-with-Square-Edge-1539FJEGACA-74/313364570) — $400, unfinished, stain & seal | SELECTED |
 | Desk Frame | [Flexispot E7 Plus 4-Leg Standing Desk Frame](https://www.flexispot.com/flexispot-4-leg-standing-desk-e7plus) — $500 | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | RAB wafer downlights |
+
+Short press = on/off, long press = dim. See [[smarthome|Smart Home Plan]] for details.
+
 ## Window Treatments
 | Window | Treatment | Status |
 |--------|-----------|--------|

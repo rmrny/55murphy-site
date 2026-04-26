@@ -24,6 +24,13 @@ title: Tara's Office
 |------|-------------|--------|
 | Desk Top | Refinished butcher block from Bob's current office | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | RAB wafer downlights |
+
+Short press = on/off, long press = dim. See [[smarthome|Smart Home Plan]] for details.
+
 ## Window Treatments
 | Window | Treatment | Status |
 |--------|-----------|--------|

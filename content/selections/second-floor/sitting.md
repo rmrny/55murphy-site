@@ -19,6 +19,13 @@ title: Sitting Area
 |----------|-------|--------|
 | AquaGuard Performance Cocoa Waterproof Laminate | 12mm, 7.60" x 47.76" | SELECTED |
 
+## Switching & Controls
+| Circuit | Control | Device | Switch | Notes |
+|---------|---------|--------|--------|-------|
+| Overhead lights | Dimmable | Shelly Dimmer Gen4 | Legrand Radiant TM870STM (momentary) | RAB wafer downlights |
+
+Short press = on/off, long press = dim. See [[smarthome|Smart Home Plan]] for details.
+
 ## Casework
 | Item | Description | Status |
 |------|-------------|--------|
