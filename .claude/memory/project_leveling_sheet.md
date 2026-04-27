@@ -18,13 +18,19 @@ Bid leveling sheet created at `content/budget/leveling.md` (2026-04-25).
 - Bathrooms ($28,353.25) breaks into: Glass Door $7,475 + Accessories Install $1,150 + Plumbing Fixture $5,462.50 + Tile $14,265.75
 - Mechanicals are lump sums from subs (Electrical $38,525, HVAC $40,825, Plumbing $53,475)
 
+**Completed items:**
+- Cabinet BOM pricing: Home Surplus Quote QUO92860 — $9,675 subtotal + $641 tax = $10,315 (expires 05/25/2026). $5,785 under the $16,100 allowance.
+
 **Pending items:**
-- Cabinet BOM pricing from Home Surplus
 - Shower glass quote from supplier
+- Closet quote (need to understand what's in the $2,300 allowance)
 - Requesting Brendan break out tile labor by area (kitchen, bathrooms, garage, laundry)
 - Countertop material not selected yet
 
-**Known delta:** Plumbing fixtures ~$5K over allowance. Flooring swap (hardwood → laminate) is significant savings.
+**Known deltas:**
+- Plumbing fixtures ~$5K over allowance
+- Flooring swap (hardwood → laminate) is significant savings
+- Cabinets $5,785 under allowance
 
 **Why:** Bob needs an accurate leveling tool to compare bids when CDs go out, not just track against Brendan's proposal.
 

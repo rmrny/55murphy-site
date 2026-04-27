@@ -14,7 +14,7 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 
 | Category | Estimated Cost | Status |
 |----------|---------------|--------|
-| [[#kitchen|Kitchen]] | ~$3,980 (appliances) + cabinets selected, countertops TBD | Appliances & cabinets selected, countertops TBD |
+| [[#kitchen|Kitchen]] | ~$3,980 (appliances) + $10,315 (cabinets quoted) + countertops TBD | Appliances & cabinets selected, cabinets quoted, countertops TBD |
 | [[#laundry|Laundry]] | ~$1,440 (dryer + rack) + countertops TBD | Selected, countertops need pricing |
 | [[#pantry|Pantry]] | ~$1,400 (freezer + beverage cooler) | Selected |
 | [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$10,435 (Kohler MSRP $17,391 less 40%) | Selected |
@@ -60,6 +60,7 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | Cabinets — Base | Port & Bell Anna Caramel Harvest (ValuePlus) — see [[selections/first-floor/kitchen#cabinets|Kitchen Cabinets]] for full BOM | SELECTED |
 | Cabinets — Wall | Port & Bell Anna Snow White (ValueMax) — 42" H | SELECTED |
 | Cabinets — Crown | Anna Snow White Cove Crown (LCV48) x5 — ~18 LF | SELECTED |
+| **Cabinets — Quoted** | Home Surplus QUO92860 — $9,675 subtotal + $641 tax = **$10,315** (expires 05/25/2026) | QUOTED |
 | Countertops | TBD — Quartz / Granite / Butcher block | **Needs selection** |
 
 ---

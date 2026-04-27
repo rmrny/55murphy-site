@@ -34,6 +34,8 @@ Home renovation project at 55 Murphy Rd, Port Monmouth NJ. Riordan Family (Bob +
 - Full BOM with SKUs in kitchen.md and CSV at reference/Cabinets/55murphy-cabinet-bom.csv
 - Island: east side (microwave base, 3-drawer, trash pullout), west side (4x BH18 + filler)
 - Cove crown molding (LCV48 x5, ~18 LF)
+- **Quoted:** Home Surplus QUO92860 — $10,315 total ($9,675 + tax), expires 05/25/2026. $5,785 under $16,100 allowance.
+- Note: quote SKUs differ from selections in some places (site selections are correct, quote is budget placeholder)
 
 **Kitchen appliances (updated April 2026):**
 - Microwave changed from Frigidaire OTR to LG MSER2090S countertop ($240) in island base

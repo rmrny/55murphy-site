@@ -49,7 +49,7 @@ Installation labor for all kitchen items is included in Carpentry ($143,488).
 | Backsplash Allowance (material + labor) | $3,450 | | | |
 | — Material | | $882 | | Coastal Tile Square Cream — 70 sqft @ $10.95 |
 | — Labor | | TBD | | |
-| Cabinet Allowance (material only) | $16,100 | | | Port & Bell Anna — actual BOM cost TBD |
+| Cabinet Allowance (material only) | $16,100 | $10,315 | -$5,785 | Port & Bell Anna — Home Surplus Quote QUO92860 ($9,675 + $641 tax), expires 05/25/2026 |
 
 ### Owner Provided
 
