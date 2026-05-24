@@ -400,23 +400,24 @@ Fully specced — see [[selections/garage-av-rack|Garage AV / Network Rack]] for
 
 | Item | Model | Notes |
 |------|-------|-------|
-| AV Receiver | Onkyo TX-SR606 | Heat-sensitive, fanless — needs active rack cooling |
+| AV Receiver | Denon AVR-X1300W | 7.2-ch, 80W/ch, AirPlay 1 only (AirPort Express provides AirPlay 2) |
 | AirPlay 2 Receiver | Apple AirPort Express A1392 (2nd gen) | Wired to switch, Wi-Fi disabled inside metal cabinet |
-| Outdoor Speaker | Polk Atrium 8 SDI | Patio/deck, single-speaker stereo mode |
+| Outdoor Speaker | Polk Atrium 8 SDI | Main Zone — patio/deck, single-speaker stereo mode |
+| Garage Bookshelf Monitors | Mackie CR3 (pair, powered) | Zone 2 — sit on shelf near rack, fed via Zone 2 RCA pre-out |
 
 ### New Purchases
 
 | Item | Qty | Est. Cost | Status |
 |------|-----|-----------|--------|
-| NavePoint 12U Enclosed Wall Cabinet (23.6" / 600mm deep) | 1 | ~$200 | Specced |
-| AC Infinity CLOUDPLATE T7 (1U thermostat fan) | 1 | ~$110 | Specced |
-| Heavy-duty vented rack shelf (~15–17" deep, 50+ lb) | 1 | ~$35 | Specced |
+| NavePoint 12U Enclosed Wall Cabinet (17.7" / 450mm deep) | 1 | ~$170 | Specced |
+| Heavy-duty vented rack shelf (~14–15" deep, 50+ lb) | 1 | ~$35 | Specced |
 | Small vented 1U shelf (~10" deep, AirPort) | 1 | ~$20 | Specced |
 | Rackmount PDU, 1U, 6–8 outlet, surge | 1 | ~$40 | Specced |
 | RCA → 3.5mm cable, 1–2 ft | 1 | ~$8 | Specced |
+| RCA stereo cable, 3–6 ft (Zone 2 → CR3) | 1 | ~$8 | Specced |
 | 16/4 outdoor/in-wall speaker wire (14/4 if >50 ft) | 1 run | ~$50 | Specced — needs final length |
 | Misc: M6 cage nuts, 1U brush panel, blank panels | — | ~$25 | Specced |
-| **Garage AV subtotal** | | **~$488** | |
+| **Garage AV subtotal** | | **~$356** | |
 
 > Patch panel and Flex 2.5G switch for the garage are tracked under [[#networking|Networking & Cameras]] — they mount inside this same 12U cabinet (1U each).
 

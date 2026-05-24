@@ -440,7 +440,7 @@ Uplink from core switch port 20 (VLAN 40). All ports are IoT VLAN.
 | Cat6A patch cables (various lengths) | 30 | ~$50 | |
 | **Subtotal - Rack** | | **~$546** | |
 
-> **Garage rack:** The garage switch and patch panel live inside the 12U NavePoint AV cabinet — see [[garage-av-rack|Garage AV / Network Rack]] for the full enclosure spec, cooling, rack elevation, and rough-in requirements. The earlier 6U Tecmojo / 10" patch-panel plan was dropped because the Onkyo receiver needs a deeper cabinet.
+> **Garage rack:** The garage switch and patch panel live inside the 12U NavePoint AV cabinet — see [[garage-av-rack|Garage AV / Network Rack]] for the full enclosure spec, cooling, rack elevation, and rough-in requirements. The earlier 6U Tecmojo / 10" patch-panel plan was dropped because the 6U/10" form factor couldn't fit the receiver, AirPort Express, and shelf.
 
 #### Cameras (Reolink PoE)
 
@@ -464,7 +464,7 @@ Uplink from core switch port 20 (VLAN 40). All ports are IoT VLAN.
 | **Contractor total** | | **~$500** |
 | **Grand total** | | **~$3,069** |
 
-> Garage AV rack hardware (12U NavePoint cabinet, CLOUDPLATE fan, PDU, shelves) is tracked separately under [[../bom/index#garage-av--audio|BOM → Garage AV / Audio]] and totals **~$420**.
+> Garage AV rack hardware (12U NavePoint cabinet, PDU, shelves, cabling) is tracked separately under [[../bom/index#garage-av--audio|BOM → Garage AV / Audio]] and totals **~$356**.
 
 ### Already Own
 

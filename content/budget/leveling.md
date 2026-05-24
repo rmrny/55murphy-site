@@ -226,15 +226,14 @@ Owner-paced. Installed after Aug 31 move-back-in (or after Sept 15 CO for built-
 
 | Item | Cost | Notes |
 |------|------|-------|
-| NavePoint 12U enclosed cabinet (23.6" deep) | ~$200 | Houses Onkyo receiver + AirPort Express + switch/patch panel |
-| AC Infinity CLOUDPLATE T7 (1U thermostat fan) | ~$110 | Active cooling |
+| NavePoint 12U enclosed cabinet (17.7" / 450mm deep) | ~$170 | Houses Denon receiver + AirPort Express + switch/patch panel |
 | Heavy-duty vented rack shelf + small 1U shelf | ~$55 | |
 | Rackmount PDU (1U, 6-8 outlet, surge) | ~$40 | |
-| RCA → 3.5mm + Cat6 patch cables | ~$10 | |
+| RCA → 3.5mm + RCA stereo (Zone 2) + Cat6 patch cables | ~$18 | |
 | 16/4 outdoor/in-wall speaker wire (rack → patio) | ~$50 | 14/4 if >50 ft |
 | Misc (M6 cage nuts, brush panel, blanks) | ~$25 | |
-| Existing relocated gear (Onkyo TX-SR606, AirPort Express A1392, Polk Atrium 8 SDI) | $0 | Reuse |
-| **Garage AV Subtotal** | **~$488** | |
+| Existing relocated gear (Denon AVR-X1300W, AirPort Express A1392, Polk Atrium 8 SDI, Mackie CR3 pair) | $0 | Reuse |
+| **Garage AV Subtotal** | **~$356** | |
 
 ## C.4 Smart Home — Post-Construction {#c4-smart-home-post}
 
@@ -259,16 +258,16 @@ Owner-paced. Installed after Aug 31 move-back-in (or after Sept 15 CO for built-
 | Sitting Room Furniture | $0 | Existing furniture relocated; no built-ins |
 | **Furniture/Office Subtotal** | **~$2,100** | |
 
-### Part C Total — FFE / Post-Construction: **~$26,747**
+### Part C Total — FFE / Post-Construction: **~$26,615**
 
 | Subtotal | Cost |
 |----------|------|
 | C.1 Built-Ins (Custom Closets, quoted) | $21,223 |
 | C.2 Networking & Cameras | ~$2,569 |
-| C.3 Garage AV | ~$488 |
+| C.3 Garage AV | ~$356 |
 | C.4 Smart Home Post-Construction | ~$367 |
 | C.5 Furniture / Office | ~$2,100 |
-| **Total** | **~$26,747** |
+| **Total** | **~$26,615** |
 
 ---
 
@@ -295,8 +294,8 @@ Owner-managed line items that happen alongside or around the project. Not "goods
 | **B. Owner-Supplied, In Project Scope** | ~$57,014+ | Excludes countertops TBD |
 | **D. Project-Adjacent Owner Costs** | ~$15,000+ | Excludes TBD items |
 | **Construction Project Cost (A+B+D)** | **~$729,878+** | What it costs to complete construction by Sept 15, 2027 |
-| **C. FFE / Post-Construction** | ~$26,747 | Owner-paced, post-CO |
-| **Grand Total (A+B+C+D)** | **~$756,625+** | All-in including FFE |
+| **C. FFE / Post-Construction** | ~$26,615 | Owner-paced, post-CO |
+| **Grand Total (A+B+C+D)** | **~$756,493+** | All-in including FFE |
 
 > Some allowance items in Part A are replaced by owner items in Part B (cabinets, hardwood flooring, backsplash material, shower glass material). When the Updated column has a number lower than Proposal, Brendan's effective scope shrinks. The Grand Total above does NOT net out these allowance reductions — actual final cost will be lower as those credits flow.
 

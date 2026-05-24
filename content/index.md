@@ -43,7 +43,7 @@ What drawings exist, what's missing, and the path to a complete CD set.
 VLAN layout, UniFi equipment, camera placement, cable runs, and full shopping list.
 
 ### [[selections/garage-av-rack|Garage AV / Network Rack]]
-12U garage cabinet housing the AV receiver, network switch, patch panel, and outdoor-zone audio for the patio/deck.
+12U garage cabinet housing the Denon AV receiver, network switch, patch panel, and two audio zones — patio/deck speaker plus garage bookshelf monitors.
 
 ### [[selections/smarthome|Smart Home Plan]]
 Shelly relays, momentary switches, Zigbee sensors, Home Assistant, and automation planning.
