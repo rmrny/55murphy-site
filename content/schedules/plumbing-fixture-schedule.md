@@ -61,3 +61,16 @@ title: Plumbing Fixture Schedule
 | HWH-2 | Tankless | Rinnai/Bradford White "RTGH-199-N1" | Utility | Per P001 schedule |
 
 Both include recirculating line. Gas to water heaters and BBQ included.
+
+## Shower Enclosures {#shower-enclosures}
+
+**Supplier:** [framelessshowerdoors.com](https://www.framelessshowerdoors.com/) — USA-made, custom-cut, all-inclusive glass + hardware + packaging + shipping. Curbside delivery. **Measure and install not included.** Fabrication ~5–7 business days. Quote total **$6,162** for all 4 enclosures.
+
+| Mark | Bathroom | Type | Glass Components | Status |
+|------|----------|------|------------------|--------|
+| GL-1 | Primary Bath | Pivot Door with Glass Panels | Panel 26"w × 36"h • Panel (46" − door width) × 78"h • Door: max door width × 78"h | Quoted |
+| GL-2 | 2nd Floor Bath (Bath 1) — Kohler Avec tub | True Slider on tub | Slider 60"w × 64"h | Quoted |
+| GL-3 | 1st Floor Bath (Bath 2) | Pivot Door with Glass Panels | Panel 35"w × 36"h • Panel 28"w × 78"h • Door 26"w × 78"h | Quoted |
+| GL-4 | Outdoor Bath | Stationary Splash Guard | Panel 30"w × 78"h | Quoted |
+
+> **Final measurements required:** Vendor needs verified field dimensions once framing/tile are complete before fabrication. Bob to provide measure; install to be done by Brendan or sub (separate quote pending).

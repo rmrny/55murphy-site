@@ -26,10 +26,9 @@ title: Sitting Area
 
 Short press = on/off, long press = dim. See [[smarthome|Smart Home Plan]] for details.
 
-## Casework
-| Item | Description | Status |
-|------|-------------|--------|
-| Built-in | TBD | Needs selection |
+## Furniture (Existing — Not Built-In)
+
+Sitting room furnishings will be existing furniture brought into the room. **No built-in millwork is planned** — this was previously labeled "Built-in TBD" in error.
 
 ## Window Treatments
 | Window | Treatment | Status |

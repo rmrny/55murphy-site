@@ -164,6 +164,7 @@ Place on 2nd floor for full-house coverage. The existing U6+ (GbE only) can be r
 ```
 
 **Power chain:**
+- Wall: **dedicated 20A quad receptacle on its own circuit** behind the rack cavity (standard for all racks)
 - EcoFlow Delta 3 + Amazon Basics UPS #1 (U41-42, bottom shelf)
 - EcoFlow → power strip → switch, gateway, Hub
 - Amazon Basics → TrueNAS, Proxmox, Unraid
@@ -437,9 +438,9 @@ Uplink from core switch port 20 (VLAN 40). All ports are IoT VLAN.
 | NavePoint 2U HD Vented Cantilever Shelf (18" deep) | 4 | ~$120 | [NavePoint](https://navepoint.com/navepoint-2u-heavy-duty-vented-cantilever-shelf-18-460mm-deep/) |
 | NavePoint 1U Cantilever Shelf (14" deep) | 1 | ~$20 | [NavePoint](https://navepoint.com/19-inch-cantilever-shelf-1u-with-14-depth-ral9003-signal-white/) |
 | Cat6A patch cables (various lengths) | 30 | ~$50 | |
-| Tecmojo 6U 10" Wall Mount Cabinet (garage) | 1 | $80 | [Amazon](https://www.amazon.com/Tecmojo-Network-Cabinet-Capacity-Housing/dp/B0FN7F5K9S) |
-| 10" 8-Port Cat6A Keystone Patch Panel (garage) | 1 | $26 | [Amazon](https://www.amazon.com/Enmane-Keystone-CAT6A-Shielded-Ethernet/dp/B0FKG6PJDB) |
-| **Subtotal - Rack** | | **~$652** | |
+| **Subtotal - Rack** | | **~$546** | |
+
+> **Garage rack:** The garage switch and patch panel live inside the 12U NavePoint AV cabinet — see [[garage-av-rack|Garage AV / Network Rack]] for the full enclosure spec, cooling, rack elevation, and rough-in requirements. The earlier 6U Tecmojo / 10" patch-panel plan was dropped because the Onkyo receiver needs a deeper cabinet.
 
 #### Cameras (Reolink PoE)
 
@@ -457,11 +458,13 @@ Uplink from core switch port 20 (VLAN 40). All ports are IoT VLAN.
 |----------|---------------|------|
 | Cabling & termination | Contractor | ~$500 |
 | Networking equipment | Owner | $1,262 |
-| Rack & accessories | Owner | ~$652 |
+| Rack & accessories | Owner | ~$546 |
 | Cameras (Reolink) | Owner | $761 |
-| **Owner total** | | **~$2,675** |
+| **Owner total** | | **~$2,569** |
 | **Contractor total** | | **~$500** |
-| **Grand total** | | **~$3,175** |
+| **Grand total** | | **~$3,069** |
+
+> Garage AV rack hardware (12U NavePoint cabinet, CLOUDPLATE fan, PDU, shelves) is tracked separately under [[../bom/index#garage-av--audio|BOM → Garage AV / Audio]] and totals **~$420**.
 
 ### Already Own
 
@@ -493,5 +496,5 @@ Uplink from core switch port 20 (VLAN 40). All ports are IoT VLAN.
 - [ ] Smart switch/dimmer brand (Lutron Caseta, Inovelli, etc.)
 - [ ] Smart lock brand (Yale, Schlage, August?)
 - [ ] EV charger in garage - needs dedicated circuit, possibly VLAN 40 for smart charging
-- [ ] Garage switch location - plan mounting spot, route cables behind wall, rough in receptacle for Flex switch power
+- [x] ~~Garage switch location - plan mounting spot, route cables behind wall, rough in receptacle for Flex switch power~~ — switch + patch panel housed in 12U garage AV cabinet, see [[garage-av-rack|Garage AV / Network Rack]]
 - [x] ~~10G NICs~~ — dropped 10G plan, going all 2.5GbE with Intel I226-V add-in cards ($75 total)

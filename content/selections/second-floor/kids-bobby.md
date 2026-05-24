@@ -30,6 +30,11 @@ title: Kids Room - Bobby
 
 Short press = on/off, long press = dim (lights only). See [[smarthome|Smart Home Plan]] for details.
 
+## Casework
+| Item | Description | Status |
+|------|-------------|--------|
+| Closet System | Custom Closets and More — Kids Closet #1 (81"W × 96"H) **or** #2 (108"W × 96"H), assignment pending. Arctic White, Polished Chrome handles, side-mount soft-close drawers, slanted shoe shelves. | **Quoted** (see [[../../bom/index#built-ins\|BOM]]) — not committed |
+
 ## Window Treatments
 | Window | Treatment | Status |
 |--------|-----------|--------|

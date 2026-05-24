@@ -18,13 +18,16 @@ See [[budget/index|Budget Overview]] for the full contractor proposal breakdown 
 | [[#laundry|Laundry]] | ~$1,440 (dryer + rack) + countertops TBD | Selected, countertops need pricing |
 | [[#pantry|Pantry]] | ~$1,400 (freezer + beverage cooler) | Selected |
 | [[#bathrooms|Bathrooms — Fixtures & Accessories]] | ~$10,435 (Kohler MSRP $17,391 less 40%) | Selected |
+| [[#shower-glass|Bathrooms — Shower Enclosures]] | $6,162 material + install TBD | Quoted, install pending |
 | [[#bathroom-tile|Bathrooms — Tile]] | ~$5,879 (3 bathrooms, with 15% waste) | Selected |
+| [[#built-ins|Built-Ins (Custom Closets and More)]] | $21,222.65 (after 20% discount) | Quoted — Phase 6 (post-CO, owner-paced) |
 | [[#exterior|Exterior & Doors]] | TBD | Needs selection |
 | [[#flooring|Flooring (whole house)]] | ~$8,300 laminate (2,975 SF @ $2.79 incl. cabana) | Selected |
 | [[#paint|Paint (whole house)]] | TBD (pricing needed) | Colors selected — SW White Snow / Snowbound |
-| [[#networking|Networking & Cameras]] | ~$2,675 | Fully specced |
+| [[#networking|Networking & Cameras]] | ~$2,569 | Fully specced |
+| [[#garage-av--audio|Garage AV / Audio]] | ~$488 (existing gear relocated, $0) | Fully specced |
 | [[#smart-home|Smart Home]] | ~$2,204 | Fully specced |
-| **Known total** | **~$36,313+** | Excludes doors, paint, mirrors, countertops |
+| **Known total** | **~$64,080+** | Excludes doors, paint, mirrors, countertops, shower glass install labor. Includes Built-Ins as quoted/not committed |
 
 > **Allowances in the contractor proposal** that offset some of these costs: Countertops $5,750, Backsplash $3,450, Cabinets $16,100 (material only), Shower Glass $7,475, Hardwood Floors $26,988, Plumbing Fixture Install $5,463, Bathroom Accessories Install $1,150.
 
@@ -190,6 +193,23 @@ All fixtures are owner-supplied, contractor-installed. Installation allowance: $
 
 ---
 
+## Bathrooms — Shower Enclosures {#shower-glass}
+
+Owner-supplied glass from [framelessshowerdoors.com](https://www.framelessshowerdoors.com/). Brendan's $7,475 allowance was supply+install combined — splitting it: material owner-supplied, install labor still pending quote. **Phase 5B install — must be in by August 31, 2027 (move-back-in).** Field-measure as soon as tile is set; 5-7 business days fab + shipping.
+
+| Bathroom | Type | Cost | Status |
+|----------|------|------|--------|
+| Primary Bath | Pivot door + glass panels (46" opening) | included below | Quoted |
+| 2nd Floor Bath (Bath 1) — Avec tub | True slider 60×64 | included below | Quoted |
+| 1st Floor Bath (Bath 2) | Pivot door + glass panels (~54" opening) | included below | Quoted |
+| Outdoor Bath | Stationary splash guard 30×78 | included below | Quoted |
+| **Material total** (all 4, curbside delivery) | | **$6,162** | Quoted |
+| Install labor | | TBD from Brendan | **Pending** |
+
+See [[schedules/plumbing-fixture-schedule#shower-enclosures|Shower Enclosure Schedule]] for full dimensions per bath.
+
+---
+
 ## Bathrooms — Tile {#bathroom-tile}
 
 See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall breakdowns.
@@ -213,6 +233,26 @@ See [[schedules/tile-schedule|Tile Schedule]] for full quantities and wall break
 |------|---------|------|--------|
 | Tub Surround Wall Tile | [Viva Antic Verde](https://merolatile.com/product/viva-antic-verde-3-in-x-6-in-ceramic-wall-tile/) 3x6 Ceramic | $19.96/sqft | Selected |
 | Floor | [Antico White](https://www.thetileplug.com/products/antico-white-40x40-matte) 40x40 Matte Porcelain (Italy) | $9.19/sqft | Selected |
+
+---
+
+## Built-Ins (Custom Closets and More) {#built-ins}
+
+Owner-supplied built-ins quoted by [Custom Closets and More](https://www.closets247.com/) (designer Michael Mesh, Staten Island NY). **Quoted — not committed. Phase 6 install (post-CO, September 15, 2027 onward) — owner-paced, no critical-path deadline.** All units: Arctic White finish, Polished Chrome Modern Rectangle handles, side-mount soft-close drawers w/ maple boxes, lifetime residential warranty. Entertainment center top is Warm Sand. 4–5 week lead from deposit.
+
+| Unit | Location | Dimensions | Subtotal | After 20% NHO Discount |
+|------|----------|------------|----------|------------------------|
+| Entertainment Center | Living Room (Wall 1) | 180"W × 108"H | $6,643.17 | $5,314.54 |
+| Primary Closet | 2nd Fl Primary Bath/Closet | U-shape: 161"+94"+161" × 96"H | $12,338.54 | $9,870.83 |
+| Kids Closet #1 | 2nd Fl Kids (Alice or Bobby) | 81"W × 96"H | $3,561.43 | $2,849.14 |
+| Kids Closet #2 | 2nd Fl Kids (the other) | 108"W × 96"H | $3,985.17 | $3,188.14 |
+| **Subtotal** | | | **$26,528.31** | |
+| **New Home Owner Discount (20%)** | | | | **−$5,305.66** |
+| **Project Total** | | | | **$21,222.65** |
+
+> Brendan's $2,300 closet allowance is unchanged (still on his proposal, scope TBD per [[../decisions#contractor-clarifications-needed|Clarification B]]). The Custom Closets line is owner-direct; sitting room built-in is NOT in this quote.
+
+Quote PDF: `reference/Riordan_042826 Proposal_Built ins.pdf` (gitignored). Project total includes 4 units; deposit is 50% ($10,611.32), balance $10,611.33 on install. Material storage fee: $100/month after 4 months if delayed.
 
 ---
 
@@ -332,10 +372,10 @@ Fully specced — see [[selections/networking|Networking Requirements]] for deta
 | StarTech 42U Open Frame Rack w/ Casters | 1 | ~$356 | Specced |
 | NavePoint 2U Cantilever Shelf (18" deep) | 4 | ~$120 | Specced |
 | NavePoint 1U Cantilever Shelf (14" deep) | 1 | ~$20 | Specced |
-| Tecmojo 6U Wall Mount Cabinet (garage) | 1 | $80 | Specced |
-| 10" 8-Port Cat6A Keystone Patch Panel | 1 | $26 | Specced |
 | Cat6A patch cables (various) | 30 | ~$50 | Specced |
-| **Networking subtotal** | | **~$1,914** | |
+| **Networking subtotal** | | **~$1,808** | |
+
+> Garage cabinet, fan, and PDU moved to [[#garage-av--audio|Garage AV / Audio]] below — they live in the AV rack alongside the receiver. See [[selections/garage-av-rack|Garage AV / Network Rack]].
 
 ### Cameras (Reolink PoE)
 
@@ -348,7 +388,37 @@ Fully specced — see [[selections/networking|Networking Requirements]] for deta
 | Reolink RLC-520A (5MP dome) | 1 | $47 | Cabana interior |
 | **Camera subtotal** | **8** | **$761** | |
 
-**Networking + Cameras total: ~$2,675**
+**Networking + Cameras total: ~$2,569**
+
+---
+
+## Garage AV / Audio {#garage-av--audio}
+
+Fully specced — see [[selections/garage-av-rack|Garage AV / Network Rack]] for the full build, rack elevation, signal path, and rough-in requirements.
+
+### Existing Gear — Relocate (no cost)
+
+| Item | Model | Notes |
+|------|-------|-------|
+| AV Receiver | Onkyo TX-SR606 | Heat-sensitive, fanless — needs active rack cooling |
+| AirPlay 2 Receiver | Apple AirPort Express A1392 (2nd gen) | Wired to switch, Wi-Fi disabled inside metal cabinet |
+| Outdoor Speaker | Polk Atrium 8 SDI | Patio/deck, single-speaker stereo mode |
+
+### New Purchases
+
+| Item | Qty | Est. Cost | Status |
+|------|-----|-----------|--------|
+| NavePoint 12U Enclosed Wall Cabinet (23.6" / 600mm deep) | 1 | ~$200 | Specced |
+| AC Infinity CLOUDPLATE T7 (1U thermostat fan) | 1 | ~$110 | Specced |
+| Heavy-duty vented rack shelf (~15–17" deep, 50+ lb) | 1 | ~$35 | Specced |
+| Small vented 1U shelf (~10" deep, AirPort) | 1 | ~$20 | Specced |
+| Rackmount PDU, 1U, 6–8 outlet, surge | 1 | ~$40 | Specced |
+| RCA → 3.5mm cable, 1–2 ft | 1 | ~$8 | Specced |
+| 16/4 outdoor/in-wall speaker wire (14/4 if >50 ft) | 1 run | ~$50 | Specced — needs final length |
+| Misc: M6 cage nuts, 1U brush panel, blank panels | — | ~$25 | Specced |
+| **Garage AV subtotal** | | **~$488** | |
+
+> Patch panel and Flex 2.5G switch for the garage are tracked under [[#networking|Networking & Cameras]] — they mount inside this same 12U cabinet (1U each).
 
 ---
 

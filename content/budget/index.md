@@ -6,7 +6,7 @@ title: Budget Overview
 
 **Contractor:** Jersey Shore Contracting Services (Brendan Corrigan)
 **Proposal:** 163-3 (DRAFT)
-**Total:** $660,164.25
+**Total:** $657,864.25 *(was $660,164.25 — closets line $2,300 removed; owner handling built-ins separately)*
 
 See also: [[budget/leveling|Bid Leveling Sheet]] — line-by-line comparison of proposal vs. actual costs.
 
@@ -15,25 +15,26 @@ See also: [[budget/leveling|Bid Leveling Sheet]] — line-by-line comparison of 
 | Category | Amount | Notes |
 |----------|--------|-------|
 | **Demolition** | $5,750 | Miscellaneous demo not in other scopes |
-| **Carpentry** | $143,488 | See breakdown below |
+| **Carpentry** | $141,188 | See breakdown below — closets line removed |
 | **Kitchen** | $25,300 | Appliances $0 (owner), Cabinets $16,100 (material only) |
 | **Bathrooms** | $28,353 | Shower glass, accessories, fixtures, tile |
 | **Mechanicals** | $132,825 | Electric $38,525 + HVAC $40,825 + Plumbing $53,475 |
 | **Interior Work** | $110,708 | Drywall, insulation, painting, hardwood |
 | **Exterior Work** | $147,890 | Foundation $46K is biggest line item |
 | **General Services** | $65,850 | Includes $40K site management |
-| **TOTAL** | **$660,164** | |
+| **TOTAL** | **$657,864** | |
 
 ## Carpentry Detail
 | Item | Amount |
 |------|--------|
 | Framing (1st, 2nd, Exterior, Garage) | $95,450 |
-| Closets | $2,300 |
 | Interior Stairs & Railing | $4,600 |
 | Windows (Andersen 200 Series) | $16,560 |
 | Interior Doors | $5,865 |
 | Exterior Doors | $3,450 |
 | Molding (Base & Casings) | $15,263 |
+
+> Closets ($2,300) removed from contractor scope — owner handling built-ins separately.
 
 ## Kitchen Detail
 | Item | Amount | Type |

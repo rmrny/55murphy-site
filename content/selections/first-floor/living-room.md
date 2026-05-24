@@ -16,11 +16,13 @@ title: Living Room Selections
 ## Built-Ins & Features
 | Item | Material | Color/Finish | Status |
 |------|----------|-------------|--------|
-| Built-in Shelving | TBD | White | Needs design |
+| Entertainment Center (Wall 1) | Euro 2mm doors, 0.5mm shelves/panels — Custom Closets and More | Arctic White cabinet + Warm Sand top (2mm), Polished Chrome Modern Rectangle handles | **Quoted $5,314.54** (after 20% NHO discount) — not committed |
 | Cross-unit knee-height shelf | Wood | TBD | Color TBD |
 | Under-shelf lighting | Switch operated | - | Confirm with electrical |
 | Closet Door | Paint | White | Needs selection |
 | Glass Door Knob | [Orger Octagonal Crystal Knob, Antique Bronze Vintage Rosette](https://a.co/d/0aVSRfK2) | Antique Bronze | SELECTED |
+
+> **Entertainment Center spec:** 180"W × 108"H. Lower base cabinets with doors + glass-shelved bookcases flanking center window. See [[../../bom/index#built-ins|BOM → Built-Ins]] and `reference/Riordan_042826 Proposal_Built ins.pdf` for elevations and dimensions.
 
 ## Ceiling
 | Material | Color | Brand / Product | Status |

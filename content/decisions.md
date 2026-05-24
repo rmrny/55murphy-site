@@ -44,6 +44,8 @@ These won't block CDs but need to be resolved before the relevant work starts.
 | 19 | Multi-stage phasing plan | What order? Live-in during construction? | Added cost, schedule | Bob |
 | 20 | Solar panel reinstallation plan | Who reinstalls? When? | Coordinate with roofing | Bob |
 | 22 | Cabana bar opening — shutter & screen models | Rolling shutter + retractable screen, need exact dimensions for header framing | Blocks A103 garage annex framing — see reference/cabana_bar_opening_research.md | Bob |
+| 23 | Commit to Custom Closets and More proposal? | $21,222.65 owner-supplied. **Phase 6 install (post-CO, Sept 15, 2027 onward)** — owner-paced, no fixed deadline. Order ~August 2027 so $100/mo storage fee doesn't kick in. 50% deposit non-refundable once in production. | Phase 6 — flexible, no critical-path pressure | Bob + Tara |
+| 24 | Kids closet size assignment | Which kid gets Kids Closet #1 (81"W) vs #2 (108"W)? | Defer until decision #23 resolves | Bob + Tara |
 | ~~21~~ | ~~Bathroom accessories~~ | ~~Towel bars, TP holders, robe hooks~~ | ~~Owner-supplied~~ | ~~Done — Kohler Purist/Elate/Components in 2MB, mirrors TBD, see [[bom/index#bathrooms\|BOM]]~~ |
 
 ## Contractor Clarifications Needed
@@ -53,8 +55,9 @@ Questions for Brendan / Jersey Shore Contracting before signing the General Cond
 | # | Question | Reference |
 |---|----------|-----------|
 | A | Materials vs. labor split for porch and rear deck | Meeting notes |
-| B | What's included in $2,300 closets — wire shelving or built-ins? | Proposal |
+| ~~B~~ | ~~What's included in $2,300 closets — wire shelving or built-ins?~~ | ~~Resolved 2026-05-23 — line removed from Brendan's scope; owner handling built-ins separately~~ |
 | C | What's included in $15,263 molding beyond base and casings? | Proposal |
 | D | Are all allowances material+labor or just material? | Varies per line item |
 | E | Quantify added cost for multi-stage construction | Proposal note |
 | F | New stairwell opening framing — is that in the $95,450? | Meeting notes |
+| G | Rack rough-in scope (garage AV + utility room) — plywood backer (3/4"), **dedicated 20A quad receptacle on its own circuit at each rack** (standard for all racks), 1" conduit/smurf tube to attic, 16/4 outdoor-rated speaker run to patio, Cat6 home runs terminated at rack — included in proposal? | [[selections/garage-av-rack#new-construction-rough-in-requirements\|Garage AV Rack rough-in]] |

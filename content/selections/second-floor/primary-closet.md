@@ -30,7 +30,9 @@ Short press = on/off, long press = dim. See [[smarthome|Smart Home Plan]] for de
 ## Casework
 | Item | Description | Status |
 |------|-------------|--------|
-| Closet System | TBD | Needs selection |
+| Closet System | U-shape — Wall 2: 161"W × 96"H (shoe walls + drawers + double-hang) • Wall 3: 94"W × 96"H (hang + 3-drawer tower) • Wall 4: 161"W × 96"H (shoes + drawers + double-hang). Arctic White, Polished Chrome Modern Rectangle handles, Polished Chrome oval rod, slanted shoe shelves, side-mount soft-close drawers (maple boxes). Custom Closets and More. | **Quoted $9,870.83** (after 20% NHO discount) — not committed |
+
+> See [[../../bom/index#built-ins|BOM → Built-Ins]] and `reference/Riordan_042826 Proposal_Built ins.pdf` for elevations.
 
 ## Window Treatments
 | Window | Treatment | Status |

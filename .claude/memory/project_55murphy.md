@@ -4,7 +4,9 @@ description: Quartz static site for renovation decisions, selections, BOM, and s
 type: project
 ---
 
-Home renovation project at 55 Murphy Rd, Port Monmouth NJ. Riordan Family (Bob + Tara). Contractor is Brendan Corrigan / Jersey Shore Contracting Services. Proposal $660,164.
+Home renovation project at 55 Murphy Rd, Port Monmouth NJ. Riordan Family (Bob + Tara). Contractor is Brendan Corrigan / Jersey Shore Contracting Services. Proposal $657,864 (was $660,164; closets line $2,300 removed 2026-05-23 — owner handling built-ins separately, see [[project_vendor_commitment_hold]]).
+
+**Tentative construction schedule (set 2026-05-23, move-back-in date revised 2026-05-23):** March 15, 2027 → September 15, 2027 (6 months total). Family relocates June 25 → August 30, 2027 for the heavy interior phase (demo, framing, MEP, drywall, finishes, shower glass). **Move-back-in August 31, 2027** with all interior construction complete. Phase 5C (Aug 31 → Sept 15) is permit close-out: exterior finishes, final inspections, CO. Currently in Construction Documents phase, ~10 months until mobilization.
 
 **Site structure (Quartz v4, GitHub Pages):**
 - Homepage is decision-focused dashboard, not a flat link list
