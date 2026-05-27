@@ -181,17 +181,14 @@ Because the cabinet is an enclosed metal enclosure (effectively a Faraday cage) 
 
 -----
 
-## 9. AirPort Express Configuration (Critical)
+## 9. AirPort Express Physical Install
 
 The cabinet blocks Wi-Fi, so the AirPort Express must be wired:
 
-1. Connect the AirPort Express’s Ethernet port to the network switch.
-1. In **AirPort Utility**, set **Wireless Mode → Off** (Wi-Fi is unusable inside the metal cabinet and not needed).
-1. Set **Router Mode → Off (Bridge Mode)**.
-1. Confirm firmware is current (7.8+) so AirPlay 2 is enabled.
-1. Connect the 3.5mm audio out to the receiver’s analog input; select that input on the receiver.
+1. Connect the AirPort Express's Ethernet port to the network switch.
+2. Connect the 3.5mm audio out to the receiver's analog input; select that input on the receiver.
 
-AirPlay 2 streams to the AirPort Express over Ethernet with Wi-Fi disabled — confirmed supported behavior.
+> **Network configuration** (Wireless Mode → Off, Router Mode → Off / Bridge Mode, firmware 7.8+ for AirPlay 2, VLAN 41 assignment, mDNS reflector for cross-VLAN AirPlay discovery) is documented at `~/Developer/datacenter/network/architecture.md` — see the VLAN 41 section. AirPlay 2 streams to the AirPort Express over Ethernet with Wi-Fi disabled — confirmed supported behavior.
 
 -----
 
