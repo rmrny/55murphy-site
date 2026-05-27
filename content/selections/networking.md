@@ -4,20 +4,9 @@ title: Networking Requirements
 
 # Networking Requirements - 55 Murphy Rd
 
-## VLAN Architecture
-
-| VLAN ID | Name       | Subnet          | Purpose                                      |
-|---------|------------|-----------------|----------------------------------------------|
-| 1       | Management | 10.10.10.0/24   | Switch/AP management, UCG-Ultra               |
-| 10      | Home       | 10.10.10.0/24   | Personal devices, phones, tablets, streaming   |
-| 20      | Business   | 10.10.20.0/24   | Bob's office, Tara's office, datacenter gear   |
-| 30      | Cameras    | 10.10.30.0/24   | PoE cameras only, isolated, no internet        |
-| 40      | IoT        | 10.10.40.0/24   | Home Assistant, smart devices, HVAC controls   |
-| 50      | Datacenter | 10.10.11.0/24   | Existing server infrastructure (migrate later) |
-| 60      | Guest      | 10.10.60.0/24   | Internet-only, no access to any internal VLAN (solar hub, guest WiFi) |
-| 70      | Internal   | 10.10.70.0/24   | No internet, local-only (printers, etc.)       |
-
-> **Note:** Datacenter VLAN keeps existing 10.10.11.0/24 subnet to avoid re-addressing all servers. Can be migrated to 10.10.50.0/24 later.
+> **Scope:** Physical equipment (existing + new), hardware requirements, rack layout, cable plan, drop locations, and BOM. Use this as the design guide while writing construction documents.
+>
+> **Network configuration** (VLANs and subnets, firewall rules, WiFi SSIDs, VPN, reverse proxy, software setup) lives in `~/Developer/datacenter/network/` — the operational build doc for both software and hardware. The network is segmented into 7 traffic types (home, office, cameras, smart home, datacenter, guest, internal-printers); see `architecture.md` there for the full VLAN table.
 
 ---
 
@@ -193,7 +182,7 @@ Each 2U shelf holds 110 lbs — R5 loaded is ~25 lbs, well within capacity.
 
 ---
 
-## Camera VLAN (VLAN 30) - 7 Cameras (+1 spare port)
+## Cameras (7 + 1 spare port)
 
 | #  | Location              | Model                        | Type     | PoE  | Cable Run To  | Est. Cost |
 |----|-----------------------|------------------------------|----------|------|---------------|-----------|
@@ -220,13 +209,11 @@ Each 2U shelf holds 110 lbs — R5 loaded is ~25 lbs, well within capacity.
 | RLC-520A | 5MP | 100ft IR | IP67 | Person/vehicle/animal | Recording |
 | RLC-1240A | 12MP | 100ft IR + color spotlight | IP67/IK10 | Person/vehicle/animal | Two-way |
 
-**Firewall rules:** VLAN 30 blocked from internet. Allow VLAN 30 -> Scrypted (10.10.11.201) only.
-
 > All cameras are PoE (802.3af) and work with Scrypted for HomeKit/Home Assistant integration. No Reolink NVR needed — Scrypted handles recording and smart detection.
 
 ---
 
-## Business VLAN (VLAN 20) - Wired Drops
+## Office Drops
 
 | Location           | Floor | Drops | Devices                              |
 |--------------------|-------|-------|--------------------------------------|
@@ -238,7 +225,7 @@ Each 2U shelf holds 110 lbs — R5 loaded is ~25 lbs, well within capacity.
 
 ---
 
-## IoT / Home Assistant VLAN (VLAN 40)
+## Smart Home / Home Assistant
 
 | Device Category          | Count (est.) | Connection | Notes                           |
 |--------------------------|-------------|------------|----------------------------------|
@@ -260,7 +247,7 @@ Each 2U shelf holds 110 lbs — R5 loaded is ~25 lbs, well within capacity.
 
 ---
 
-## Home VLAN (VLAN 10) - Personal Devices
+## Living Areas - Personal Devices
 
 | Location            | Floor | Drops | Devices                              |
 |---------------------|-------|-------|--------------------------------------|
@@ -344,19 +331,6 @@ Uplink from core switch port 20 (VLAN 40). All ports are IoT VLAN.
 | 10G  | Trunk | Uplink to core switch         | 10GbE  |
 
 **Total used: 4 / 8 ports + 10G uplink = 4 spare**
-
----
-
-## WiFi SSID Plan
-
-| SSID              | VLAN | Band     | Notes                                 |
-|-------------------|------|----------|---------------------------------------|
-| Murphy-Home       | 10   | 2.4+5GHz | Personal devices, phones, tablets      |
-| Murphy-Business   | 20   | 5GHz     | Work laptops, printers                 |
-| Murphy-IoT        | 40   | 2.4GHz   | Smart devices, HVAC, appliances        |
-| Murphy-Guest      | 60   | 2.4+5GHz | Internet only, fully isolated           |
-
-> Cameras are PoE only - no WiFi SSID needed for VLAN 30.
 
 ---
 

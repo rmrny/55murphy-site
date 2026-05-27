@@ -4,12 +4,18 @@ title: Smart Home Plan
 
 # Smart Home Plan - 55 Murphy Rd
 
+> **Scope:** Physical equipment (Shelly relays, momentary switches, sensors, BOM), electrical requirements for the contractor, and hardware decisions. Use this as the design guide while writing construction documents.
+>
+> **Smart-home configuration** (Home Assistant VM setup, device-to-VLAN mapping, integrations, automations, notification flow) lives in `~/Developer/datacenter/home-assistant/` — the operational build doc for both software and the IoT side of the network.
+
+---
+
 ## Design Principles
 
 1. **Physical switches always work** — smart control is secondary, never the only way to operate a light or device
 2. **Shelly relays behind the switch** — smart relays install inside the junction box behind a standard momentary switch
 3. **Home Assistant is the hub** — all smart devices route through HA for unified control, automation, and HomeKit integration
-4. **WiFi on dedicated IoT VLAN** — all smart devices on HAL (VLAN 40, 2.4GHz), isolated from personal and business networks
+4. **WiFi-isolated on IoT networks** — smart devices are firewall-isolated from personal and business traffic. Cloud-dependent devices and local-only devices use separate SSIDs; configuration in `~/Developer/datacenter/home-assistant/`
 5. **Zigbee for sensors** — battery-powered sensors use Zigbee mesh (no WiFi dependency, no cloud dependency)
 
 ---
@@ -213,81 +219,31 @@ Mount near a smoke detector. ESPHome monitors sound level — spike above thresh
 
 Both are Zigbee 3.0 and integrate natively with HA via the Zigbee coordinator. The Aqara Valve Controller T1 clamps onto existing ball valves (DN15/DN20/DN25) — no plumbing changes needed. Also supports Matter over bridge.
 
-**Automation:** Leak sensor triggers → HA closes Aqara valve → sends critical push notification (bypasses DND) → flashes lights.
-
 ## Garage Door Openers
 
 | Device | Model | Qty | Price | Purpose |
 |--------|-------|-----|-------|---------|
 | Controller | [Ratgdo v32](https://ratcloud.llc/products/ratgdo32) | 2 | ~$45 ea | Wired to opener control board, full door control |
 
-Ratgdo wires directly into the garage door opener's logic board. Provides door position (percentage), obstruction sensor status, light control, and lock — all via ESPHome over WiFi on HAL (VLAN 40). No separate door sensor needed.
+Ratgdo wires directly into the garage door opener's logic board. Provides door position (percentage), obstruction sensor status, light control, and lock — all via ESPHome over WiFi. No separate door sensor needed.
 
 **Per door:** position tracking, open/close/stop, obstruction alerts, light toggle, lock control.
-**Automations:** Auto-close after timeout, phone notification if left open, notify on obstruction.
 
 ---
 
 ## Smart Appliances (Already Planned)
 
-These are on the IoT VLAN (HAL) and integrate with HA via their respective cloud services or local APIs.
+Cloud-connected smart appliances in the build plan. VLAN/SSID assignment and HA integration are documented in `~/Developer/datacenter/home-assistant/`.
 
-| Device | Connection | Integration |
-|--------|-----------|-------------|
-| LG HVAC (5 mini-split zones) | WiFi (HAL) | LG ThinQ → HA |
-| LG Smart Washer | WiFi (HAL) | LG ThinQ → HA |
-| LG Smart Dryer | WiFi (HAL) | LG ThinQ → HA |
-| LG Smart Fridge (kitchen) | WiFi (HAL) | LG ThinQ → HA |
-| Samsung Fridge (cabana) | WiFi (HAL) | SmartThings → HA |
+| Device | Notes |
+|--------|-------|
+| LG HVAC (5 mini-split zones) | LG ThinQ cloud, WiFi |
+| LG Smart Washer | LG ThinQ cloud, WiFi |
+| LG Smart Dryer | LG ThinQ cloud, WiFi |
+| LG Smart Fridge (kitchen) | LG ThinQ cloud, WiFi |
+| Samsung Fridge (cabana) | SmartThings cloud, WiFi |
 
----
-
-## Home Assistant Setup
-
-| Component | Detail |
-|-----------|--------|
-| Hardware | **Proxmox VM** on existing hypervisor (10.10.11.20) |
-| VM Resources | 2 vCPU, 4GB RAM, 32GB disk (adjust as needed) |
-| Network | Wired GbE on VLAN 40 (IoT), via unmanaged PoE switch on core switch port 20 |
-| Zigbee | [Sonoff ZBDongle-P](https://www.amazon.com/SONOFF-Universal-Assistant-Zigbee2MQTT-Coordinator/dp/B09KXTCMSC) (~$25) — USB passthrough from Proxmox to HA VM |
-| Integrations | Shelly, Scrypted (cameras + doorbells), LG ThinQ, SmartThings, ESPHome |
-| Notifications | HA Companion App (iOS/Android) — push via Apple/Google, works remotely |
-| Access | Web UI accessible from Home (VLAN 10) and Business (VLAN 20) via firewall rule |
-
-### Doorbell Notifications
-
-Reolink doorbells → Scrypted (10.10.11.201) → Home Assistant → Companion App → phones
-
-| Step | How |
-|------|-----|
-| Doorbell press | Reolink doorbell sends event via ONVIF to Scrypted |
-| Scrypted → HA | Scrypted integration exposes doorbell press as HA event |
-| HA automation | Triggers on doorbell event, sends notification with camera snapshot |
-| HA → phones | Companion app receives push notification with image via Apple/Google push |
-
-> **Works remotely.** Push notifications are delivered via Apple (iOS) and Google (Android) push services — no VPN required for receiving alerts. Remote dashboard access uses WireGuard VPN to reach HA on its local IP.
-
-### Notification Types
-
-| Event | Notification | Priority |
-|-------|-------------|----------|
-| Doorbell ring | Snapshot + "Someone at [door name]" | Normal |
-| Water leak detected | "Leak detected at [location] — shutting off water" | Critical (bypasses DND) |
-| Smoke/CO siren detected | "Alarm sounding — check house" | Critical (bypasses DND) |
-| Garage left open | "Garage door open for 15+ min — Close?" (actionable) | Normal |
-| Garage obstruction | "Garage door obstruction detected" | High |
-
----
-
-## Automation Ideas (Post-Install)
-
-- **Arrival/departure** — auto-lock doors, arm cameras, adjust HVAC when everyone leaves
-- **Morning routine** — gradually turn on lights at wake time, adjust HVAC
-- **Motion-activated lights** — hallways, stairs, mudroom turn on with motion, off after timeout
-- **Bathroom fan auto-run** — humidity sensor triggers exhaust fan, auto-off when humidity drops
-- **Leak detection** — immediate phone notification + shut off water (if smart valve added later)
-- **Bedtime** — all lights off, doors locked, cameras armed, HVAC night mode
-- **Laundry done** — notification when washer/dryer cycle completes
+> **Home Assistant setup, integrations, automations, and notification flow** are documented in `~/Developer/datacenter/home-assistant/`. This file covers only physical/BOM aspects.
 
 ---
 
@@ -346,4 +302,4 @@ Reolink doorbells → Scrypted (10.10.11.201) → Home Assistant → Companion A
 - [x] ~~Siren detection~~ — DIY ESP8266 + KY-038 sound sensor
 - [ ] Confirm Shelly count after electrical plans (E101/E102/E103) are finalized
 - [x] ~~Motorized window shades~~ — Not proceeding
-- [ ] EV charger smart integration (VLAN 40)
+- [ ] EV charger smart integration — purchase decision; cloud vs local-only determines VLAN (config in datacenter)
