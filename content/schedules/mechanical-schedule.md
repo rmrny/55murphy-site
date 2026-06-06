@@ -62,7 +62,7 @@ Per-system continuous outside air distribution + local exhausts.
 
 ## Water Heater
 
-Replaces earlier dual gas tankless cascade scheme (RTGR199N1 × 2). All-electric basis — no IRC Ch 24 fuel-gas scope, no gas service connection to dwelling.
+Replaces earlier dual gas tankless cascade scheme (RTGR199N1 × 2). **Dwelling envelope is all-electric** — no IRC Ch 24 fuel-gas scope inside the building, no gas-fired appliances in the conditioned envelope. Exterior NG service retained to outdoor BBQ stub only (separate stub, no envelope penetration) — does not trigger IRC Ch 24 since the regulation scope is gas piping inside / serving the dwelling.
 
 | Tag | Type | Capacity | Manufacturer | Model | Location | Status |
 |-----|------|----------|-------------|-------|----------|--------|

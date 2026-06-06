@@ -58,13 +58,15 @@ title: Plumbing Fixture Schedule
 
 > **Sync note:** Water heater spec mirrors locked code-side basis. **Source of truth:** `docs/55Murphy_EnergyCompliance.md` §10 + `docs/55Murphy_DHW_CutSheetReview.md` in the companion code/permit repo. Cross-listed in [Mechanical Equipment Schedule](mechanical-schedule.md).
 
-Single all-electric HPWH replaces the earlier dual gas tankless cascade scheme (RTGR199N1 × 2). Preserves all-electric basis — no IRC Ch 24 fuel-gas scope.
+Single all-electric HPWH replaces the earlier dual gas tankless cascade scheme (RTGR199N1 × 2). **Dwelling envelope is all-electric** — no IRC Ch 24 fuel-gas scope inside the building, no gas-fired appliances in the conditioned envelope.
 
 | Mark | Type | Capacity | Brand / Model | Location | Status |
 |------|------|----------|--------------|----------|--------|
 | HWH-1 | Hybrid Electric HPWH | 80 gal nominal / 75 gal DOE storage / 88 gal FHR | Bradford White AeroTherm G2 **RE2HP8010** | Utility room | SELECTED |
 
-Includes recirculating line per code-side recirc study (developed length to 2nd-floor Primary Bath). No gas service to dwelling — gas to BBQ no longer included.
+Includes recirculating line per code-side recirc study (developed length to 2nd-floor Primary Bath).
+
+**NG service to dwelling:** none. **NG service to exterior BBQ stub:** retained — separate stub from street to outdoor BBQ location only, no penetration of conditioned envelope. Existing Weber Genesis II NG grill reused. See [[bom/index|BoM]] BBQ entry.
 
 ## Shower Enclosures {#shower-enclosures}
 

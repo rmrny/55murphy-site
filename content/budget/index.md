@@ -88,7 +88,7 @@ See also: [[budget/leveling|Bid Leveling Sheet]] — line-by-line comparison of 
 | Solar Panel Reinstallation | TBD | Only removal included |
 | ~~ERV Unit~~ | ~~TBD + $8,500 piping~~ | Not proceeding |
 | Washer/Dryer | TBD | Owner to purchase |
-| BBQ/Grill | TBD | Gas line included |
+| BBQ/Grill | Existing Weber Genesis II S-335 NG (reuse) | Exterior NG stub to BBQ retained — included. Dwelling is all-electric (HPWH); no gas inside building. |
 | Furniture & Window Treatments | TBD | Not in scope |
 
 ---

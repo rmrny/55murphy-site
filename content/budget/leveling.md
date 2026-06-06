@@ -82,7 +82,7 @@ Installation labor for all kitchen items is included in Carpentry. Owner-supplie
 
 | Line Item | Proposal | Updated | Delta | Notes |
 |-----------|----------|---------|-------|-------|
-| Plumbing (per proposal) | $53,475 | | | Includes water heaters, gas lines, hose bibs. Owner-supplied fixtures installed by Brendan's sub — see B.1/B.2/B.3 |
+| Plumbing (per proposal) | $53,475 | TBD | TBD | **Proposal scope shifted:** water heaters changed from dual NG tankless (RTGR199N1 × 2) → single HPWH (Bradford White AeroTherm G2 RE2HP8010, all-electric — see [[schedules/mechanical-schedule#Water Heater\|Mech Schedule]]). NG line scope reduced from interior-distribution (WH + BBQ) to exterior BBQ stub only. Owner-supplied fixtures installed by Brendan's sub — see B.1/B.2/B.3. **Brendan to re-quote; expect credit for deleted gas-distribution + tankless WH scope, partially offset by HPWH electrical + condensate work.** |
 | **Subtotal** | **$53,475** | | | |
 
 ## A.8 Interior Work
