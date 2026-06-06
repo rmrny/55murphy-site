@@ -54,13 +54,17 @@ title: Plumbing Fixture Schedule
 | HB-2 | Hose Bib | Exterior | - | - | Included |
 | HB-3 | Hose Bib | Exterior | - | - | Included |
 
-## Water Heaters (Included in Proposal - $53,475 plumbing)
-| Mark | Type | Brand / Model | Location | Status |
-|------|------|--------------|----------|--------|
-| HWH-1 | Tankless | Rinnai/Bradford White?"RTGH-199-N1" | Utility | Per P001 schedule |
-| HWH-2 | Tankless | Rinnai/Bradford White "RTGH-199-N1" | Utility | Per P001 schedule |
+## Water Heater (Included in Proposal — $53,475 plumbing)
 
-Both include recirculating line. Gas to water heaters and BBQ included.
+> **Sync note:** Water heater spec mirrors locked code-side basis. **Source of truth:** `docs/55Murphy_EnergyCompliance.md` §10 + `docs/55Murphy_DHW_CutSheetReview.md` in the companion code/permit repo. Cross-listed in [Mechanical Equipment Schedule](mechanical-schedule.md).
+
+Single all-electric HPWH replaces the earlier dual gas tankless cascade scheme (RTGR199N1 × 2). Preserves all-electric basis — no IRC Ch 24 fuel-gas scope.
+
+| Mark | Type | Capacity | Brand / Model | Location | Status |
+|------|------|----------|--------------|----------|--------|
+| HWH-1 | Hybrid Electric HPWH | 80 gal nominal / 75 gal DOE storage / 88 gal FHR | Bradford White AeroTherm G2 **RE2HP8010** | Utility room | SELECTED |
+
+Includes recirculating line per code-side recirc study (developed length to 2nd-floor Primary Bath). No gas service to dwelling — gas to BBQ no longer included.
 
 ## Shower Enclosures {#shower-enclosures}
 

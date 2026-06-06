@@ -131,9 +131,9 @@ See `.claude/memory/project_vendor_commitment_hold.md` for the install/order pla
 ## Long-Lead Items to Order Early
 | Item | Typical Lead Time | Status |
 |------|------------------|--------|
-| Andersen 200 Series Windows | 4-8 weeks | Not yet ordered |
+| Pella SunDefense+ Low-E IG Windows (17 total) | 4-8 weeks | Not yet ordered |
 | Kitchen Cabinets | 6-12 weeks | Not yet designed |
-| LG HVAC Equipment | 4-6 weeks | Specified, not ordered |
-| Tankless Water Heaters | 2-4 weeks | Specified, not ordered |
+| LG HVAC Equipment (KUMXB541A outdoor + AHU-1/2/3) | 4-6 weeks | Specified, not ordered |
+| Bradford White AeroTherm G2 RE2HP8010 HPWH | 2-4 weeks | Specified, not ordered |
 | Exterior Doors | 4-8 weeks | Not yet selected |
 | Tile (specialty) | 2-6 weeks | Partially selected |
